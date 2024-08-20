@@ -3,7 +3,8 @@ function f1() {
 };
 
 function skyfootball() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn2.aluku91.foundation/uk-skysportfootball.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live2.notebulk.xyz/Yvq0kbEm2KC66NPEeL5uWA/1724200218/uk_ssepl/index.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36
+#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function skymain() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn2.aluku91.foundation/uk-skysportmain.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
