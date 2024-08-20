@@ -10,7 +10,7 @@ function(result) {
 });
 
 // jsonconnect Popular tv
-$.getJSON('https://blacktvreborn.my.id/database/liveevent/acarafavorit.json', 
+$.getJSON('acarafavorit.json', 
 function(result) {
   let acara = result.acara;
   //console.log(event);
