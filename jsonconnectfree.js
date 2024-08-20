@@ -16,7 +16,7 @@ function(result) {
   //console.log(event);
 
   $.each(nationalsp, function(i, result) {
-    $('#nationalsp').append('<div onclick="' + result.url + '()" class="nationalsp_item"><img src="' + result.poster + '" class="nationalsp_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+    $('#nationalsp').append('<div onclick="' + result.url + '()" class="national_sp_item"><img src="' + result.poster + '" class="national_sp_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
   });
 });
 
