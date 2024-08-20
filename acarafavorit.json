@@ -1,0 +1,132 @@
+{
+  "acara": [
+
+    {
+      "poster": "https://static.mncnow.id/images/channel/7841c92e/b608_r32.jpg",
+      "url": "inews",
+      "tanggal": "Seputar Inews Pagi",
+      "jam": "04:20 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/69e90852/c69c_r32.jpg",
+      "url": "inews",
+      "tanggal": "Morning Update",
+      "jam": "07:00 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/2433209e/b587_r32.jpg",
+      "url": "mnctv",
+      "tanggal": "Upin & Ipin",
+      "jam": "08:00 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/cb41aa52/55a6_r32.jpg",
+      "url": "transtvch1",
+      "tanggal": "Pagi-Pagi Ambyar",
+      "jam": "08:30 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/ffa3142a/698b_r32.jpg",
+      "url": "inews",
+      "tanggal": "Lapor Polisi",
+      "jam": "09:00 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/bd207ddd/907b_r32.jpg",
+      "url": "gtv",
+      "tanggal": "Obsesi",
+      "jam": "10:30 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/827a2d28/1ed0_r32.jpg",
+      "url": "inews",
+      "tanggal": "Inews Siang",
+      "jam": "11:00 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/b7922b45/2dc8_r32.jpg",
+      "url": "inews",
+      "tanggal": "Indonesia Memilih",
+      "jam": "12:00 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/a1072486/74a7_r32.jpg",
+      "url": "gtv",
+      "tanggal": "Spongebob Squarepants",
+      "jam": "12:30 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/e4c875d6/5e4d_r32.jpg",
+      "url": "rcti",
+      "tanggal": "Bus Jutawan",
+      "jam": "15:00 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/703b42be/03c4_r32.jpg",
+      "url": "inews",
+      "tanggal": "Realita",
+      "jam": "15:45 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/0c82a938/ac35_r32.jpg",
+      "url": "inews",
+      "tanggal": "Inews Sore",
+      "jam": "17:00 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/88ef62e5/5504_r32.jpg",
+      "url": "gtv",
+      "tanggal": "Super Deal",
+      "jam": "18:00 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/a1875cd0/661f_r32.jpg",
+      "url": "rcti",
+      "tanggal": "Ikatan Cinta",
+      "jam": "18:15 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/c0eace9b/3a61_r32.jpg",
+      "url": "mnctv",
+      "tanggal": "Family 100",
+      "jam": "19:00 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/0c31d794/7eac_r32.jpg",
+      "url": "rcti",
+      "tanggal": "Cinta Tanpa Karena",
+      "jam": "19:45 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/1784fef7/3aa3_r32.jpg",
+      "url": "inews",
+      "tanggal": "Inews Prime",
+      "jam": "20:45 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/895ef126/1dfc_r32.jpg",
+      "url": "mnctv",
+      "tanggal": "Kilau Uang Kaget dan Beda Rumah",
+      "jam": "21:00 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/c1dae1f7/137c_r32.jpg",
+      "url": "mnctv",
+      "tanggal": "Take Me Out",
+      "jam": "21:00 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/909d2a7d/4a3b_r32.jpg",
+      "url": "rcti",
+      "tanggal": "X Factor",
+      "jam": "21:15 Wib"
+    },
+    {
+      "poster": "https://static.mncnow.id/images/channel/b955548e/665c_r32.jpg",
+      "url": "gtv",
+      "tanggal": "Deg Deg an",
+      "jam": "22:00 Wib"
+    }
+    
+  ]
+}
