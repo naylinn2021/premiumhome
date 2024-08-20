@@ -12,7 +12,7 @@ function(result) {
 // jsonconnect NATIONAL SPORT
 $.getJSON('acarafavorit.json', 
 function(result) {
-  let acara = result.nationalsp;
+  let nationalsp = result.nationalsp;
   //console.log(event);
 
   $.each(nationalsp, function(i, result) {
