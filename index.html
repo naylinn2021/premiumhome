@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Black TV</title>
+  <!--font-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400&family=Roboto&display=swap"
+    rel="stylesheet">
+  <!-- style -->
+  <link href="https://blacktvreborn.my.id/home1.css" rel="stylesheet">
+  <!-- flaticon ui -->
+  <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-straight/css/uicons-regular-straight.css'>
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+</head>
+
+<body>
+  <marquee>ရုပ်သံလိုင်းများကြည့်ရှုရန် NETWORK SYREAM PLAYER နှင့် WISEPLAY PLAYERတို့ လိုအပ်ပါသည် !</marquee>
+  
+  <h1>Live Event</h1>
+  <div id="liveevent" class="live_event">
+  </div>
+
+  <h1>Popular Sport</h1>
+  <div id="sportlist" class="sportlist">
+  </div>
+
+  <h1>TV Category</h1>
+  <div class="tv_category">
+    <div class="tv-category_item">
+      <a href="go:nasional" class="btn"><i class="fi fi-rs-screen"></i><br>National</a>
+    </div>
+    <div class="tv-category_item">
+      <a href="go:sport" class="btn"><i class="fi fi-rs-volleyball"></i><br>Sport</a>
+    </div>
+    <div class="tv-category_item">
+      <a href="go:kids" class="btn"><i class="fi fi-rs-child-head"></i><br>Kids</a>
+    </div>
+    <div class="tv-category_item">
+      <a href="go:movies" class="btn"><i class="fi fi-rs-film"></i><br>Movies</a>
+    </div>
+    <div class="tv-category_item">
+      <a href="go:ent" class="btn"><i class="fi fi-rs-popcorn"></i><br>Entertaiment</a>
+    </div>
+    <div class="tv-category_item">
+      <a href="go:knowledge" class="btn"><i class="fi fi-rs-lightbulb-question"></i><br>Knowledge</a>
+    </div>
+    <div class="tv-category_item">
+      <a href="go:music" class="btn"><i class="fi fi-rs-music-alt"></i><br>Music</a>
+    </div>
+    <div class="tv-category_item">
+      <a href="go:religi" class="btn"><i class="fi fi-rs-cross-religion"></i><br>Religion</a>
+    </div>
+    <div class="tv-category_item">
+      <a href="go:daerah" class="btn"><i class="fi fi-rs-screen"></i><br>Local</a>
+    </div>
+    <div class="tv-category_item">
+      <a href="go:world" class="btn"><i class="fi fi-rs-earth-americas"></i><br>World</a>
+    </div>
+  </div>
+
+  <h1>Acara TV Popular</h1>
+  <div id="acara" class="acaratv">
+  </div>
+
+  <h1>Popular TV</h1>
+  <div class="tv">
+    <div onclick="indosiarch1()" class="tv_item">
+      <img src="https://thumbor.prod.vidiocdn.com/w4T-Uc8MlS5who-q8c3sXB128S0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" class="tv_image" />
+    </div>
+    <div onclick="dazncombat()" class="tv_item">
+      <img src="https://images.daznservices.com/di/library/DAZN_News/23/a2/dazn-combat-poster_9t52rjpt6dlp16lr1mfxg8vt6.jpg?t=-540622153&w=800" class="tv_image" />
+    </div>
+    <div onclick="nettvch2()" class="tv_item">
+      <img src="https://www.visionplus.id/images/repository/529/59529-SNAPSHOT-m.png" class="tv_image" />
+    </div>
+    <div onclick="redbulltv()" class="tv_item">
+      <img src="https://image.discovery.indazn.com/ca/v2/ca/image?id=0dfbef50-2b1f-48e9-8d59-7d726dd2922f&quality=70" class="tv_image" />
+    </div>
+    <div onclick="danznba()" class="tv_item">
+      <img src="https://image.discovery.indazn.com/ca/v2/ca/image?id=a9muho2q6vod1hv0y84x2sihe_image-header_pDach_1661948923000&quality=70" class="tv_image" />
+    </div>
+    <div onclick="rcti()" class="tv_item">
+      <img src="https://www.visionplus.id/images/repository/524/59524-SNAPSHOT-m.png" class="tv_image" />
+    </div>
+    <div onclick="gtv()" class="tv_item">
+      <img src="https://www.visionplus.id/images/repository/526/59526-SNAPSHOT-m.png" class="tv_image" />
+    </div>
+    <div onclick="transtvch1()" class="tv_item">
+      <img src="https://www.visionplus.id/images/repository/531/59531-SNAPSHOT-m.png" class="tv_image" />
+    </div>
+    <div onclick="trans7ch1()" class="tv_item">
+      <img src="https://www.visionplus.id/images/repository/532/59532-SNAPSHOT-m.png" class="tv_image" />
+    </div>
+  </div>
+
+  <!-- button trakter -->
+  <div class="trakter">
+    <a href="go:chat" class="btn-trakter"><i class="fi fi-rs-comment-alt"></i>Chat</a>
+    <a href="go:petunjuk" class="btn-trakter"><i class="fi fi-rs-comment-question"></i>Petunjuk</a>
+    <a href="go:trakter" class="btn-trakter"><i class="fi fi-rs-mug-hot"></i>Trakter Coffe</a>
+    <a href="go:telegram" class="btn-trakter"><i class="fi fi-rs-paper-plane"></i>Telegram</a>
+  </div>
+
+  <!-- <h1>Popular USA TV</h1>
+  <div id="ustv" class="tv">
+
+  </div> -->
+
+  <div class="more">
+    <h1>Movies (For BlackTV Pro)</h1>
+    <!--<h1><a href="go:allmovies">See More >></a></h1>-->
+  </div>
+  <div id="movies" class="movies">
+
+  </div>
+
+  <div class="more">
+    <h1>Radio</h1>
+    <h1><a href="go:radio">See More >></a></h1>
+  </div>
+  <div class="radio">
+    <div onclick="prambors()" class="radio_item">
+      <img src="https://blacktvreborn.my.id/asset/img/radio/prambors.jpg" class="radio_image" />
+    </div>
+    <div onclick="skfm()" class="radio_item">
+      <img src="https://blacktvreborn.my.id/asset/img/radio/skfm.jpg" class="radio_image" />
+    </div>
+    <div onclick="traxfm()" class="radio_item">
+      <img src="https://blacktvreborn.my.id/asset/img/radio/trax%20fm.jpg" class="radio_image" />
+    </div>
+    <div onclick="genfm()" class="radio_item">
+      <img src="https://blacktvreborn.my.id/asset/img/radio/gen%20fm.jpg" class="radio_image" />
+    </div>
+    <div onclick="iradio()" class="radio_item">
+      <img src="https://blacktvreborn.my.id/asset/img/radio/i%20radio.jpg" class="radio_image" />
+    </div>
+    <div onclick="hardrock()" class="radio_item">
+      <img src="https://blacktvreborn.my.id/asset/img/radio/hardrock.jpg" class="radio_image" />
+    </div>
+    <div class="radio_item">
+      <a href="go:radio" class="stretched-link"><img src="https://blacktvreborn.my.id/asset/img/radio/See%20More.png"
+          class="radio_image" /></a>
+    </div>
+  </div>
+
+  <div class="more">
+    <h1>Series (For BlackTV Pro)</h1>
+    <!--<h1><a href="go:series">See More >></a></h1>-->
+  </div>
+  <div id="series" class="movies">
+
+  </div>
+
+  <div class="more">
+    <h1>Indonesia Movies (For BlackTV Pro)</h1>
+    <!--<h1><a href="go:indonesia">See More >></a></h1>-->
+  </div>
+  <div id="indonesia" class="movies">
+
+  </div>
+
+  <!--<h1>Movies Server</h1>-->
+  <!--<div class="movies_server">-->
+  <!--  <div class="movie-server_item">-->
+  <!--    <a href="go:xxi" class="stretched-link"><img src="https://cors-proxy.elfsight.com/https://i.ibb.co/41bCM1z/indoxxi.webp"-->
+  <!--        class="movie-server_image" /></a>-->
+  <!--  </div>-->
+  <!--  <div class="movie-server_item">-->
+  <!--    <a href="go:lk21" class="stretched-link"><img src="https://cors-proxy.elfsight.com/https://i.ibb.co/QX84hVt/lk212.png"-->
+  <!--        class="movie-server_image" /></a>-->
+  <!--  </div>-->
+  <!--  <div class="movie-server_item">-->
+  <!--    <a href="go:dramaqu" class="stretched-link"><img src="https://cors-proxy.elfsight.com/https://i.ibb.co/bFZtmBQ/dramaqu.webp"-->
+  <!--        class="movie-server_image" /></a>-->
+  <!--  </div>-->
+  <!--  <div class="movie-server_item">-->
+  <!--    <a href="go:dramaus" class="stretched-link"><img src="https://cors-proxy.elfsight.com/https://i.ibb.co/0Y0bVPC/dramaus.png"-->
+  <!--        class="movie-server_image" /></a>-->
+  <!--  </div>-->
+  <!--  <div class="movie-server_item">-->
+  <!--    <a href="go:gokunime" class="stretched-link"><img src="https://cors-proxy.elfsight.com/https://i.ibb.co/W3r9xrQ/gokunime.png"-->
+  <!--        class="movie-server_image" /></a>-->
+  <!--  </div>-->
+  <!--  <div class="movie-server_item">-->
+  <!--    <a href="go:riinime" class="stretched-link"><img src="https://cors-proxy.elfsight.com/https://i.ibb.co/QjS5pRm/rieenime.png"-->
+  <!--        class="movie-server_image" /></a>-->
+  <!--  </div>-->
+  <!--</div>-->
+
+  <!-- Box Hide NSLink -->
+  <h2 style="font-size:0px; padding:-5px 0px 0px -5px;" id="objek"></h2>
+  <!-- connect json -->
+  <script src="https://blacktvreborn.my.id/jsonconnectfree.js"></script>
+  <script src="https://blacktvreborn.my.id/database/radio.js"></script>
+  <script src="https://blacktvreborn.my.id/database/nasional.js"></script>
+  <script src="https://blacktvreborn.my.id/database/sport.js"></script>
+  <script src="https://blacktvreborn.my.id/database/entertaiment.js"></script>
+  <script src="https://blacktvreborn.my.id/database/liveevent/liveevent.js"></script>
+
+  <!-- Histats.com  START  (aync)-->
+  <script type="text/javascript">var _Hasync = _Hasync || [@CCORCH@;
+    _Hasync.push(['Histats.start', '1,4784607,4,0,0,0,00010000'@CCORCH@);
+    _Hasync.push(['Histats.fasi', '1'@CCORCH@);
+    _Hasync.push(['Histats.track_hits', ''@CCORCH@);
+    (function () {
+      var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+      hs.src = ('//s10.histats.com/js15_as.js');
+      (document.getElementsByTagName('head')[0@CCORCH@ || document.getElementsByTagName('body')[0@CCORCH@).appendChild(hs);
+    })();</script>
+  <noscript><a href="/" target="_blank"><img src="//sstatic1.histats.com/0.gif?4784607&101" alt=""
+        border="0"></a></noscript>
+  <!-- Histats.com  END  -->
+
+</body>
+
+</html>
+    
