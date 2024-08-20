@@ -12,11 +12,11 @@ function(result) {
 // jsonconnect Popular tv
 $.getJSON('acarafavorit.json', 
 function(result) {
-  let acara = result.acara;
+  let acara = result.nationalsp;
   //console.log(event);
 
-  $.each(acara, function(i, result) {
-    $('#acara').append('<div onclick="' + result.url + '()" class="acaratv_item"><img src="' + result.poster + '" class="acaratv_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+  $.each(nationalsp, function(i, result) {
+    $('#acara').append('<div onclick="' + result.url + '()" class="nationalsp_item"><img src="' + result.poster + '" class="nationalsp_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
   });
 });
 
