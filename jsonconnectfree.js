@@ -9,7 +9,7 @@ function(result) {
   });
 });
 
-// jsonconnect Popular tv
+// jsonconnect NATIONAL SPORT
 $.getJSON('acarafavorit.json', 
 function(result) {
   let acara = result.nationalsp;
