@@ -1,5 +1,5 @@
 // jsonconnect live event
-$.getJSON('https://blacktvreborn.my.id/database/liveevent/liveevent.json', 
+$.getJSON('liveevent.json', 
 function(result) {
   let event = result.event;
   //console.log(event);
