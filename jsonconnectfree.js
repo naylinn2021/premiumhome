@@ -9,7 +9,7 @@ function(result) {
   });
 });
 
-// jsonconnect NATIONAL SPORT
+// jsonconnect national sport
 $.getJSON('acarafavorit.json', 
 function(result) {
   let nationalsp = result.nationalsp;
