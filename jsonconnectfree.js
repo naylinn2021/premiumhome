@@ -9,14 +9,14 @@ function(result) {
   });
 });
 
-// jsonconnect national sport
-$.getJSON('acarafavorit.json', 
+// jsonconnect Popular tv
+$.getJSON('https://blacktvreborn.my.id/database/liveevent/acarafavorit.json', 
 function(result) {
-  let nationalsp = result.nationalsp;
+  let acara = result.acara;
   //console.log(event);
 
-  $.each(nationalsp, function(i, result) {
-    $('#nationalsp').append('<div onclick="' + result.url + '()" class="national_sp_item"><img src="' + result.poster + '" class="national_sp_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+  $.each(acara, function(i, result) {
+    $('#acara').append('<div onclick="' + result.url + '()" class="acaratv_item"><img src="' + result.poster + '" class="acaratv_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
   });
 });
 
