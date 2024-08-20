@@ -117,11 +117,20 @@ document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndj
 function tpf1() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8|referer=https://dooball2you.com/origin=https://dooball2you.com/|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
+function tpf1hd() {
+document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8|referer=https://dooball2you.com/origin=https://dooball2you.com/|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
 function tpf2() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8|referer=https://dooball2you.com/origin=https://dooball2you.com/|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
+function tpf2hd() {
+document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8|referer=https://dooball2you.com/origin=https://dooball2you.com/|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
 function tpf3() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8|referer=https://dooball2you.com/origin=https://dooball2you.com/|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function tpf3hd() {
+document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8|referer=https://dooball2you.com/origin=https://dooball2you.com/|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function tpf4() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8|referer=https://dooball2you.com/origin=https://dooball2you.com/|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
