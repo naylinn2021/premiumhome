@@ -10,7 +10,7 @@ function(result) {
 });
 
 // jsonconnect national sport
-$.getJSON('acarafavorit.json', 
+$.getJSON('/acarafavorit.json', 
 function(result) {
   let nationalsp = result.nationalsp;
   //console.log(event);
