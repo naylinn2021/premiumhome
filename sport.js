@@ -45,11 +45,15 @@ document.getElementById("objek").innerHTML = '<iframe src="intent://cdn4.aluku91
 };
 function sporttv2() {
 
-document.getElementById("objek").innerHTML = '<iframe src="intent://cdn4.aluku91.foundation/pt-sporttv2.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/playlist.m3u8|referer=https://dooball2you.com/origin=https://dooball2you.com/&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function sporttv3() {
 
 document.getElementById("objek").innerHTML = '<iframe src="intent://cdn4.aluku91.foundation/pt-sporttv3.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function sporttv4() {
+
+document.getElementById("objek").innerHTML = '<iframe src="intent://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv4/playlist.m3u8|referer=https://dooball2you.com/origin=https://dooball2you.com/&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function lfctv() {
 
@@ -153,7 +157,6 @@ document.getElementById("objek").innerHTML = '<iframe src="intent://heartangtv.c
 function test3() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://live.95tv.live/channel/25/playlist.m3u8|Referer=http://live.95tv/|Origin=http://live.95tv/|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-
 
 
 
