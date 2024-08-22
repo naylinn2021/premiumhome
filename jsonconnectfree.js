@@ -8,6 +8,26 @@ function(result) {
     $('#liveevent').append('<div onclick="' + result.url + '()" class="live-event_item"><img src="' + result.poster + '" class="live-event_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
   });
 });
+// jsonconnect portugal
+$.getJSON('portugal.json', 
+function(result) {
+  let portugal = result.portugal;
+  //console.log(portugal);
+
+  $.each(portugal, function(i, result) {
+    $('#portugal').append('<div onclick="' + result.url + '()" class="portugal_item"><img src="' + result.poster + '" class="portugal_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+  });
+});
+// jsonconnect eleven
+$.getJSON('eleven.json', 
+function(result) {
+  let eleven = result.eleven;
+  //console.log(eleven);
+
+  $.each(eleven, function(i, result) {
+    $('#eleven').append('<div onclick="' + result.url + '()" class="eleven_item"><img src="' + result.poster + '" class="eleven_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+  });
+});
 
 // jsonconnect Popular tv
 $.getJSON('acarafavorit.json', 
@@ -34,22 +54,22 @@ function(result) {
 });
 
 // jsonconnect ustv
-// $.getJSON('https://blacktvreborn.my.id/database/ustv.json', 
-// function(result) {
-//   let ustv = result.ustv;
-//   console.log(ustv);
+$.getJSON('/ustv.json', 
+function(result) {
+   let ustv = result.ustv;
+   console.log(ustv);
 
-//   let kategory = 'popular';
-//   $.each(ustv, function(i, result) {
-//     if (kategory = result.kategori) {
-//       $('#ustv').append('<div id="' + result.id + '" class="sportlist_item"><img src="' + result.logo + '" class="tv_image"></div>');
-//       $('#' + result.id + '').click(function() {
-//         document.getElementById("objek").innerHTML = '<iframe src="intent://' + result.url + '?|referer=' + result.ref + '&User-Agent=' + result.useragent + '#Intent;scheme=' + result.protokol + ';type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;display:none;" title="SS Sport"></iframe>'
-//       });
-//     }
+   let kategory = 'popular';
+   $.each(ustv, function(i, result) {
+     if (kategory = result.kategori) {
+       $('#ustv').append('<div id="' + result.id + '" class="sportlist_item"><img src="' + result.logo + '" class="tv_image"></div>');
+       $('#' + result.id + '').click(function() {
+         document.getElementById("objek").innerHTML = '<iframe src="intent://' + result.url + '?|referer=' + result.ref + '&User-Agent=' + result.useragent + '#Intent;scheme=' + result.protokol + ';type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;display:none;" title="SS Sport"></iframe>'
+       });
+     }
 
-//   });
-// });
+   });
+ });
 
 //json connect movies
 $.getJSON('https://blacktvreborn.my.id/movies/source/data/movies.json', function(result) {
