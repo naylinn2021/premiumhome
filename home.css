@@ -111,6 +111,47 @@ marquee {
     object-fit: cover;
   }
   
+  /* spsport */
+  .spsport {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+
+  }
+
+  .spsport_item {
+    scroll-snap-align: center;
+
+  }
+
+  .spsport_image {
+    width: 150px;
+    height: 84px;
+    object-fit: cover;
+  }
+
+  /* starsport */
+  .starsport {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+
+  }
+
+  .starsport_item {
+    scroll-snap-align: center;
+
+  }
+
+  .starsport_image {
+    width: 150px;
+    height: 84px;
+    object-fit: cover;
+  }
 
   /* portugal */
   .portugal {
@@ -364,6 +405,46 @@ marquee {
     height: 96px;
     object-fit: cover;
   }
+  /* spsport */
+  .spsport {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .spsport_item {
+    scroll-snap-align: center;
+    align-items: stretch;
+  }
+
+  .spsport_image {
+    width: 170px;
+    height: 96px;
+    object-fit: cover;
+  }
+
+  /* starsport */
+  .starsport {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .starsport_item {
+    scroll-snap-align: center;
+    align-items: stretch;
+  }
+
+  .starsport_image {
+    width: 170px;
+    height: 96px;
+    object-fit: cover;
+  }
+  
   /* portugal */
   .portugal {
     display: flex;
@@ -582,7 +663,46 @@ marquee {
     height: 141px;
     object-fit: cover;
   }
-   /* portugal */
+   
+  /* spsport */
+  .spsport {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .spsport_item {
+    scroll-snap-align: center;
+    align-items: stretch;
+  }
+  .spsport_image {
+    width: 250px;
+    height: 141px;
+    object-fit: cover;
+  }
+
+  /* starsport */
+  .starsport {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .starsport_item {
+    scroll-snap-align: center;
+    align-items: stretch;
+  }
+  .starsport_image {
+    width: 250px;
+    height: 141px;
+    object-fit: cover;
+  }
+  
+  /* portugal */
   .portugal {
     display: flex;
     align-items: center;
@@ -601,6 +721,7 @@ marquee {
     height: 141px;
     object-fit: cover;
   }
+  
   /* eleven */
   .eleven {
     display: flex;
