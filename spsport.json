@@ -1,0 +1,31 @@
+{
+  "spsport": [
+      
+
+    {
+      "poster": "https://image.95tv.live/thumbs/180-110/public/uploads/2024-06-14/1JQfztUSR.jpg",
+      "url": "super1",
+      "tanggal": "",
+      "jam": "SUPER FOOTBALL"
+    },
+    {
+      "poster": "https://image.95tv.live/thumbs/180-110/public/uploads/2024-06-14/bicfktUSg.jpg",
+      "url": "super2",
+      "tanggal": "",
+      "jam": "SUPER LALIGA"
+    },
+    {
+      "poster": "https://f-srv-01.tiksports.net/images/logos/channels/zsupersportpremierleague.png",
+      "url": "super3",
+      "tanggal": "",
+      "jam": "SUPER EPL"
+    },
+    {
+      "poster": "https://f-srv-01.tiksports.net/images/logos/channels/line-a6.png",
+      "url": "super4",
+      "tanggal": "",
+      "jam": "SUPER RUGBY"
+    }
+    
+  ]
+}
