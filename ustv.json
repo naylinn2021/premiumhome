@@ -1,0 +1,523 @@
+{
+  "ustv": [
+    {
+      "id": "USA_Network",
+      "logo": "https://image.azencode.com/tvs/88.png",
+      "kategori": "popular",
+      "name": "usa_network",
+      "protokol": "https",
+      "url": "live-tv.yarncdn.live/us_usa/tracks-v1a1/mono.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/&User-Agent=Mozilla/5.0",
+      "ref": "https://play.ezyproxy.xyz/"
+    },
+    {
+      "id": "USA_NETWORK",
+      "logo": "https://image.azencode.com/tvs/88.png",
+      "kategori": "popular",
+      "name": "usa_network2",
+      "protokol": "https",
+      "url": "live.tv247us.com/hls/usanw.m3u8|referer=https://tv247.us/origin= https://tv247.us/&User-Agent=Mozilla/5.0",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "WWE",
+      "logo": "https://image.azencode.com/tvs/117.png",
+      "kategori": "popular",
+      "name": "WWE",
+      "protokol": "https",
+      "url": "live-tv.yarncdn.live/us_wwe/tracks-v1a1/mono.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/|&User-Agent=Mozilla/5.0",
+      "ref": "https://play.ezyproxy.xyz/"
+    },
+    {
+      "id": "HGTV_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/01/HGTV.png",
+      "kategori": "",
+      "name": "HGTV",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/hgtv.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "AnimalPlanet_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/Animal-Planet.png",
+      "kategori": "",
+      "name": "Animal Planet",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/animalplanet.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "NBC_US",
+      "logo": "https://i.imgur.com/XWPwS0N.jpeg",
+      "kategori": "",
+      "name": "NBC",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/nbc.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "BBCAmerica_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/BBC.png",
+      "kategori": "",
+      "name": "BBC America",
+      "protokol": "https",
+      "url": "bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8",
+      "ref": ""
+    },
+    {
+      "id": "FS1_US",
+      "logo": "https://image.azencode.com/upload/Livetv/usfs1.png",
+      "kategori": "popular",
+      "name": "Fox Sport 1",
+      "protokol": "https",
+      "url": "live-tv.yarncdn.live/us_fs1/tracks-v1a1/mono.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/&User-Agent=Mozilla/5.0",
+      "ref": "https://play.ezyproxy.xyz/"
+    },
+    {
+      "id": "FS2_US",
+      "logo": "https://image.azencode.com/upload/Livetv/usfs2.png",
+      "kategori": "popular",
+      "name": "Fox Sport 2",
+      "protokol": "https",
+      "url": "live-tv.yarncdn.live/us_fs2/tracks-v1a1/mono.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/&User-Agent=Mozilla/5.0",
+      "ref": "https://play.ezyproxy.xyz/"
+    },
+    {
+      "id": "ABC_US",
+      "logo": "https://i.imgur.com/T8MYrdg.jpeg",
+      "kategori": "popular",
+      "name": "ABC",
+      "protokol": "https",
+      "url": "content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8",
+      "ref": ""
+    },
+    {
+      "id": "HBO_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/HBO-1.png",
+      "kategori": "",
+      "name": "HBO",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/hbo.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "SHOWTIME_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/showtime.png",
+      "kategori": "",
+      "name": "Show Time",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/showtime.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "CINEMAX_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/cinemax-movie-max.png",
+      "kategori": "",
+      "name": "Cinemax",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/cinemaxus.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "BigTenNetwork_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/btn.png",
+      "kategori": "",
+      "name": "Big Ten Network",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/btn.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "FOX_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/Fox-1.png",
+      "kategori": "",
+      "name": "Fox",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/fox.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "NFLRedzone_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/NFL-REDZONE-From-NFL-NW.png",
+      "kategori": "",
+      "name": "NFL Redzone",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/redzone.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "MLBNetwork_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2020/07/MLB-Network.png",
+      "kategori": "",
+      "name": "MLB Network",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/mlb.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "NBATV_US",
+      "logo": "https://i.imgur.com/XWPwS0N.jpeg",
+      "kategori": "popular",
+      "name": "NBA TV",
+      "protokol": "https",
+      "url": "live.tv247us.com/hls/nba.m3u8|referer=https://tv247.us/origin=https://tv247.us/|&User-Agent=Mozilla/5.0",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "Nicktoons_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/NICKTOONS.png",
+      "kategori": "",
+      "name": "Nicktoons",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/nicktoons.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "CNBC_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2020/01/CNBC.png",
+      "kategori": "",
+      "name": "CNBC",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/cnbc.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "CBSSportsNetwork_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/CBS-Network-free-live-stream.png",
+      "kategori": "",
+      "name": "CBS Sports Network",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/cbsn.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "NickelodeonTV_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/Nickelodeon-free-live-stream.png",
+      "kategori": "",
+      "name": "Nickelodeon TV",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/nickelodeon.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "AE_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/AE-free-live-stream.png",
+      "kategori": "",
+      "name": "A&E",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/ae.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "TBS_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/TBS-free-live-stream.png",
+      "kategori": "",
+      "name": "TBS",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/tbs.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "HallmarkMoviesMysteriesTV_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/HALLMARK-MOVIES-MYSTERIES-free-live-stream.png",
+      "kategori": "",
+      "name": "Hallmark Movies & Mysteries TV",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/hallmarkmm.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "Hallmark_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/Hallmark-Channel-free-live-stream.png",
+      "kategori": "",
+      "name": "Hallmark",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/hallmark.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "BET_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/bet.png",
+      "kategori": "",
+      "name": "BET",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/bet.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "ComedyCentral_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/Comedy-Central-free-live-stream.png",
+      "kategori": "",
+      "name": "Comedy Central",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/comedy.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "NASA_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/NASA-TV-FREE-LIVE-STREAM-TV247-US.png",
+      "kategori": "",
+      "name": "Nasa",
+      "protokol": "https",
+      "url": "ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8",
+      "ref": ""
+    },
+    {
+      "id": "MAVTV_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2020/07/xdqukd.png",
+      "kategori": "",
+      "name": "MAVTV",
+      "protokol": "https",
+      "url": "mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "PBS_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/eqanuc-1.png",
+      "kategori": "",
+      "name": "PBS",
+      "protokol": "https",
+      "url": "mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "TennisChannel_US",
+      "logo": "https://i.imgur.com/V0RA7Wa.jpeg",
+      "kategori": "popular",
+      "name": "Tennis Channel",
+      "protokol": "https",
+      "url": "tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8",
+      "useragent": "",
+      "ref": ""
+    },
+    {
+      "id": "NFLREDZONE_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/NFL-network.png",
+      "kategori": "",
+      "name": "NFL REDZONE",
+      "protokol": "https",
+      "url": "webudit.hlsjs.ru/lb/wiki114/index.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "TruTV_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2023/02/trutv-free-live-stream-tv247-us.png",
+      "kategori": "",
+      "name": "TruTV",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/trutv.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "Oxygen_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/Oxygen-free-live-stream.png",
+      "kategori": "",
+      "name": "Oxygen",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/oxygen.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "CartoonNetwork_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/Cartoon-Network.png",
+      "kategori": "",
+      "name": "Cartoon Network",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/cn.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "CNN_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/12/CNN.png",
+      "kategori": "",
+      "name": "CNN",
+      "protokol": "https",
+      "url": "cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "NationalGeographic_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2020/01/National-Geographic.png",
+      "kategori": "",
+      "name": "National Geographic",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/national.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "AMC_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/12/amc-free-online.png",
+      "kategori": "",
+      "name": "AMC",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/amc.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "VH1_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2021/07/VH1.png",
+      "kategori": "",
+      "name": "VH1",
+      "protokol": "https",
+      "url": "content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "ESPN_US",
+      "logo": "https://i.imgur.com/R1nxz8g.jpeg",
+      "kategori": "popular",
+      "name": "ESPN",
+      "protokol": "https",
+      "url": "cdn.aluku91.foundation/us-espn.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/|&User-Agent=Mozilla/5.0",
+      "useragent": "android",
+      "ref": "https://365streamtv.live/"
+    },
+    {
+      "id": "ESPN 2_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN-2.png",
+      "kategori": "",
+      "name": "ESPN 2",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/e2.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "ESPN3_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN-3.png",
+      "kategori": "",
+      "name": "ESPN3",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/espn.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "ESPNU_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/espnU.png",
+      "kategori": "",
+      "name": "ESPN U",
+      "protokol": "https",
+      "url": "cdn.espnfreenew.xyz/channel/sec.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "TNT_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/TNT-US.png",
+      "kategori": "",
+      "name": "TNT",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/tnt.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "History_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/History.png",
+      "kategori": "popular",
+      "name": "History (American TV network)",
+      "protokol": "https",
+      "url": "live.tv247us.com/hls/history.m3u8|referer=https://tv247.us/origin=https://tv247.us/|&User-Agent=Mozilla/5.0",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "DiscoveryChannel_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/discovery-channel.png",
+      "kategori": "popular",
+      "name": "Discovery Channel",
+      "protokol": "https",
+      "url": "live.tv247us.com/hls/discovery.m3u8|referer=https://tv247.us/origin=https://tv247.us/|&User-Agent=Mozilla/5.0",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "MTV_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/MTV.png",
+      "kategori": "",
+      "name": "MTV",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/mtv.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "DisneyJunior_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-Junior.png",
+      "kategori": "",
+      "name": "Disney Junior",
+      "protokol": "https",
+      "url": "cdn.espnfreenew.xyz/channel/disneyjunior.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "DisneyXD_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-XD.png",
+      "kategori": "",
+      "name": "DisneyXD",
+      "protokol": "https",
+      "url": "cdn.espnfreenew.xyz/channel/disneyxd.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "DisneyChannel_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-Channel.png",
+      "kategori": "",
+      "name": "Disney Channel",
+      "protokol": "https",
+      "url": "e3.thetvapp.to/hls/DisneyChannelEast.m3u8?token=4XzVdppuncuzHmZ2e78upg&expires=1695741031",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "SECNetwork_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/Sec-network.png",
+      "kategori": "",
+      "name": "SEC Network",
+      "protokol": "https",
+      "url": "cdn.espnfreenew.xyz/channel/sec.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "ACCNetwork_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/accn.png",
+      "kategori": "",
+      "name": "ACC Network",
+      "protokol": "https",
+      "url": "cdn.espnfreenew.xyz/channel/sec.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "TravelChannel_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/travel-channel-free-live-stream-1.png",
+      "kategori": "",
+      "name": "Travel Channel",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/travel.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "FREEFORM_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/FreeForm.png",
+      "kategori": "",
+      "name": "FREEFORM",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/travel.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    }
+  ]
+}
