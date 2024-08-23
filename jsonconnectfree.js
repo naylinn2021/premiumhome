@@ -8,6 +8,27 @@ function(result) {
     $('#liveevent').append('<div onclick="' + result.url + '()" class="live-event_item"><img src="' + result.poster + '" class="live-event_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
   });
 });
+// jsonconnect spsport
+$.getJSON('spsport.json', 
+function(result) {
+  let spsport = result.spsport;
+  //console.log(spsport);
+
+  $.each(spsport, function(i, result) {
+    $('#spsport').append('<div onclick="' + result.url + '()" class="spsport_item"><img src="' + result.poster + '" class="spsport_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+  });
+});
+// jsonconnect starsport
+$.getJSON('starsport.json', 
+function(result) {
+  let starsport = result.starsport;
+  //console.log(starsport);
+
+  $.each(starsport, function(i, result) {
+    $('#starsport').append('<div onclick="' + result.url + '()" class="starsport_item"><img src="' + result.poster + '" class="starsport_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+  });
+});
+
 // jsonconnect portugal
 $.getJSON('portugal.json', 
 function(result) {
