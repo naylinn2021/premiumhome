@@ -1,0 +1,31 @@
+{
+  "portugal": [
+      
+
+    {
+      "poster": "https://image.azencode.com/tvs/36.png",
+      "url": "sporttv1",
+      "tanggal": "SPORT TV1",
+      "jam": ""
+    },
+    {
+      "poster": "https://image.azencode.com/tvs/37.png",
+      "url": "sporttv2",
+      "tanggal": "SPORT TV2",
+      "jam": ""
+    },
+    {
+      "poster": "https://image.azencode.com/tvs/38.png",
+      "url": "sporttv3",
+      "tanggal": "SPORT TV3",
+      "jam": ""
+    },
+    {
+      "poster": "https://i.imgur.com/phhTlfT.jpeg",
+      "url": "sporttv4",
+      "tanggal": "SPORT TV4",
+      "jam": ""
+    }
+    
+  ]
+}
