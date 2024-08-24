@@ -1,35 +1,19 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-START:TIME-OFFSET=0.01
-#EXT-X-MEDIA-SEQUENCE:7094
-#EXT-X-TARGETDURATION:4
-#EXT-X-KEY:METHOD=AES-128,
-URI="https://h33.ycn-download.com/keys/918454578001/1.key",
-IV=0x00000000000000000000000000000001
+
 #EXTINF:4.000,
 
-http://h33.9wastemaydan.store/r/14.js?918454578001/7094
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-iptv001.rumsport.com%2Flivetv%2F52432%2Findex.m3u8&token=cfb9d8792b24754100b9540ea328a7783d7feccd&is_vip=false&verify=1724500800-sKjEYX9BxcGz9j5b9cMk18OFQigdIJ4mMt65PZDbNmk%3D|referer=https://live-streamfootball.com/origin=https://live-streamfootball.com/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36
 #EXTINF:4.000,
 
-http://h33.9wastemaydan.store/r/14.js?918454578001/7095
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-iptv001.rumsport.com%2Flivetv%2F52432%2Findex.m3u8&token=cfb9d8792b24754100b9540ea328a7783d7feccd&is_vip=false&verify=1724500800-sKjEYX9BxcGz9j5b9cMk18OFQigdIJ4mMt65PZDbNmk%3D|referer=https://live-streamfootball.com/origin=https://live-streamfootball.com/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36
 #EXTINF:4.000,
 
-http://h33.9wastemaydan.store/r/14.js?918454578001/7096
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-iptv001.rumsport.com%2Flivetv%2F52432%2Findex.m3u8&token=cfb9d8792b24754100b9540ea328a7783d7feccd&is_vip=false&verify=1724500800-sKjEYX9BxcGz9j5b9cMk18OFQigdIJ4mMt65PZDbNmk%3D|referer=https://live-streamfootball.com/origin=https://live-streamfootball.com/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36
 #EXTINF:4.000,
 
-http://h33.9wastemaydan.store/r/14.js?918454578001/7097
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-iptv001.rumsport.com%2Flivetv%2F52432%2Findex.m3u8&token=cfb9d8792b24754100b9540ea328a7783d7feccd&is_vip=false&verify=1724500800-sKjEYX9BxcGz9j5b9cMk18OFQigdIJ4mMt65PZDbNmk%3D|referer=https://live-streamfootball.com/origin=https://live-streamfootball.com/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36
 #EXTINF:4.000,
 
-http://h33.9wastemaydan.store/r/14.js?918454578001/7098
-#EXTINF:4.000,
-
-http://h33.9wastemaydan.store/r/14.js?918454578001/7099
-#EXTINF:4.000,
-
-http://h33.9wastemaydan.store/r/14.js?918454578001/7100
-#EXTINF:4.000,
-
-http://h33.9wastemaydan.store/r/14.js?918454578001/7101
-#EXTINF:4.000,
-
-http://h33.9wastemaydan.store/r/14.js?918454578001/7102
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-iptv001.rumsport.com%2Flivetv%2F52432%2Findex.m3u8&token=cfb9d8792b24754100b9540ea328a7783d7feccd&is_vip=false&verify=1724500800-sKjEYX9BxcGz9j5b9cMk18OFQigdIJ4mMt65PZDbNmk%3D|referer=https://live-streamfootball.com/origin=https://live-streamfootball.com/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36
