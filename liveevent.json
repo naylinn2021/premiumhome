@@ -1,16 +1,8 @@
 {
   "event": [
-      
-
-    {
-      "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-08-23/MRMYVk3IR.jpg",
-      "url": "live1",
-      "tanggal": "Sevilla v Villarreal",
-      "jam": "24.8.2024 02:00"
-    },
     {
       "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-08-21/3acaeujIR.jpg",
-      "url": "tpf1hd",
+      "url": "live2",
       "tanggal": "brighton-manutd",
       "jam": "24.8.2024 06:00pm"
     },
@@ -22,7 +14,7 @@
     },
     {
       "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-08-21/3acaeujIR.jpg",
-      "url": "tpf1hd",
+      "url": "tpf2hd",
       "tanggal": "brighton-manutd",
       "jam": "24.8.2024 06:00pm"
     },
