@@ -42,7 +42,7 @@
       "kategori": "",
       "name": "Animal Planet",
       "protokol": "https",
-      "url": "live.tv247us.com/tv247/animalplanet.m3u8",
+      "url": "live.tv247us.com/hls/animalplanet.m3u8",
       "ref": "https://tv247.us/"
     },
     {
@@ -51,7 +51,7 @@
       "kategori": "",
       "name": "NBC",
       "protokol": "https",
-      "url": "live.tv247us.com/tv247/nbc.m3u8",
+      "url": "live.tv247us.com/hls/nbc.m3u8",
       "ref": "https://tv247.us/"
     },
     {
