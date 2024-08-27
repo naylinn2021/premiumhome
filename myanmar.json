@@ -25,11 +25,23 @@
       "tanggal": "CHANNEL7",
       "jam": ""
     },
-    
     {
       "poster": "https://i.imgur.com/SBUO9XQ.jpeg",
       "url": "ch7b",
       "tanggal": "CHANNEL7",
+      "jam": ""
+    },
+    {
+      "poster": "https://i.imgur.com/ZchqBSf.jpeg",
+      "url": "mahar1",
+      "tanggal": "MAHAR",
+      "jam": ""
+    },
+    
+    {
+      "poster": "https://i.imgur.com/ZchqBSf.jpeg",
+      "url": "mahar2",
+      "tanggal": "MAHAR",
       "jam": ""
     }
 
