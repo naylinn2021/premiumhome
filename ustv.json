@@ -435,7 +435,7 @@
       "kategori": "popular",
       "name": "Discovery Channel",
       "protokol": "https",
-      "url": "live.tv247us.com/hls/discovery.m3u8|referer=https://tv247.us/origin=https://tv247.us/|&User-Agent=Mozilla/5.0",
+      "url": "live.tv247us.com/hls/discovery.m3u8",
       "useragent": "android",
       "ref": "https://tv247.us/"
     },
