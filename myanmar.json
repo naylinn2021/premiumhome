@@ -3,29 +3,36 @@
       
 
     {
-      "poster": "https://image.95tv.live/thumbs/180-110/public/uploads/2024-06-14/1JQfztUSR.jpg",
-      "url": "super1",
+      "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx_8kzFi3fxfydV3HVCSXEpnPMiu7DxA13a074n6w-Em6UdQk4_ovPs6NlE6raF1s9Uzmw0hPKWilZXidnrtHxZkEWsfuC9pNdidIupOVWLtNGe12QncHQmORNZcxhWCyqd0Ave43YNCu3Q63mcFz_5VFERp8IZkE8cTzAscVkEVy905ysMPH3v7E_YfQ/s200-rw/maharbawdi.png",
+      "url": "buddha1",
       "tanggal": "",
-      "jam": "SUPER FOOTBALL"
+      "jam": "MAHARBAWDI"
     },
     {
-      "poster": "https://image.95tv.live/thumbs/180-110/public/uploads/2024-06-14/bicfktUSg.jpg",
-      "url": "super2",
-      "tanggal": "",
-      "jam": "SUPER LALIGA"
+      "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8efcX2rBvpAAhsG7DNTvxPVKmr-KYwp4SFEd3T-h8Gul1au2fpxlKD4vZOtdb8mhj6X_lyMV8ufjl_VdsOqS5fCF6_adnKsP_gTyR7lhYlKIAnmLkKczZt7OuiLzTUvaYcXTM0dTvMtQZ32uhI5viwm9I6YQioG-EpM7jArMMXitFzzXArs3j2RlSySo/s200-rw/mrtv4.png",
+      "url": "mrtv4a",
+      "tanggal": "MRTV 4",
+      "jam": "SEVER 1"
     },
     {
-      "poster": "https://f-srv-01.tiksports.net/images/logos/channels/zsupersportpremierleague.png",
-      "url": "super3",
-      "tanggal": "",
-      "jam": "SUPER EPL"
+      "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8efcX2rBvpAAhsG7DNTvxPVKmr-KYwp4SFEd3T-h8Gul1au2fpxlKD4vZOtdb8mhj6X_lyMV8ufjl_VdsOqS5fCF6_adnKsP_gTyR7lhYlKIAnmLkKczZt7OuiLzTUvaYcXTM0dTvMtQZ32uhI5viwm9I6YQioG-EpM7jArMMXitFzzXArs3j2RlSySo/s200-rw/mrtv4.png",
+      "url": "mrtv4b",
+      "tanggal": "MRTV 4",
+      "jam": "SEVER 2"
     },
     {
-      "poster": "https://f-srv-01.tiksports.net/images/logos/channels/line-a6.png",
-      "url": "super4",
-      "tanggal": "",
-      "jam": "SUPER RUGBY"
-    }
+      "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGebOyKVYdxXx7QxkTKsaMBbSefZStnZYHDfRzt-oHftiHWtAldUFoE4Y6g-3eo0ijmPdJDe8etrORXHFrzaapvQka9lOXq-ugc8UN8gv388ipgakYlgchCLGble3lDlpBj4yUXFHD4-ycRnuUBksUjRSj5cmx4mcSsG_WhoTnF2HxbD2orZLGshO66ow/s200-rw/channel.png",
+      "url": "ch7a",
+      "tanggal": "CHANNEL7",
+      "jam": "SEVER 1"
+    },
     
+    {
+      "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGebOyKVYdxXx7QxkTKsaMBbSefZStnZYHDfRzt-oHftiHWtAldUFoE4Y6g-3eo0ijmPdJDe8etrORXHFrzaapvQka9lOXq-ugc8UN8gv388ipgakYlgchCLGble3lDlpBj4yUXFHD4-ycRnuUBksUjRSj5cmx4mcSsG_WhoTnF2HxbD2orZLGshO66ow/s200-rw/channel.png",
+      "url": "ch7b",
+      "tanggal": "CHANNEL7",
+      "jam": "SEVER 2"
+    },
+
   ]
 }
