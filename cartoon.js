@@ -5,6 +5,9 @@ function pbskids() {
 function cartoonnet() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://livedth.95tv.live/memfs/e4149b1d-710d-47b5-b4b4-5c57995de2a8_output_0.m3u8?session=6czNWYREKj6ZrtrJxTf6Uo|referer=https://live.95tv.live/origin=https://live.95tv.live/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
+function toonnet() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8|referer=https://live.95tv.live/origin=https://live.95tv.live/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
 function dju() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://live.95tv.live/channel/11/chunks.m3u8|referer=https://live.95tv.live/origin=https://live.95tv.live/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
