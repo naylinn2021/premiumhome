@@ -44,6 +44,14 @@
       "tanggal": "MAHAR",
       "jam": ""
     },
+
+    {
+      "poster": "mchannel",
+      "url": "mchannel",
+      "tanggal": "MCchannel",
+      "jam": ""
+    },
+
     {
       "poster": "https://i.imgur.com/HyDADFP.jpeg",
       "url": "mntv",
@@ -55,7 +63,56 @@
       "url": "chk",
       "tanggal": "CHANNEL K",
       "jam": ""
-    }
+    },
+    
+    {
+      "poster": "_",
+      "url": "mrtv",
+      "tanggal": "MRTV HD",
+      "jam": ""
+    },
+
+    {
+      "poster": "_",
+      "url": "fortune",
+      "tanggal": "FORTUNE",
+      "jam": ""
+    },
+
+    {
+      "poster": "_",
+      "url": "mchannel",
+      "tanggal": "M CHANNEL",
+      "jam": ""
+    },
+
+    {
+      "poster": "_",
+      "url": "mitv",
+      "tanggal": "MITV",
+      "jam": ""
+    },
+
+    {
+      "poster": "_",
+      "url": "plus5",
+      "tanggal": "5-PLUS",
+      "jam": ""
+    },
+
+    {
+      "poster": "_",
+      "url": "htvsport",
+      "tanggal": "HTV SPORT",
+      "jam": ""
+    },
+    {
+      "poster": "_",
+      "url": "htv",
+      "tanggal": "HTV",
+      "jam": ""
+    },
+
 
   ]
 }
