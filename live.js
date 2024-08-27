@@ -1,5 +1,5 @@
 function live1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1724780482-0-0-c4bb210cda85da7ffdd9eea4828d11f3|referer=https://m.cakhia79.uno/origin=https://m.cakhia79.uno/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1724780482-0-0-c4bb210cda85da7ffdd9eea4828d11f3|referer=https://m.cakhia79.uno/origin=https://m.cakhia79.uno/&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://live.95tv.live/channel/27/playlist.m3u8|referer=https://95tv.live/origin=https://95tv.live/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
