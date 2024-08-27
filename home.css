@@ -245,12 +245,12 @@ marquee {
     scroll-snap-type: x mandatory;
   }
 
-  .acaratv_item {
+  .sport2_item {
     scroll-snap-align: center;
     align-items: stretch;
   }
 
-  .acaratv_image {
+  .sport2_image {
     width: 120px;
     height: 68px;
     object-fit: cover;
