@@ -235,6 +235,26 @@ marquee {
     height: 68px;
     object-fit: cover;
   }
+  
+  /* FUL HD SPORT */
+  .sport2 {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .acaratv_item {
+    scroll-snap-align: center;
+    align-items: stretch;
+  }
+
+  .acaratv_image {
+    width: 120px;
+    height: 68px;
+    object-fit: cover;
+  }
 
   /* TV Category */
   .tv_category {
