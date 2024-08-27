@@ -39,14 +39,14 @@ function(result) {
     $('#portugal').append('<div onclick="' + result.url + '()" class="portugal_item"><img src="' + result.poster + '" class="portugal_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
   });
 });
-// jsonconnect eleven
-$.getJSON('eleven.json', 
+// jsonconnect cartoon
+$.getJSON('cartoon.json', 
 function(result) {
-  let eleven = result.eleven;
-  //console.log(eleven);
+  let cartoon = result.cartoon;
+  //console.log(cartoon);
 
-  $.each(eleven, function(i, result) {
-    $('#eleven').append('<div onclick="' + result.url + '()" class="eleven_item"><img src="' + result.poster + '" class="eleven_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+  $.each(cartoon, function(i, result) {
+    $('#cartoon').append('<div onclick="' + result.url + '()" class="cartoon_item"><img src="' + result.poster + '" class="cartoon_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
   });
 });
 
