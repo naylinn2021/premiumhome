@@ -841,6 +841,26 @@ marquee {
     object-fit: cover;
   }
 
+  /* THAI TV */
+  .thaitv {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .thaitv_item {
+    scroll-snap-align: center;
+    align-items: stretch;
+  }
+
+  .thaitv_image {
+    width: 250px;
+    height: 141px;
+    object-fit: cover;
+  }
+
   /* sportlist */
   .sportlist {
     display: flex;
