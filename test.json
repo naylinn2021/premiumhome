@@ -156,7 +156,7 @@
     {
       "id": "NBATV_US",
       "logo": "https://i.imgur.com/XWPwS0N.jpeg",
-      "kategori": "popular",
+      "kategori": "",
       "name": "NBA TV",
       "protokol": "https",
       "url": "live.tv247us.com/hls/nba.m3u8|referer=https://tv247.us/origin=https://tv247.us/|&User-Agent=Mozilla/5.0",
