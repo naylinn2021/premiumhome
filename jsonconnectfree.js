@@ -132,7 +132,6 @@ function(result) {
 
    });
  });
-
 //json connect movies
 $.getJSON('https://blacktvreborn.my.id/movies/source/data/movies.json', function(result) {
   let movies = result.movies;
