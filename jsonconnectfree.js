@@ -115,6 +115,17 @@ function(result) {
    });
  });
 
+// jsonconnect thaitv
+$.getJSON('test.json', 
+function(result) {
+  let thaitv = result.thaitv;
+  //console.log(thaitv);
+
+  $.each(thaitv, function(i, result) {
+    $('#thaitv').append('<div onclick="' + result.url + '()" class="thaitv_item"><img src="' + result.poster + '" class="thaitv_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+  });
+});
+
 //json connect movies
 $.getJSON('https://blacktvreborn.my.id/movies/source/data/movies.json', function(result) {
   let movies = result.movies;
