@@ -116,7 +116,7 @@ function(result) {
  });
 
 // jsonconnect thaitv
-$.getJSON('/thaitv.json', 
+$.getJSON('/test.json', 
 function(result) {
    let thaitv = result.thaitv;
    console.log(ustv);
