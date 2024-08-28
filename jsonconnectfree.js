@@ -116,15 +116,22 @@ function(result) {
  });
 
 // jsonconnect thaitv
-$.getJSON('test.json', 
+$.getJSON('/thaitv.json', 
 function(result) {
-  let thaitv = result.thaitv;
-  //console.log(thaitv);
+   let thaitv = result.thaitv;
+   console.log(ustv);
 
-  $.each(thaitv, function(i, result) {
-    $('#thaitv').append('<div onclick="' + result.url + '()" class="thaitv_item"><img src="' + result.poster + '" class="thaitv_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
-  });
-});
+   let kategory = 'popular';
+   $.each(thaitv, function(i, result) {
+     if (kategory = result.kategori) {
+       $('#thaitv').append('<div id="' + result.id + '" class="sportlist_item"><img src="' + result.logo + '" class="tv_image"></div>');
+       $('#' + result.id + '').click(function() {
+         document.getElementById("objek").innerHTML = '<iframe src="intent://' + result.url + '?|referer=' + result.ref + '&User-Agent=' + result.useragent + '#Intent;scheme=' + result.protokol + ';type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;display:none;" title="SS Sport"></iframe>'
+       });
+     }
+
+   });
+ });
 
 //json connect movies
 $.getJSON('https://blacktvreborn.my.id/movies/source/data/movies.json', function(result) {
