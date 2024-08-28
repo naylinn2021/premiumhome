@@ -1,0 +1,224 @@
+[
+  {
+    "category": "Thai Free TV",
+    "title": "Workpoint TV",
+    "logo": "https://iptv36.my.to/logo/workpoint.png",
+    "Url": "https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "NBT FHD",
+    "logo": "https://iptv36.my.to/logo/nbt.png",
+    "Url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "Thai PBS FHD",
+    "logo": "https://iptv36.my.to/logo/thaipbs.png",
+    "Url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "ALTV FHD",
+    "logo": "https://iptv36.my.to/logo/altv.png",
+    "Url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "TV5 FHD",
+    "logo": "https://iptv36.my.to/logo/tv5.png",
+    "Url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "PPTV HD",
+    "logo": "https://iptv36.my.to/logo/pptv.png",
+    "Url": "https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "T-Sports",
+    "logo": "https://iptv36.my.to/logo/tsports.png",
+    "Url": "https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "CH8",
+    "logo": "https://iptv36.my.to/logo/ch8.png",
+    "Url": "https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8"
+  },
+  {
+    "category": "Other",
+    "title": "Cartoon Club",
+    "logo": "https://iptv36.my.to/logo/cartoonclub.png",
+    "Url": "https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "TPTV FHD",
+    "logo": "https://iptv36.my.to/logo/tptv.png",
+    "Url": "https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "ONE HD",
+    "logo": "https://iptv36.my.to/logo/one.png",
+    "Url": "https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "Thairath TV HD",
+    "logo": "https://iptv36.my.to/logo/thairath.png",
+    "Url": "https://streaming-web.thairath.co.th/live/playlist_hd/index.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "CH3 HD",
+    "logo": "https://iptv36.my.to/logo/ch3.png",
+    "Url": "https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "Amarin TV HD",
+    "logo": "https://iptv36.my.to/logo/amarin.png",
+    "Url": "https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "CH7 HD",
+    "logo": "https://iptv36.my.to/logo/ch7.png",
+    "Url": "https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "TNN16 HD",
+    "logo": "https://iptv36.my.to/logo/tnn16.png",
+    "Url": "https://iptv36.vercel.app/api/true?channel=tnn16hd"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "True4U",
+    "logo": "https://iptv36.my.to/logo/true4u.png",
+    "Url": "https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "JKN18",
+    "logo": "https://iptv36.my.to/logo/jkn18.png",
+    "Url": "https://hls-test.v2h-cdn.com/hls/NEW_114.m3u8"
+  },
+  {
+    "category": "Other",
+    "title": "[เสีย] TVB Thai FHD",
+    "logo": "https://iptv36.my.to/logo/tvb.png",
+    "Url": "https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8"
+  },
+  {
+    "category": "Other",
+    "title": "[เสีย] Boomerang HD",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",
+    "Url": "https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "Nation TV",
+    "logo": "https://iptv36.my.to/logo/nation.png",
+    "Url": "https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "Nation TV",
+    "logo": "https://iptv36.my.to/logo/nation.png",
+    "Url": "https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "Workpoint TV FHD",
+    "logo": "https://iptv36.my.to/logo/workpoint.png",
+    "Url": "https://iptv36.vercel.app/api/twitch?channel=workpointofficial"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "True4U",
+    "logo": "https://iptv36.my.to/logo/true4u.png",
+    "Url": "https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "GMM25 HD",
+    "logo": "https://iptv36.my.to/logo/gmm25.png",
+    "Url": "https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "GMM25",
+    "logo": "https://iptv36.my.to/logo/gmm25.png",
+    "Url": "https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "CH8 HD",
+    "logo": "https://iptv36.my.to/logo/ch8.png",
+    "Url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "MONO29 Soundtrack FHD",
+    "logo": "https://iptv36.my.to/logo/mono29.png",
+    "Url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "MONO29 FHD",
+    "logo": "https://iptv36.my.to/logo/mono29.png",
+    "Url": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "MCOT FHD",
+    "logo": "https://iptv36.my.to/logo/mcot.png",
+    "Url": "https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "ONE HD",
+    "logo": "https://iptv36.my.to/logo/one.png",
+    "Url": "https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "Thairath TV HD",
+    "logo": "https://iptv36.my.to/logo/thairath.png",
+    "Url": "https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/manifest.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "CH3 HD",
+    "logo": "https://iptv36.my.to/logo/ch3.png",
+    "Url": "https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "Amarin TV FHD",
+    "logo": "https://iptv36.my.to/logo/amarin.png",
+    "Url": "https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1724849325&x_ark_path_prefix=%2Ffleetstream%2Famarin-live%2F&x_ark_signature=lheP7JgYMjDB8eHYIMbavg"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "CH7 FHD",
+    "logo": "https://iptv36.my.to/logo/ch7.png",
+    "Url": "https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "PPTV FHD",
+    "logo": "https://iptv36.my.to/logo/pptv.png",
+    "Url": "https://pptv36-1tsjfj.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1724838601&x_ark_path_prefix=%2Flive%2F&x_ark_signature=lRnbAkoMaAhdChqfeeNmPw"
+  },
+  {
+    "category": "Thai Free TV",
+    "title": "2024-08-28T10:52",
+    "logo": "https://iptv36.my.to/logo/info.png",
+    "Url": "https://iptv36.my.to/logo/info.png"
+  }
+]
