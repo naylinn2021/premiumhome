@@ -256,6 +256,26 @@ marquee {
     height: 68px;
     object-fit: cover;
   }
+  /* thaitv */
+  .thaitv {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+
+  }
+
+  .thai_item {
+    scroll-snap-align: center;
+
+  }
+
+  .thai_image {
+    width: 150px;
+    height: 84px;
+    object-fit: cover;
+  }
   
   /* FULL HD SPORT */
   .sport2 {
