@@ -93,3 +93,4 @@ function moviech3() {
 function sonycine() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://gmlive.ddns.net:5000/kun5g/kun5g2024/32|user-agent=ExoPlayerLib/2.15.1#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
+
