@@ -1,225 +1,523 @@
 {
-  "thaitv":[
-  {
-    "category": "Thai Free TV",
-    "title": "Workpoint TV",
-    "logo": "https://iptv36.my.to/logo/workpoint.png",
-    "Url": "https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "NBT FHD",
-    "logo": "https://iptv36.my.to/logo/nbt.png",
-    "Url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "Thai PBS FHD",
-    "logo": "https://iptv36.my.to/logo/thaipbs.png",
-    "Url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "ALTV FHD",
-    "logo": "https://iptv36.my.to/logo/altv.png",
-    "Url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "TV5 FHD",
-    "logo": "https://iptv36.my.to/logo/tv5.png",
-    "Url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "PPTV HD",
-    "logo": "https://iptv36.my.to/logo/pptv.png",
-    "Url": "https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "T-Sports",
-    "logo": "https://iptv36.my.to/logo/tsports.png",
-    "Url": "https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "CH8",
-    "logo": "https://iptv36.my.to/logo/ch8.png",
-    "Url": "https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8"
-  },
-  {
-    "category": "Other",
-    "title": "Cartoon Club",
-    "logo": "https://iptv36.my.to/logo/cartoonclub.png",
-    "Url": "https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "TPTV FHD",
-    "logo": "https://iptv36.my.to/logo/tptv.png",
-    "Url": "https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "ONE HD",
-    "logo": "https://iptv36.my.to/logo/one.png",
-    "Url": "https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "Thairath TV HD",
-    "logo": "https://iptv36.my.to/logo/thairath.png",
-    "Url": "https://streaming-web.thairath.co.th/live/playlist_hd/index.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "CH3 HD",
-    "logo": "https://iptv36.my.to/logo/ch3.png",
-    "Url": "https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "Amarin TV HD",
-    "logo": "https://iptv36.my.to/logo/amarin.png",
-    "Url": "https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "CH7 HD",
-    "logo": "https://iptv36.my.to/logo/ch7.png",
-    "Url": "https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "TNN16 HD",
-    "logo": "https://iptv36.my.to/logo/tnn16.png",
-    "Url": "https://iptv36.vercel.app/api/true?channel=tnn16hd"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "True4U",
-    "logo": "https://iptv36.my.to/logo/true4u.png",
-    "Url": "https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "JKN18",
-    "logo": "https://iptv36.my.to/logo/jkn18.png",
-    "Url": "https://hls-test.v2h-cdn.com/hls/NEW_114.m3u8"
-  },
-  {
-    "category": "Other",
-    "title": "[เสีย] TVB Thai FHD",
-    "logo": "https://iptv36.my.to/logo/tvb.png",
-    "Url": "https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8"
-  },
-  {
-    "category": "Other",
-    "title": "[เสีย] Boomerang HD",
-    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",
-    "Url": "https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "Nation TV",
-    "logo": "https://iptv36.my.to/logo/nation.png",
-    "Url": "https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "Nation TV",
-    "logo": "https://iptv36.my.to/logo/nation.png",
-    "Url": "https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "Workpoint TV FHD",
-    "logo": "https://iptv36.my.to/logo/workpoint.png",
-    "Url": "https://iptv36.vercel.app/api/twitch?channel=workpointofficial"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "True4U",
-    "logo": "https://iptv36.my.to/logo/true4u.png",
-    "Url": "https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "GMM25 HD",
-    "logo": "https://iptv36.my.to/logo/gmm25.png",
-    "Url": "https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "GMM25",
-    "logo": "https://iptv36.my.to/logo/gmm25.png",
-    "Url": "https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "CH8 HD",
-    "logo": "https://iptv36.my.to/logo/ch8.png",
-    "Url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "MONO29 Soundtrack FHD",
-    "logo": "https://iptv36.my.to/logo/mono29.png",
-    "Url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "MONO29 FHD",
-    "logo": "https://iptv36.my.to/logo/mono29.png",
-    "Url": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "MCOT FHD",
-    "logo": "https://iptv36.my.to/logo/mcot.png",
-    "Url": "https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "ONE HD",
-    "logo": "https://iptv36.my.to/logo/one.png",
-    "Url": "https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "Thairath TV HD",
-    "logo": "https://iptv36.my.to/logo/thairath.png",
-    "Url": "https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/manifest.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "CH3 HD",
-    "logo": "https://iptv36.my.to/logo/ch3.png",
-    "Url": "https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "Amarin TV FHD",
-    "logo": "https://iptv36.my.to/logo/amarin.png",
-    "Url": "https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1724849325&x_ark_path_prefix=%2Ffleetstream%2Famarin-live%2F&x_ark_signature=lheP7JgYMjDB8eHYIMbavg"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "CH7 FHD",
-    "logo": "https://iptv36.my.to/logo/ch7.png",
-    "Url": "https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "PPTV FHD",
-    "logo": "https://iptv36.my.to/logo/pptv.png",
-    "Url": "https://pptv36-1tsjfj.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1724838601&x_ark_path_prefix=%2Flive%2F&x_ark_signature=lRnbAkoMaAhdChqfeeNmPw"
-  },
-  {
-    "category": "Thai Free TV",
-    "title": "2024-08-28T10:52",
-    "logo": "https://iptv36.my.to/logo/info.png",
-    "Url": "https://iptv36.my.to/logo/info.png"
-  }
-]
+  "thaitv": [
+    {
+      "id": "Workpoint_TV",
+      "logo": "https://iptv36.my.to/logo/workpoint.png",
+      "kategori": "popular",
+      "name": "workpoint_tv",
+      "protokol": "https",
+      "url": "edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8",
+      "ref": "https://iptv36.vercel.app/"
+    },
+    {
+      "id": "USA_NETWORK",
+      "logo": "https://image.azencode.com/tvs/88.png",
+      "kategori": "",
+      "name": "usa_network2",
+      "protokol": "https",
+      "url": "live.tv247us.com/hls/usanw.m3u8|referer=https://tv247.us/origin= https://tv247.us/&User-Agent=Mozilla/5.0",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "WWE",
+      "logo": "https://image.azencode.com/tvs/117.png",
+      "kategori": "",
+      "name": "WWE",
+      "protokol": "https",
+      "url": "live-tv.yarncdn.live/us_wwe/tracks-v1a1/mono.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/|&User-Agent=Mozilla/5.0",
+      "ref": "https://play.ezyproxy.xyz/"
+    },
+    {
+      "id": "HGTV_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/01/HGTV.png",
+      "kategori": "",
+      "name": "HGTV",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/hgtv.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "AnimalPlanet_US",
+      "logo": "https://i.imgur.com/39rDwlr.jpeg",
+      "kategori": "",
+      "name": "Animal Planet",
+      "protokol": "https",
+      "url": "live.tv247us.com/hls/animalplanet.m3u8|referer=https://tv247.us/origin= https://tv247.us/&User-Agent=Mozilla/5.0",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "NBC_US",
+      "logo": "https://i.imgur.com/XWPwS0N.jpeg",
+      "kategori": "",
+      "name": "NBC",
+      "protokol": "https",
+      "url": "live.tv247us.com/hls/nbc.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "BBCAmerica_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/BBC.png",
+      "kategori": "",
+      "name": "BBC America",
+      "protokol": "https",
+      "url": "bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8",
+      "ref": ""
+    },
+    {
+      "id": "FS1_US",
+      "logo": "https://image.azencode.com/upload/Livetv/usfs1.png",
+      "kategori": "",
+      "name": "Fox Sport 1",
+      "protokol": "https",
+      "url": "live-tv.yarncdn.live/us_fs1/tracks-v1a1/mono.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/&User-Agent=Mozilla/5.0",
+      "ref": "https://play.ezyproxy.xyz/"
+    },
+    {
+      "id": "FS2_US",
+      "logo": "https://image.azencode.com/upload/Livetv/usfs2.png",
+      "kategori": "",
+      "name": "Fox Sport 2",
+      "protokol": "https",
+      "url": "live-tv.yarncdn.live/us_fs2/tracks-v1a1/mono.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/&User-Agent=Mozilla/5.0",
+      "ref": "https://play.ezyproxy.xyz/"
+    },
+    {
+      "id": "ABC_US",
+      "logo": "https://i.imgur.com/T8MYrdg.jpeg",
+      "kategori": "",
+      "name": "ABC",
+      "protokol": "https",
+      "url": "content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8",
+      "ref": ""
+    },
+    {
+      "id": "HBO_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/HBO-1.png",
+      "kategori": "",
+      "name": "HBO",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/hbo.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "SHOWTIME_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/showtime.png",
+      "kategori": "",
+      "name": "Show Time",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/showtime.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "CINEMAX_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/cinemax-movie-max.png",
+      "kategori": "",
+      "name": "Cinemax",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/cinemaxus.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "BigTenNetwork_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/btn.png",
+      "kategori": "",
+      "name": "Big Ten Network",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/btn.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "FOX_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/Fox-1.png",
+      "kategori": "",
+      "name": "Fox",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/fox.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "NFLRedzone_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/NFL-REDZONE-From-NFL-NW.png",
+      "kategori": "",
+      "name": "NFL Redzone",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/redzone.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "MLBNetwork_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2020/07/MLB-Network.png",
+      "kategori": "",
+      "name": "MLB Network",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/mlb.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "NBATV_US",
+      "logo": "https://i.imgur.com/XWPwS0N.jpeg",
+      "kategori": "popular",
+      "name": "NBA TV",
+      "protokol": "https",
+      "url": "live.tv247us.com/hls/nba.m3u8|referer=https://tv247.us/origin=https://tv247.us/|&User-Agent=Mozilla/5.0",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "Nicktoons_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/NICKTOONS.png",
+      "kategori": "",
+      "name": "Nicktoons",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/nicktoons.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "CNBC_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2020/01/CNBC.png",
+      "kategori": "",
+      "name": "CNBC",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/cnbc.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "CBSSportsNetwork_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/CBS-Network-free-live-stream.png",
+      "kategori": "",
+      "name": "CBS Sports Network",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/cbsn.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "NickelodeonTV_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/Nickelodeon-free-live-stream.png",
+      "kategori": "",
+      "name": "Nickelodeon TV",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/nickelodeon.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "AE_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/AE-free-live-stream.png",
+      "kategori": "",
+      "name": "A&E",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/ae.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "TBS_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/TBS-free-live-stream.png",
+      "kategori": "",
+      "name": "TBS",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/tbs.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "HallmarkMoviesMysteriesTV_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/HALLMARK-MOVIES-MYSTERIES-free-live-stream.png",
+      "kategori": "",
+      "name": "Hallmark Movies & Mysteries TV",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/hallmarkmm.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "Hallmark_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/Hallmark-Channel-free-live-stream.png",
+      "kategori": "",
+      "name": "Hallmark",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/hallmark.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "BET_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/bet.png",
+      "kategori": "",
+      "name": "BET",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/bet.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "ComedyCentral_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/Comedy-Central-free-live-stream.png",
+      "kategori": "",
+      "name": "Comedy Central",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/comedy.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "NASA_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/NASA-TV-FREE-LIVE-STREAM-TV247-US.png",
+      "kategori": "",
+      "name": "Nasa",
+      "protokol": "https",
+      "url": "ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8",
+      "ref": ""
+    },
+    {
+      "id": "MAVTV_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2020/07/xdqukd.png",
+      "kategori": "",
+      "name": "MAVTV",
+      "protokol": "https",
+      "url": "mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "PBS_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/eqanuc-1.png",
+      "kategori": "",
+      "name": "PBS",
+      "protokol": "https",
+      "url": "mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "TennisChannel_US",
+      "logo": "https://i.imgur.com/V0RA7Wa.jpeg",
+      "kategori": "popular",
+      "name": "Tennis Channel",
+      "protokol": "https",
+      "url": "tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8",
+      "useragent": "",
+      "ref": ""
+    },
+    {
+      "id": "NFLREDZONE_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/NFL-network.png",
+      "kategori": "",
+      "name": "NFL REDZONE",
+      "protokol": "https",
+      "url": "webudit.hlsjs.ru/lb/wiki114/index.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "TruTV_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2023/02/trutv-free-live-stream-tv247-us.png",
+      "kategori": "",
+      "name": "TruTV",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/trutv.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "Oxygen_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/Oxygen-free-live-stream.png",
+      "kategori": "",
+      "name": "Oxygen",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/oxygen.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "CartoonNetwork_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/Cartoon-Network.png",
+      "kategori": "",
+      "name": "Cartoon Network",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/cn.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "CNN_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/12/CNN.png",
+      "kategori": "",
+      "name": "CNN",
+      "protokol": "https",
+      "url": "cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "NationalGeographic_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2020/01/National-Geographic.png",
+      "kategori": "",
+      "name": "National Geographic",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/national.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "AMC_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/12/amc-free-online.png",
+      "kategori": "",
+      "name": "AMC",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/amc.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "VH1_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2021/07/VH1.png",
+      "kategori": "",
+      "name": "VH1",
+      "protokol": "https",
+      "url": "content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "ESPN_US",
+      "logo": "https://i.imgur.com/R1nxz8g.jpeg",
+      "kategori": "",
+      "name": "ESPN",
+      "protokol": "https",
+      "url": "cdn.aluku91.foundation/us-espn.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/|&User-Agent=Mozilla/5.0",
+      "useragent": "android",
+      "ref": "https://365streamtv.live/"
+    },
+    {
+      "id": "ESPN 2_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN-2.png",
+      "kategori": "",
+      "name": "ESPN 2",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/e2.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "ESPN3_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN-3.png",
+      "kategori": "",
+      "name": "ESPN3",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/espn.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "ESPNU_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/espnU.png",
+      "kategori": "",
+      "name": "ESPN U",
+      "protokol": "https",
+      "url": "cdn.espnfreenew.xyz/channel/sec.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "TNT_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/TNT-US.png",
+      "kategori": "",
+      "name": "TNT",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/tnt.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "History_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/History.png",
+      "kategori": "popular",
+      "name": "History (American TV network)",
+      "protokol": "https",
+      "url": "live.tv247us.com/hls/history.m3u8|referer=https://tv247.us/origin=https://tv247.us/|&User-Agent=Mozilla/5.0",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "DiscoveryChannel_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/discovery-channel.png",
+      "kategori": "popular",
+      "name": "Discovery Channel",
+      "protokol": "https",
+      "url": "live.tv247us.com/hls/discovery.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "MTV_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/MTV.png",
+      "kategori": "",
+      "name": "MTV",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/mtv.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "DisneyJunior_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-Junior.png",
+      "kategori": "",
+      "name": "Disney Junior",
+      "protokol": "https",
+      "url": "cdn.espnfreenew.xyz/channel/disneyjunior.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "DisneyXD_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-XD.png",
+      "kategori": "",
+      "name": "DisneyXD",
+      "protokol": "https",
+      "url": "cdn.espnfreenew.xyz/channel/disneyxd.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "DisneyChannel_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-Channel.png",
+      "kategori": "",
+      "name": "Disney Channel",
+      "protokol": "https",
+      "url": "e3.thetvapp.to/hls/DisneyChannelEast.m3u8?token=4XzVdppuncuzHmZ2e78upg&expires=1695741031",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "SECNetwork_US",
+      "logo": "https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/Sec-network.png",
+      "kategori": "",
+      "name": "SEC Network",
+      "protokol": "https",
+      "url": "cdn.espnfreenew.xyz/channel/sec.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "ACCNetwork_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/accn.png",
+      "kategori": "",
+      "name": "ACC Network",
+      "protokol": "https",
+      "url": "cdn.espnfreenew.xyz/channel/sec.m3u8",
+      "useragent": "android",
+      "ref": ""
+    },
+    {
+      "id": "TravelChannel_US",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/travel-channel-free-live-stream-1.png",
+      "kategori": "",
+      "name": "Travel Channel",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/travel.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    },
+    {
+      "id": "FREEFORM_US",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/FreeForm.png",
+      "kategori": "",
+      "name": "FREEFORM",
+      "protokol": "https",
+      "url": "live.tv247us.com/tv247/travel.m3u8",
+      "useragent": "android",
+      "ref": "https://tv247.us/"
+    }
+  ]
+}
