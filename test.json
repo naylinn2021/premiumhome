@@ -21,7 +21,7 @@
     {
       "id": "TV5",
       "logo": "https://iptv36.my.to/logo/tv5.png",
-      "kategori": "",
+      "kategori": "popular",
       "name": "tv5",
       "protokol": "https",
       "url": "639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
