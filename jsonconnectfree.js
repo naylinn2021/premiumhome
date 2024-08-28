@@ -51,6 +51,7 @@ function(result) {
     $('#portugal').append('<div onclick="' + result.url + '()" class="portugal_item"><img src="' + result.poster + '" class="portugal_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
   });
 });
+
 // jsonconnect cartoon
 $.getJSON('cartoon.json', 
 function(result) {
