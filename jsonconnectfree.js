@@ -119,7 +119,7 @@ function(result) {
 $.getJSON('/test.json', 
 function(result) {
    let thaitv = result.thaitv;
-   console.log(ustv);
+   console.log(thaitv);
 
    let kategory = 'popular';
    $.each(thaitv, function(i, result) {
