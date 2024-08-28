@@ -10,13 +10,13 @@
       "ref": "https://iptv36.vercel.app/"
     },
     {
-      "id": "USA_NETWORK",
-      "logo": "https://image.azencode.com/tvs/88.png",
-      "kategori": "",
-      "name": "usa_network2",
+      "id": "PPTV HD",
+      "logo": "https://iptv36.my.to/logo/pptv.png",
+      "kategori": "popular",
+      "name": "pptv_hd",
       "protokol": "https",
-      "url": "live.tv247us.com/hls/usanw.m3u8|referer=https://tv247.us/origin= https://tv247.us/&User-Agent=Mozilla/5.0",
-      "ref": "https://tv247.us/"
+      "url": "edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8",
+      "ref": "https://iptv36.vercel.app/"
     },
     {
       "id": "WWE",
@@ -282,7 +282,7 @@
     {
       "id": "TennisChannel_US",
       "logo": "https://i.imgur.com/V0RA7Wa.jpeg",
-      "kategori": "popular",
+      "kategori": "",
       "name": "Tennis Channel",
       "protokol": "https",
       "url": "tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8",
@@ -422,7 +422,7 @@
     {
       "id": "History_US",
       "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/History.png",
-      "kategori": "popular",
+      "kategori": "",
       "name": "History (American TV network)",
       "protokol": "https",
       "url": "live.tv247us.com/hls/history.m3u8|referer=https://tv247.us/origin=https://tv247.us/|&User-Agent=Mozilla/5.0",
@@ -432,7 +432,7 @@
     {
       "id": "DiscoveryChannel_US",
       "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/discovery-channel.png",
-      "kategori": "popular",
+      "kategori": "",
       "name": "Discovery Channel",
       "protokol": "https",
       "url": "live.tv247us.com/hls/discovery.m3u8",
