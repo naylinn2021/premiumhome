@@ -19,13 +19,13 @@
       "ref": "https://iptv36.vercel.app/"
     },
     {
-      "id": "WWE",
-      "logo": "https://image.azencode.com/tvs/117.png",
+      "id": "TV5",
+      "logo": "https://iptv36.my.to/logo/tv5.png",
       "kategori": "",
-      "name": "WWE",
+      "name": "tv5",
       "protokol": "https",
-      "url": "live-tv.yarncdn.live/us_wwe/tracks-v1a1/mono.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/|&User-Agent=Mozilla/5.0",
-      "ref": "https://play.ezyproxy.xyz/"
+      "url": "639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+      "ref": "639bc5877c5fe.streamlock.net"
     },
     {
       "id": "HGTV_US",
