@@ -276,6 +276,25 @@ marquee {
     height: 68px;
     object-fit: cover;
   }
+  /* THAI */
+  .thaitv {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .thaitv_item {
+    scroll-snap-align: center;
+    align-items: stretch;
+  }
+
+  .thaitv_image {
+    width: 120px;
+    height: 68px;
+    object-fit: cover;
+  }
 
   /* TV Category */
   .tv_category {
