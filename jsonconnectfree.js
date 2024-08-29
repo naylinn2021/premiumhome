@@ -8,6 +8,18 @@ function(result) {
     $('#liveevent').append('<div onclick="' + result.url + '()" class="live-event_item"><img src="' + result.poster + '" class="live-event_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
   });
 });
+
+// jsonconnect hot
+$.getJSON('hot.json', 
+function(result) {
+  let hot = result.hot;
+  //console.log(hot);
+
+  $.each(hot, function(i, result) {
+    $('#hot').append('<div onclick="' + result.url + '()" class="hot_item"><img src="' + result.poster + '" class="hot_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+  });
+});
+
 // jsonconnect spsport
 $.getJSON('spsport.json', 
 function(result) {
