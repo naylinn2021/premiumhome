@@ -110,6 +110,27 @@ marquee {
     height: 84px;
     object-fit: cover;
   }
+
+  /* super sunday */
+  .hot {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+
+  }
+
+  .hot_item {
+    scroll-snap-align: center;
+
+  }
+
+  .hot_image {
+    width: 150px;
+    height: 84px;
+    object-fit: cover;
+  }
   
   /* spsport */
   .spsport {
@@ -465,6 +486,27 @@ marquee {
     height: 96px;
     object-fit: cover;
   }
+
+  /* super sunday */
+  .hot {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .hot_item {
+    scroll-snap-align: center;
+    align-items: stretch;
+  }
+
+  .hot_image {
+    width: 170px;
+    height: 96px;
+    object-fit: cover;
+  }
+
   /* spsport */
   .spsport {
     display: flex;
@@ -739,6 +781,27 @@ marquee {
   }
 
   .live-event_image {
+    width: 250px;
+    height: 141px;
+    object-fit: cover;
+  }
+
+
+  /* super sunday */
+  .hot {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .hot_item {
+    scroll-snap-align: center;
+    align-items: stretch;
+  }
+
+  .hot_image {
     width: 250px;
     height: 141px;
     object-fit: cover;
