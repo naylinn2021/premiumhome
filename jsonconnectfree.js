@@ -145,7 +145,7 @@ function(result) {
 
    });
  });
-//json connect movie
+//jsonconnect movie
 $.getJSON('/movie.json', function(result) {
   let movie = result.movie;
   //console.log(movie);
