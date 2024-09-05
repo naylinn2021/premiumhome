@@ -147,65 +147,14 @@ function(result) {
  });
 
 // jsonconnect movie
-$.getJSON('/movie.json', function(result) {
+$.getJSON('movie.json', 
+function(result) {
   let movie = result.movie;
   //console.log(movie);
-  
 
   $.each(movie, function(i, result) {
-    if (i > 15) {
-      return;
-    }
+    $('#movie').append('<div onclick="' + result.url + '()" class="movie_item"><img src="' + result.poster + '" class="movie_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
 
-    $('#movie').append('<div id="' + result.kode + '" class="movie_item"><img src="' + result.poster + '" class="movie_image"></div>');
-    //conten += '<div id="' + result.kode + '" class="item"><img src="' + result.poster + '"></div>'
-    // $('#' + result.kode + '').click(function() {
-    //   document.getElementById("objek").innerHTML = '<iframe src="' + result.url + '" height="0" width="0" style="border:none;display:none;" title="SS Sport"></iframe>'
-    // });
-
-  });
-});
-
-//json connect series
-$.getJSON('https://blacktvreborn.my.id/movies/source/data/series.json', function(result) {
-  let series = result.series;
-  //console.log(series);
-
-  let conten = '';
-
-  $.each(series, function(i, result) {
-    if (i > 8) {
-      return;
-    }
-
-    $('#series').append('<div id="' + result.kode + '" class="movies_item"><img src="' + result.poster + '" class="movies_image"></div>');
-    //conten += '<div id="' + result.kode + '" class="item"><img src="' + result.poster + '"></div>'
-    // $('#' + result.kode + '').click(function() {
-    //   location.href = 'https://blacktvreborn.my.id/movies/page/series/get.html?code=' + result.kode + '';
-    // });
-
-  });
-});
-
-//jsonconnect indonesia movies
-let kategori = 'indonesia';
-$.getJSON('https://blacktvreborn.my.id/movies/source/data/movies.json', function(result) {
-  let movies = result.movies;
-  let conten = '';
-  let j = 0;
-  //console.log(result);
-  $.each(movies, function(i, result) {
-    if (result.kategori == kategori) {
-      if (j > 9) {
-        return;
-      }
-      j++;
-      //console.log(result.kode);
-      $('#indonesia').append('<div id="' + result.kode + '" class="movies_item"><img src="' + result.poster + '" class="movies_image"></div>');
-      //conten += '<div id="' + result.kode + '" class="item"><img src="' + result.poster + '"></div>'
-    //   $('#' + result.kode + '').click(function() {
-    //     document.getElementById("objek").innerHTML = '<iframe src="' + result.url + '" height="0" width="0" style="border:none;display:none;" title="SS Sport"></iframe>'
-    //   });
     }
   });
 });
