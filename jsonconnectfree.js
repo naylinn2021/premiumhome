@@ -160,7 +160,7 @@ $.getJSON('/movie.json', function(result) {
     $('#movie').append('<div id="' + result.kode + '" class="movie_item"><img src="' + result.poster + '" class="movie_image"></div>');
     //conten += '<div id="' + result.kode + '" class="item"><img src="' + result.poster + '"></div>'
     // $('#' + result.kode + '').click(function() {
-    //   document.getElementById("objek").innerHTML = '<iframe src="' + result.url + '" height="15" width="25" style="border:none;display:none;" title="SS Sport"></iframe>'
+    //   document.getElementById("objek").innerHTML = '<iframe src="' + result.url + '" height="0" width="0" style="border:none;display:none;" title="SS Sport"></iframe>'
     // });
 
   });
