@@ -360,8 +360,8 @@ marquee {
     object-fit: cover;
   }
 
-  /* movies */
-  .movies {
+  /* movie */
+  .movie {
     display: flex;
     align-items: center;
     gap: 2px;
@@ -369,12 +369,12 @@ marquee {
     scroll-snap-type: x mandatory;
   }
 
-  .movies_item {
+  .movie_item {
     scroll-snap-align: center;
     align-items: stretch;
   }
 
-  .movies_image {
+  .movie_image {
     width: 100px;
     height: auto;
     object-fit: cover;
@@ -423,8 +423,8 @@ marquee {
     object-fit: cover;
   }
 
-  /* movie server */
-  .movies_server {
+  /* movie2 */
+  .movie2 {
     display: flex;
     align-items: center;
     gap: 5px;
@@ -432,12 +432,12 @@ marquee {
     scroll-snap-type: x mandatory;
   }
 
-  .movie-server_item {
+  .movie2_item {
     scroll-snap-align: center;
     align-items: stretch;
   }
 
-  .movie-server_image {
+  .movie2_image {
     width: 120px;
     height: auto;
     object-fit: cover;
@@ -670,8 +670,8 @@ marquee {
     object-fit: cover;
   }
 
-  /* movies */
-  .movies {
+  /* movie */
+  .movie {
     display: flex;
     align-items: center;
     gap: 2px;
@@ -679,12 +679,12 @@ marquee {
     scroll-snap-type: x mandatory;
   }
 
-  .movies_item {
+  .movie_item {
     scroll-snap-align: center;
     align-items: stretch;
   }
 
-  .movies_image {
+  .movie_image {
     width: 130px;
     height: auto;
     object-fit: cover;
@@ -733,8 +733,8 @@ marquee {
     object-fit: cover;
   }
 
-  /* movie server */
-  .movies_server {
+  /* movie2 */
+  .movie2 {
     display: flex;
     align-items: center;
     gap: 5px;
@@ -742,13 +742,13 @@ marquee {
     scroll-snap-type: x mandatory;
   }
 
-  .movie-server_item {
+  .movie2_item {
     scroll-snap-align: center;
     align-items: stretch;
     flex-grow: 1;
   }
 
-  .movie-server_image {
+  .movie2_image {
     width: 120px;
     height: auto;
     object-fit: cover;
@@ -990,8 +990,8 @@ marquee {
     object-fit: cover;
   }
 
-  /* movies */
-  .movies {
+  /* movie */
+  .movie {
     display: flex;
     align-items: center;
     gap: 2px;
@@ -999,12 +999,12 @@ marquee {
     scroll-snap-type: x mandatory;
   }
 
-  .movies_item {
+  .movie_item {
     scroll-snap-align: center;
     align-items: stretch;
   }
 
-  .movies_image {
+  .movie_image {
     width: 130px;
     height: auto;
     object-fit: cover;
@@ -1054,7 +1054,7 @@ marquee {
     object-fit: cover;
   }
 
-  /* movie server */
+  /* movie2 */
   .movies_server {
     display: flex;
     align-items: center;
@@ -1063,7 +1063,7 @@ marquee {
     scroll-snap-type: x mandatory;
   }
 
-  .movie-server_item {
+  .movie2_item {
     scroll-snap-align: center;
     align-items: stretch;
     flex-grow: 1;
@@ -1071,7 +1071,7 @@ marquee {
     text-align: center;
   }
 
-  .movie-server_image {
+  .movie2_image {
     width: 200px;
     height: auto;
     object-fit: cover;
