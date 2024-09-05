@@ -2,116 +2,91 @@
   "movie": [
     
     {
-      "poster": "https://i.imgur.com/JeTCGAo.jpeg",
-      "url": "buddha1",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Sky_Open_Logo.png",
+      "url": "skyopen",
       "tanggal": "",
-      "jam": "MAHARBAWDI"
+      "jam": "SKY OPEN"
     },
     {
-      "poster": "https://i.imgur.com/1BJg9xZ.jpeg",
-      "url": "mrtv4a",
-      "tanggal": "MRTV 4",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/2560px-HBO-Logo.svg.png",
+      "url": "hbo",
+      "tanggal": "HBO",
       "jam": ""
     },
     {
-      "poster": "https://i.imgur.com/1BJg9xZ.jpeg",
-      "url": "mrtv4b",
-      "tanggal": "MRTV 4",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png",
+      "url": "hbofamimly",
+      "tanggal": "HBO FAMIMLY",
       "jam": ""
     },
     {
-      "poster": "https://i.imgur.com/SBUO9XQ.jpeg",
-      "url": "ch7a",
-      "tanggal": "CHANNEL7",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",
+      "url": "hbosignature",
+      "tanggal": "HBO SIGNATURE",
       "jam": ""
     },
     {
-      "poster": "https://i.imgur.com/SBUO9XQ.jpeg",
-      "url": "ch7b",
-      "tanggal": "CHANNEL7",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",
+      "url": "hbohits",
+      "tanggal": "HBO HITS",
       "jam": ""
     },
     {
-      "poster": "https://i.imgur.com/ZchqBSf.jpeg",
-      "url": "mahar1",
-      "tanggal": "MAHAR",
-      "jam": ""
-    },
-    
-    {
-      "poster": "https://i.imgur.com/ZchqBSf.jpeg",
-      "url": "mahar2",
-      "tanggal": "MAHAR",
-      "jam": ""
-    },
-
-    {
-      "poster": "https://i.imgur.com/zGMjIAa.jpeg",
-      "url": "mcch",
-      "tanggal": "MCchannel",
-      "jam": ""
-    },
-
-    {
-      "poster": "https://i.imgur.com/HyDADFP.jpeg",
-      "url": "mntv",
-      "tanggal": "MNTV",
-      "jam": ""
-    },
-    {
-      "poster": "https://i.imgur.com/UwcLj6a.jpeg",
-      "url": "chk",
-      "tanggal": "CHANNEL K",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png",
+      "url": "cinemax",
+      "tanggal": "CINEMAX",
       "jam": ""
     },
     
     {
-      "poster": "https://i.imgur.com/dCAArkT.jpeg",
-      "url": "mrtv",
-      "tanggal": "MRTV HD",
+      "poster": "https://static.wikia.nocookie.net/logopedia/images/6/6f/Chinese_Drama_Logo.png",
+      "url": "chinesedrama",
+      "tanggal": "CHINESE DRAMA",
       "jam": ""
     },
 
     {
-      "poster": "https://i.imgur.com/vVVwECW.jpeg",
-      "url": "fortune",
-      "tanggal": "FORTUNE",
+      "poster": "https://images.indihometv.com/tvposter/flik.png",
+      "url": "flik",
+      "tanggal": "FLIK",
       "jam": ""
     },
 
     {
-      "poster": "https://i.imgur.com/O3aga5F.jpeg",
-      "url": "mchannel",
-      "tanggal": "M CHANNEL",
+      "poster": "https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",
+      "url": "moviesphere",
+      "tanggal": "MOVIESPHERE",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png",
+      "url": "star1",
+      "tanggal": "STAR 1",
+      "jam": ""
+    },
+    
+    {
+      "poster": "https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",
+      "url": "bioskopindonesia",
+      "tanggal": "BIOSKOP",
       "jam": ""
     },
 
     {
-      "poster": "https://i.imgur.com/LOpZ1PI.jpeg",
-      "url": "mitv",
-      "tanggal": "MITV",
+      "poster": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210909T003510.png",
+      "url": "kmovies",
+      "tanggal": "K MOVIES",
       "jam": ""
     },
 
     {
-      "poster": "https://i.imgur.com/8I635Jd.jpeg",
-      "url": "plus5",
-      "tanggal": "5-PLUS",
-      "jam": ""
-    },
-
-    {
-      "poster": "https://i.imgur.com/7s6fauO.jpeg",
-      "url": "htvsport",
-      "tanggal": "HTV SPORT",
-      "jam": ""
-    },
-    {
-      "poster": "https://i.imgur.com/2btWnc6.jpeg",
-      "url": "htv",
-      "tanggal": "HTV",
+      "poster": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210909T003510.png",
+      "url": "kmoviesb",
+      "tanggal": "K MOVIES",
       "jam": ""
     }
+
+    
 
 
   ]
