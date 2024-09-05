@@ -11,7 +11,7 @@ function asian() {
 function skyopen() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-function hboch1() {
+function hbo() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd|drmScheme=clearkey&drmLicense=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function hboch2() {
@@ -23,13 +23,13 @@ function syfy() {
 function nbc() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://live.tv247us.com/tv247/nbc.m3u8|referer=http://tv247.us#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=BlackTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-function hbofamilych2() {
+function hbofamily() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd|drmScheme=clearkey&drmLicense=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-function hbosignaturech2() {
+function hbosignature() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd|drmScheme=clearkey&drmLicense=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-function hbohitsch2() {
+function hbohits() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd|drmScheme=clearkey&drmLicense=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function bioskopindonesia() {
@@ -38,7 +38,7 @@ function bioskopindonesia() {
 function axnch1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn.porktv.cfd/lb/AXNHd/index.m3u8?token=37bda5c9a4c9be5169daf707d80ffdbcab6fbc55-2accd290717c6f09341a67313c337154-1723789754-1723778954|referer=https://www.tvonline123.com/origin=https://www.tvonline123.com/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-function cinemaxch2() {
+function cinemax() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd|drmScheme=clearkey&drmLicense=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function celestialmoviech1() {
@@ -76,13 +76,13 @@ function sonypix() {
 function kmovies() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-function newkmovies() {
+function kmoviesb() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function moviesphere() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-function moviech1() {
+function star1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08|user-agent=ExoPlayerLib/2.15.1#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function moviech2() {
