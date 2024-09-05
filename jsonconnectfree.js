@@ -145,12 +145,12 @@ function(result) {
 
    });
  });
-//jsonconnect movie
+
+// jsonconnect movie
 $.getJSON('/movie.json', function(result) {
   let movie = result.movie;
   //console.log(movie);
-
-  let conten = '';
+  
 
   $.each(movie, function(i, result) {
     if (i > 15) {
