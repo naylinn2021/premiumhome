@@ -97,6 +97,17 @@ function(result) {
   });
 });
 
+// jsonconnect MOVIE
+$.getJSON('movie.json', 
+function(result) {
+  let movie = result.movie;
+  //console.log(movie);
+
+  $.each(movie, function(i, result) {
+    $('#movie').append('<div onclick="' + result.url + '()" class="movie_item"><img src="' + result.poster + '" class="movie_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+  });
+});
+
 // jsonconnect sportlist
 $.getJSON('https://blacktvreborn.my.id/database/liveevent/sportlist.json', 
 function(result) {
