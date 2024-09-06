@@ -34,8 +34,8 @@ function live11() {
 function live12() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1725114262-0-0-4891b0e7208b13c9eeecd9a3d303b024|referer=https://m.socoliveb.me/origin=https://m.socoliveb.me/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-function cctv13() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://api.olelive.com/dis/live/CCTV13HD_360/live.flv?token=7ad29c6166c58513a7a023675375279b|referer=https://www.olevod.com/player/live/tv-CCTV13HD-58.html/origin=https://www.olevod.com/player/live/tv-CCTV13HD-58.html#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+function live13() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-bp2.rumsport.com%2Fstream%2F23%2Findex.fmp4.m3u8&token=72da3349753efc17bd146a6faf73afd943ecf33a&is_vip=false&verify=1725580800-Vqb2sdlHGs2ytOwb0NVSM4xIdzmtsOGFSQ%2B%2FyhvIrWo%3D|referer=https://bingsport.co/origin=https://bingsport.co/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function phoenix() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.fengshows.com/live#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
