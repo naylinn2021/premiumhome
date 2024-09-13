@@ -1,0 +1,166 @@
+{
+  "sportlist": [
+    {
+      "poster": "https://www.lyngsat.com/logo/tv/ss/star-sports-select-1-hk-in.png",
+      "url": "starsportselect1 ",
+      "tanggal": "STAR SELECT 1",
+      "jam": ""
+      
+    },
+    {
+      "poster": "https://www.lyngsat.com/logo/tv/ss/star-sports-select-2-hk-in.png",
+      "url": "starsportselect2",
+      "tanggal": "STAR SELECT 2",
+      "jam": ""
+      
+    },
+    {
+      "poster": "https://corporate.comcast.com/media/img/1000w/2020/07/corporate_Web-Publishing_Peacock-Premier_16x9_Thumbnail.jpg",
+      "url": "premiertv",
+      "tanggal": "Premier League",
+      "jam": ""
+      
+    },
+    {
+      "poster": "https://www.img06.xyz/assets/img/ch_logo/doomovie-epl1.png",
+      "url": "tpsport1",
+      "tanggal": "Premier Football HD 1",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img06.xyz/assets/img/ch_logo/doomovie-epl2.png",
+      "url": "tpsport2",
+      "tanggal": "Premier Football HD 2",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img06.xyz/assets/img/ch_logo/doomovie-epl3.png",
+      "url": "tpsport3",
+      "tanggal": "Premier Football HD 3",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img06.xyz/assets/img/ch_logo/doomovie-epl4.png",
+      "url": "tpsport4",
+      "tanggal": "Premier Football HD 4",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img06.xyz/assets/img/ch_logo/doomovie-epl5.png",
+      "url": "tpsport5",
+      "tanggal": "Premier Football HD 5",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img06.xyz/assets/img/ch_logo/epl-bein1.png",
+      "url": "bein1",
+      "tanggal": "Bein 1",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img06.xyz/assets/img/ch_logo/epl-bein2.png",
+      "url": "bein2",
+      "tanggal": "Bein 2",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img06.xyz/assets/img/ch_logo/epl-bein3.png",
+      "url": "bein3",
+      "tanggal": "Bein 3",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img10.xyz/assets/img/ch_logo/hd-spotv1.png",
+      "url": "spotv",
+      "tanggal": "Spotv",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img10.xyz/assets/img/ch_logo/hd-spotv2.png",
+      "url": "spotv2",
+      "tanggal": "Spotv 2",
+      "jam": ""
+    },
+    {
+      "poster": "https://moviektu.com/news/logotv/sport/hd-tsport1.png",
+      "url": "truesport1",
+      "tanggal": "True Sport 1",
+      "jam": ""
+    },
+    
+    {
+      "poster": "https://www.img02.xyz/assets/img/ch_logo/hd-tsport2.png",
+      "url": "truesport2",
+      "tanggal": "True Sport 2",
+      "jam": ""
+    },
+
+    {
+      "poster": "https://www.img07.xyz/assets/img/ch_logo/hd-tsport3.png",
+      "url": "truesport3",
+      "tanggal": "True Sport 3",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img06.xyz/assets/img/ch_logo/hd-tsport4.png",
+      "url": "truesport4",
+      "tanggal": "True Sport 4",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img02.xyz/assets/img/ch_logo/sd-tsport5.png",
+      "url": "truesport5",
+      "tanggal": "True Sport 5",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img03.xyz/assets/img/ch_logo/sd-tsport7.png",
+      "url": "truesport7",
+      "tanggal": "True Sport 7",
+      "jam": ""
+    },
+    {
+      "poster": "https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png",
+      "url": "arenasport1",
+      "tanggal": "ARENA SPORT 1",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png",
+      "url": "tnt1",
+      "tanggal": "TNT 1",
+      "jam": ""
+    },
+    {
+      "poster": "https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png",
+      "url": "arenasport2",
+      "tanggal": "ARENA SPORT 2",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png",
+      "url": "tnt2",
+      "tanggal": "TNT 2",
+      "jam": ""
+    },
+    {
+      "poster": "https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_SI_logo.png",
+      "url": "arenasport3",
+      "tanggal": "ARENA SPORT 3",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png",
+      "url": "tnt3",
+      "tanggal": "TNT 3",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png",
+      "url": "tnt4",
+      "tanggal": "TNT 4",
+      "jam": ""
+    }
+    
+  ]
+}
