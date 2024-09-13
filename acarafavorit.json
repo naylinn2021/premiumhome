@@ -32,10 +32,22 @@
       "jam": "HD"
     },
     {
-      "poster": "https://i.imgur.com/c7qwJr5.jpeg",
-      "url": "tpf3hd",
-      "tanggal": "TRUE PER3",
-      "jam": "HD"
+      "poster": "https://www.img06.xyz/assets/img/ch_logo/epl-bein1.png",
+      "url": "bein1",
+      "tanggal": "Bein 1",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img06.xyz/assets/img/ch_logo/epl-bein2.png",
+      "url": "bein2",
+      "tanggal": "Bein 2",
+      "jam": ""
+    },
+    {
+      "poster": "https://www.img06.xyz/assets/img/ch_logo/epl-bein3.png",
+      "url": "bein3",
+      "tanggal": "Bein 3",
+      "jam": ""
     },
     {
       "poster": "https://i.imgur.com/4HRtwUv.jpeg",
