@@ -1,20 +1,30 @@
 {
   "event": [
-    
+      
     {
-      "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-08-29/Q1KfT0qIR.jpg",
-      "url": "live1",
-      "tanggal": "chelsea-crystalpalace",
-      "jam": "01.9.2024 07:00pm"
+      "poster": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/46db/live/b36fb5f0-fe9f-11eb-9693-ad986b5b5008.png",
+      "url": "tnt1",
+      "tanggal": "Southampton & Man U",
+      "jam": "14 Sep 2024 - 06:00"
     },
     {
-      "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-08-29/0BKLo03SR.jpg",
-      "url": "live2",
-      "tanggal": "newcastle-tottenham",
-      "jam": "01.9.2024 07:00pm"
+      "poster": "https://footballia.net/cache/matches/36421ad5bfcb4899ca4b623bd279fcf4.png",
+      "url": "arenapremium3",
+      "tanggal": "Liverpool & Nottingham",
+      "jam": "14 Sep 2024 - 08:30"
+    },
+    {
+      "poster": "https://ichef.bbci.co.uk/news/2048/cpsprodpb/c217/live/284b02c0-cb54-11ee-a734-b5c4e6ed1081.png",
+      "url": "playsport2",
+      "tanggal": "Man City & Brentford",
+      "jam": "14 Sep 2024 - 08:30"
+    },
+    {
+      "poster": "https://mrfixitstips.co.uk/wp-content/uploads/2023/03/MRF2023_CrystalPalacevLeicesterCity.jpg",
+      "url": "arenasport4",
+      "tanggal": "ခရစ္စတယ် & လက်စတာ",
+      "jam": "14 Sep 2024 - 08:30"
     }
-   
     
   ]
 }
-
