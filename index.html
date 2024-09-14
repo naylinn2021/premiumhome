@@ -239,7 +239,28 @@ setInterval(function(){
 }, 35000);
 </script>
 
-<meta name="monetag" content="efc32b2bc4713cac58f4c5e2fdcd02c5">
+document.addEventListener("keydown", function (event){
+
+  if (event.ctrlKey){
+
+     event.preventDefault();
+
+  }
+
+  if(event.keyCode == 123){
+
+     event.preventDefault();
+
+  }
+
+})
+
+
+document.addEventListener('contextmenu', 
+
+     event => event.preventDefault() 
+
+  )
 
 
 <br><center>
