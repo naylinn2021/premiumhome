@@ -1,7 +1,14 @@
 {
   "event": [
       
-    {
+      {
+      "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-09-13/Q7itts6SR.jpg",
+      "url": "arenasport4",
+      "tanggal": "genoa & as-roma",
+      "jam": "15 Sep 2024 -5:00pm"
+    },
+    
+     {
       "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-09-13/atClKy6IR.jpg",
       "url": "tnt1",
       "tanggal": "tottenham & arsenal",
@@ -13,18 +20,13 @@
       "tanggal": "wolver & newcastle",
       "jam": "15 Sep 2024 -10:30pm"
     },
-    {{
-      "poster": "https://ichef.bbci.co.uk/news/2048/cpsprodpb/c217/live/284b02c0-cb54-11ee-a734-b5c4e6ed1081.png",
-      "url": "playsport2",
-      "tanggal": "Man City & Brentford",
-      "jam": "14 Sep 2024 - 08:30"
-    },
     {
-      "poster": "https://mrfixitstips.co.uk/wp-content/uploads/2023/03/MRF2023_CrystalPalacevLeicesterCity.jpg",
-      "url": "arenasport4",
-      "tanggal": "ခရစ္စတယ် & လက်စတာ",
-      "jam": "14 Sep 2024 - 08:30"
-    }}
+      "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-09-13/2EDZtseSg.jpg",
+      "url": "playsport2",
+      "tanggal": "atalanta & fiorentina",
+      "jam": "15 Sep 2024 -10:30pm"
     }
+    
+    
   ]
 }
