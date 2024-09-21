@@ -1,27 +1,47 @@
 {
   "event": [
-      
-      
-    {
-      "poster": "https://i.imgur.com/adiDYQQ.jpeg",
-      "url": "live1",
-      "tanggal": "Atalanta & Arsenal",
-      "jam": "20 Sep 2024 -1:30am"
-    },
      {
-      "poster": "https://i.imgur.com/DEpn062.jpeg",
-      "url": "live2",
-      "tanggal": "AtleticoMadrid & RB Leipzig",
-      "jam": "20 Sep 2024 -1:30am"
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/os8jfz1718953978.jpg/small",
+      "url": "dazn1de",
+      "tanggal": "Aston Villa & Wolves",
+      "jam": "21 Sep 2024 - 08:30"
     },
     {
-      "poster": "https://i.imgur.com/aYE6ypl.jpeg",
-      "url": "live2",
-      "tanggal": "Monaco & Barcelona",
-      "jam": "20 Sep 2024 -1:30am"
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/4b7zoc1689062472.jpg/small",
+      "url": "tnt1",
+      "tanggal": "WestHam & Chelsea",
+      "jam": "21 Sep 2024 - 06:00"
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/y15l311689062558.jpg/small",
+      "url": "dazneleven2",
+      "tanggal": "Tottenham & Brentford",
+      "jam": "21 Sep 2024 - 08:30"
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/oe8df11718953978.jpg/small",
+      "url": "dazneleven3",
+      "tanggal": "Southmpton & Ipswich",
+      "jam": "21 Sep 2024 - 08:30"
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/d5h26l1720158995.jpg/small",
+      "url": "dazneleven1",
+      "tanggal": "Leicester & Everton",
+      "jam": "21 Sep 2024 - 08:30"
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/bnapnr1689062601.jpg/small",
+      "url": "dazneleven3",
+      "tanggal": "Fulham & Newcastle",
+      "jam": "21 Sep 2024 - 08:30"
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/3mwc2p1718953980.jpg/small",
+      "url": "dazn2es",
+      "tanggal": "Crystal & Man-U",
+      "jam": "21 Sep 2024 - 11:00"
     }
-    
-    
     
   ]
 }
