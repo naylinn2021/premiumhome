@@ -2,16 +2,37 @@
   "event": [
      
     {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/s4n8tv1689062584.jpg/small",
-      "url": "live1",
-      "tanggal": "Brighton & Nottingham",
-      "jam": "22 Sep 2024 - 07:30"
+      "poster": "https://i.ytimg.com/vi/eWgWpVKvQAM/maxresdefault.jpg",
+      "url": "go3sport2",
+      "tanggal": "Sevilla & Valladolid",
+      "jam": "24 Sep 2024 - 11:30"
     },
     {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/r2q6u71718953979.jpg/small",
-      "url": "live1",
-      "tanggal": "Man City & Arsenal",
-      "jam": "22 Sep 2024 - 10:00"
+      "poster": "https://assets.khelnow.com/news/uploads/2024/09/Valencia-vs-Osasuna.jpg",
+      "url": "tv2sport",
+      "tanggal": "Valencia & Osasuna",
+      "jam": "24 Sep 2024 - 11:30"
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/7pq3to1725091402.jpg/small",
+      "url": "vsportepl",
+      "tanggal": "Wimbdon & Newcastle",
+      "jam": "26 Sep 2024 - 01:15"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/fowv091725091401.jpg/small",
+      "url": "sportv2",
+      "tanggal": "Chelsea-&-Barrow",
+      "jam": "25 Sep 2024 - 01:15"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/5zthk91725091400.jpg/small",
+      "url": "A_Quiet_Place_Day_One ",
+      "tanggal": "Walsall-&-Leicester",
+      "jam": "25 Sep 2024 - 01:15"
+      
     }
     
   ]
