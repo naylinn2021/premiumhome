@@ -4,7 +4,7 @@ function dazn1() {
 function dazn2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://livecdn-iptv001.rumsport.com/livetv2/4195/tracks-v1a1/mono.m3u8?token=1579f79bbd215e277f0757df8e75ce7d2fd70bac&is_vip=false&verify=1727504460-d40kizqvjLKBnUlghezHI7kBGx5o2LGyh2kRrjHPzyA%3D|referer=https://live-streamfootball.com/origin=https://live-streamfootball.com/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-function dazn3() {
+function dazn3a() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://livecdn-iptv001.rumsport.com/livetv2/4196/tracks-v1a1/mono.m3u8?token=1579f79bbd215e277f0757df8e75ce7d2fd70bac&is_vip=false&verify=1727504580-ziZ7ZmRs0Ur6iKV%2BpXpQhucDhybXxUUGwxA%2FofNuYsg%3D|referer=https://live-streamfootball.com/origin=https://live-streamfootball.com/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function dazn4() {
