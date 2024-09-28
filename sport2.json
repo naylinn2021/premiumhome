@@ -2,45 +2,27 @@
   "sport2": [
 
     {
-      "poster": "https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg",
-      "url": "dazn1es",
-      "tanggal": "DAZN 1 ES",
+      "poster": "https://img.balo.live/static/common/img/tv-channel/iptv/light/64711.png",
+      "url": "dazn1",
+      "tanggal": "DAZN 1",
       "jam": "HD"
     },
     {
-      "poster": "https://www.lyngsat.com/logo/tv/dd/dazn-2-uk.svg",
-      "url": "dazn2es",
-      "tanggal": "DAZN 2 ES",
+      "poster": "https://img.balo.live/static/common/img/tv-channel/iptv/light/64712.png",
+      "url": "dazn2",
+      "tanggal": "DAZN 2",
       "jam": "HD"
     },
     {
-      "poster": "https://videoweek.com/wp-content/uploads/2022/09/dazn_eleven.jpg",
-      "url": "dazneleven1",
-      "tanggal": "ELEVEN SPORT1",
+      "poster": "https://img.balo.live/static/common/img/tv-channel/iptv/light/269912.png",
+      "url": "dazn3",
+      "tanggal": "DAZN 3",
       "jam": "HD"
     },
     {
-      "poster": "https://videoweek.com/wp-content/uploads/2022/09/dazn_eleven.jpg",
-      "url": "dazneleven2",
-      "tanggal": "ELEVEN SPORT2",
-      "jam": "HD"
-    },
-    {
-      "poster": "https://videoweek.com/wp-content/uploads/2022/09/dazn_eleven.jpg",
-      "url": "dazneleven3",
-      "tanggal": "ELEVEN SPORT3",
-      "jam": "HD"
-    },
-    {
-      "poster": "https://videoweek.com/wp-content/uploads/2022/09/dazn_eleven.jpg",
-      "url": "dazneleven4",
-      "tanggal": "ELEVEN SPORT4",
-      "jam": "HD"
-    },
-    {
-      "poster": "https://videoweek.com/wp-content/uploads/2022/09/dazn_eleven.jpg",
-      "url": "dazneleven5",
-      "tanggal": "ELEVEN SPORT5",
+      "poster": "https://img.balo.live/static/common/img/tv-channel/iptv/light/269911.png",
+      "url": "dazn4",
+      "tanggal": "DAZN 4",
       "jam": "HD"
     },
     {
