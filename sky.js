@@ -3,7 +3,7 @@ function f1() {
 };
 
 function f1b() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-016/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://livecdn-iptv001.rumsport.com/livetv/136343/tracks-v1a1/mono.m3u8?token=79a5aca00276f3589b8cef158bb3cd7e2dc05ddc&is_vip=false&verify=1725601260-P6VFDonVQbpxfsf17zPHpgk2OwayQBQpU8vcqTfeFvc%3D|referer=https://live-streamfootball.com/origin=https://live-streamfootball.com/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
 function skyfootball() {
