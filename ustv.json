@@ -1,112 +1,133 @@
 {
   "ustv": [
-    {
-      "id": "USA_Network",
-      "logo": "https://image.azencode.com/tvs/88.png",
-      "kategori": "popular",
-      "name": "usa_network",
+      
+      {
+      "id": "usanetwork",
+      "logo": "https://f-srv-01.tiksports.net/images/logos/channels/0ussusanetwork-sv3.png",
+      "kategori": "aaa",
+      "name": "usanetwork",
       "protokol": "https",
-      "url": "live-tv.yarncdn.live/us_usa/tracks-v1a1/mono.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/&User-Agent=Mozilla/5.0",
-      "ref": "https://play.ezyproxy.xyz/"
+      "url": "cdn2.aluku91.foundation/usa-usanetwork.m3u8",
+      "ref": "https://365streamtv.live/"
     },
     {
-      "id": "USA_NETWORK",
-      "logo": "https://image.azencode.com/tvs/88.png",
+      "id": "fubosport",
+      "logo": "https://f-srv-01.tiksports.net/images/logos/channels/usafubosport-sv3.jpg",
       "kategori": "popular",
-      "name": "usa_network2",
+      "name": "fubosport",
       "protokol": "https",
-      "url": "live.tv247us.com/hls/usanw.m3u8|referer=https://tv247.us/origin= https://tv247.us/&User-Agent=Mozilla/5.0",
-      "ref": "https://tv247.us/"
+      "url": "cdn2.aluku91.foundation/usa-fubosport.m3u8",
+      "ref": "https://365streamtv.live/"
     },
     {
-      "id": "WWE",
-      "logo": "https://image.azencode.com/tvs/117.png",
-      "kategori": "popular",
-      "name": "WWE",
-      "protokol": "https",
-      "url": "live-tv.yarncdn.live/us_wwe/tracks-v1a1/mono.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/|&User-Agent=Mozilla/5.0",
-      "ref": "https://play.ezyproxy.xyz/"
-    },
-    {
-      "id": "HGTV_US",
-      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/01/HGTV.png",
+      "id": "Starsportselect1",
+      "logo": "https://f-srv-01.tiksports.net/images/logos/channels/zstarsportselect1.png",
       "kategori": "",
-      "name": "HGTV",
+      "name": "Starsportselect1",
       "protokol": "https",
-      "url": "live.tv247us.com/tv247/hgtv.m3u8",
-      "ref": "https://tv247.us/"
+      "url": "yuvraj43.xyz/TP-worldwide/manifest.mpd?id=246|drmScheme=clearkey&drmLicense=http://yuvraj.fun/tp-keys/key.php?id=246",
+      "useragent": "Mozilla/5.0",
+      "ref": ""
     },
     {
-      "id": "AnimalPlanet_US",
-      "logo": "https://i.imgur.com/39rDwlr.jpeg",
-      "kategori": "popular",
-      "name": "Animal Planet",
+      "id": "Starsportselect2",
+      "logo": "https://f-srv-01.tiksports.net/images/logos/channels/zstarsportselect2.png",
+      "kategori": "",
+      "name": "Starsportselect2",
       "protokol": "https",
-      "url": "live.tv247us.com/hls/animalplanet.m3u8|referer=https://tv247.us/origin= https://tv247.us/&User-Agent=Mozilla/5.0",
-      "ref": "https://tv247.us/"
+      "url": "yuvraj43.xyz/TP-worldwide/manifest.mpd?id=463|drmScheme=clearkey&drmLicense=http://yuvraj.fun/tp-keys/key.php?id=463",
+      "useragent": "Mozilla/5.0",
+      "ref": ""
+    },
+    {
+      "id": "Tv85",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png",
+      "kategori": "popular",
+      "name": "Tv85",
+      "protokol": "https",
+      "url": "hw1.jemtv.com/app/tv85/chunks.m3u8",
+      "ref": ""
+    },
+    {
+      "id": "Tnt1_365",
+      "logo": "https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png",
+      "kategori": "popular",
+      "name": "TNT1",
+      "protokol": "https",
+      "url": "cdn2.aluku91.foundation/uk-tntsport1.m3u8",
+      "ref": "https://365streamtv.live/"
+    },
+    {
+      "id": "Tnt2_365",
+      "logo": "https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png",
+      "kategori": "popular",
+      "name": "TNT2",
+      "protokol": "https",
+      "url": "cdn2.aluku91.foundation/uk-tntsport2.m3u8",
+      "ref": "https://365streamtv.live/"
+    },
+    {
+      "id": "Tnt3_365",
+      "logo": "https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png",
+      "kategori": "popular",
+      "name": "TNT3",
+      "protokol": "https",
+      "url": "cdn2.aluku91.foundation/uk-tntsport3.m3u8",
+      "ref": "https://365streamtv.live/"
+    },
+    {
+      "id": "Tnt4_365",
+      "logo": "https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png",
+      "kategori": "popular",
+      "name": "TNT4",
+      "protokol": "https",
+      "url": "cdn2.aluku91.foundation/uk-tntsport4.m3u8",
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "NBC_US",
-      "logo": "https://i.imgur.com/XWPwS0N.jpeg",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/NBC.png",
       "kategori": "popular",
       "name": "NBC",
       "protokol": "https",
-      "url": "live.tv247us.com/hls/nbc.m3u8",
-      "ref": "https://tv247.us/"
+      "url": "cdn.aluku91.foundation/us-nbatv.m3u8",
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "BBCAmerica_US",
-      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/BBC.png",
-      "kategori": "",
+      "logo": "https://f-srv-01.tiksports.net/images/logos/channels/ukbbcnews.png",
+      "kategori": "popular",
       "name": "BBC America",
       "protokol": "https",
-      "url": "bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8",
-      "ref": ""
+      "url": "cdn.aluku91.foundation/uk-bbcnews.m3u8",
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "FS1_US",
-      "logo": "https://image.azencode.com/upload/Livetv/usfs1.png",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/FS1.png",
       "kategori": "popular",
       "name": "Fox Sport 1",
       "protokol": "https",
-      "url": "live-tv.yarncdn.live/us_fs1/tracks-v1a1/mono.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/&User-Agent=Mozilla/5.0",
-      "ref": "https://play.ezyproxy.xyz/"
+      "url": "cdn.aluku91.foundation/usa-fs1.m3u8",
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "FS2_US",
-      "logo": "https://image.azencode.com/upload/Livetv/usfs2.png",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/FS2.png",
       "kategori": "popular",
       "name": "Fox Sport 2",
       "protokol": "https",
-      "url": "live-tv.yarncdn.live/us_fs2/tracks-v1a1/mono.m3u8|referer=https://play.ezyproxy.xyz/origin=https://play.ezyproxy.xyz/&User-Agent=Mozilla/5.0",
-      "ref": "https://play.ezyproxy.xyz/"
-    },
-    {
-      "id": "ABC_US",
-      "logo": "https://i.imgur.com/T8MYrdg.jpeg",
-      "kategori": "popular",
-      "name": "ABC",
-      "protokol": "https",
-      "url": "content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8",
-      "ref": ""
+      "url": "cdn.aluku91.foundation/usa-fs2.m3u8",
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "HBO_US",
       "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/HBO-1.png",
-      "kategori": "",
+      "kategori": "popular",
       "name": "HBO",
       "protokol": "https",
-      "url": "live.tv247us.com/tv247/hbo.m3u8",
-      "ref": "https://tv247.us/"
-    },
-    {
-      "id": "SHOWTIME_US",
-      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/showtime.png",
-      "kategori": "",
-      "name": "Show Time",
-      "protokol": "https",
-      "url": "live.tv247us.com/tv247/showtime.m3u8",
-      "ref": "https://tv247.us/"
+      "url": "cdn4.aluku91.foundation/ent-hbo.m3u8",
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "CINEMAX_US",
@@ -115,7 +136,7 @@
       "name": "Cinemax",
       "protokol": "https",
       "url": "live.tv247us.com/tv247/cinemaxus.m3u8",
-      "ref": "https://tv247.us/"
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "BigTenNetwork_US",
@@ -124,25 +145,25 @@
       "name": "Big Ten Network",
       "protokol": "https",
       "url": "live.tv247us.com/tv247/btn.m3u8",
-      "ref": "https://tv247.us/"
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "FOX_US",
-      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/Fox-1.png",
-      "kategori": "",
+      "logo": "https://f-srv-01.tiksports.net/images/logos/channels/cdnusafox-channel.svg",
+      "kategori": "popular",
       "name": "Fox",
       "protokol": "https",
-      "url": "live.tv247us.com/tv247/fox.m3u8",
-      "ref": "https://tv247.us/"
+      "url": "cdn2.aluku91.foundation/usa-fs2.m3u8",
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "NFLRedzone_US",
       "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/NFL-REDZONE-From-NFL-NW.png",
-      "kategori": "",
+      "kategori": "popular",
       "name": "NFL Redzone",
       "protokol": "https",
-      "url": "live.tv247us.com/tv247/redzone.m3u8",
-      "ref": "https://tv247.us/"
+      "url": "cdn.aluku91.foundation/us-nfl.m3u8",
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "MLBNetwork_US",
@@ -151,16 +172,16 @@
       "name": "MLB Network",
       "protokol": "https",
       "url": "live.tv247us.com/tv247/mlb.m3u8",
-      "ref": "https://tv247.us/"
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "NBATV_US",
-      "logo": "https://i.imgur.com/XWPwS0N.jpeg",
+      "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/NBATV-2.png",
       "kategori": "popular",
       "name": "NBA TV",
       "protokol": "https",
-      "url": "live.tv247us.com/hls/nba.m3u8|referer=https://tv247.us/origin=https://tv247.us/|&User-Agent=Mozilla/5.0",
-      "ref": "https://tv247.us/"
+      "url": "cdn.aluku91.foundation/us-nbatv.m3u8",
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "Nicktoons_US",
@@ -169,7 +190,7 @@
       "name": "Nicktoons",
       "protokol": "https",
       "url": "live.tv247us.com/tv247/nicktoons.m3u8",
-      "ref": "https://tv247.us/"
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "CNBC_US",
@@ -178,16 +199,16 @@
       "name": "CNBC",
       "protokol": "https",
       "url": "live.tv247us.com/tv247/cnbc.m3u8",
-      "ref": "https://tv247.us/"
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "CBSSportsNetwork_US",
       "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/CBS-Network-free-live-stream.png",
-      "kategori": "",
+      "kategori": "popular",
       "name": "CBS Sports Network",
       "protokol": "https",
-      "url": "live.tv247us.com/tv247/cbsn.m3u8",
-      "ref": "https://tv247.us/"
+      "url": "cdn2.aluku91.foundation/usa-cbssport.m3u8",
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "NickelodeonTV_US",
@@ -196,7 +217,7 @@
       "name": "Nickelodeon TV",
       "protokol": "https",
       "url": "live.tv247us.com/tv247/nickelodeon.m3u8",
-      "ref": "https://tv247.us/"
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "AE_US",
@@ -281,13 +302,13 @@
     },
     {
       "id": "TennisChannel_US",
-      "logo": "https://i.imgur.com/V0RA7Wa.jpeg",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2021/06/Tennis-channel.png",
       "kategori": "popular",
       "name": "Tennis Channel",
       "protokol": "https",
-      "url": "tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8",
-      "useragent": "",
-      "ref": ""
+      "url": "cdn.aluku91.foundation/us-tennistv.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "NFLREDZONE_US",
@@ -371,11 +392,11 @@
     },
     {
       "id": "ESPN_US",
-      "logo": "https://i.imgur.com/R1nxz8g.jpeg",
+      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN.png",
       "kategori": "popular",
       "name": "ESPN",
       "protokol": "https",
-      "url": "cdn.aluku91.foundation/us-espn.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/|&User-Agent=Mozilla/5.0",
+      "url": "cdn.aluku91.foundation/us-espn.m3u8",
       "useragent": "android",
       "ref": "https://365streamtv.live/"
     },
@@ -422,10 +443,10 @@
     {
       "id": "History_US",
       "logo": "https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/History.png",
-      "kategori": "popular",
+      "kategori": "",
       "name": "History (American TV network)",
       "protokol": "https",
-      "url": "live.tv247us.com/hls/history.m3u8|referer=https://tv247.us/origin=https://tv247.us/|&User-Agent=Mozilla/5.0",
+      "url": "live.tv247us.com/tv247/history.m3u8",
       "useragent": "android",
       "ref": "https://tv247.us/"
     },
@@ -435,9 +456,9 @@
       "kategori": "popular",
       "name": "Discovery Channel",
       "protokol": "https",
-      "url": "live.tv247us.com/hls/discovery.m3u8",
-      "useragent": "android",
-      "ref": "https://tv247.us/"
+      "url": "cdn4.aluku91.foundation/ent-discovery.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": "https://365streamtv.live/"
     },
     {
       "id": "MTV_US",
@@ -510,14 +531,14 @@
       "ref": "https://tv247.us/"
     },
     {
-      "id": "FREEFORM_US",
-      "logo": "https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/FreeForm.png",
-      "kategori": "",
-      "name": "FREEFORM",
+      "id": "tnt",
+      "logo": "https://f-srv-01.tiksports.net/images/logos/channels/tnt-usa.png",
+      "kategori": "popular",
+      "name": "tnt",
       "protokol": "https",
-      "url": "live.tv247us.com/tv247/travel.m3u8",
-      "useragent": "android",
-      "ref": "https://tv247.us/"
+      "url": "cdn4.aluku91.foundation/line3.m3u8",
+      "useragent": "",
+      "ref": "https://365streamtv.live/"
     }
   ]
 }
