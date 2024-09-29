@@ -1,67 +1,24 @@
 {
   "event": [
-     
     {
-      "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-09-26/795aNQgHR.jpg",
-      "url": "tnt1",
-      "tanggal": "Newcastle-&-Man-City",
-      "jam": "28 Sep 2024 - 06:00"
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/4y41231719563311.jpg/small",
+      "url": "SuperSportLaLiga",
+      "tanggal": "Celta-Vigo-vs-Girona",
+      "jam": "29 Sep 2024 - 06:30"
+    }, 
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/3wvb1v1718953981.jpg/small",
+      "url": "usanetwork",
+      "tanggal": "Ipswich-vs-Aston-Villa",
+      "jam": "29 Sep 2024 - 07:30"
     },
     {
-      "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-09-26/795aNQgHR.jpg",
-      "url": "live1",
-      "tanggal": "Newcastle-&-Man-City",
-      "jam": "28 Sep 2024 - 06:00"
-    },
-    {
-      "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-09-26/gBaBNwRNg.jpg",
-      "url": "live1",
-      "tanggal": "Arsenal-&-Leicester",
-      "jam": "28 Sep 2024 - 08:30"
-    },
-    {
-      "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-09-26/Lp3EHwgHg.jpg",
-      "url": "live2",
-      "tanggal": "Chelsea-&-Brighton",
-      "jam": "28 Sep 2024 - 08:30"
-    },
-    {
-      "poster": "https://image.95tv.live/thumbs/480-270/public/uploads/2024-09-26/vaILHQRNR.jpg",
-      "url": "live3",
-      "tanggal": "Brentford-&-West-Ham",
-      "jam": "28 Sep 2024 - 08:30"
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/sstwqn1689062571.jpg/small",
-      "url": "live4",
-      "tanggal": "Everton & CrystalPalace",
-      "jam": "28 Sep 2024 - 08:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/6s9yyu1689062597.jpg/small",
-      "url": "live5",
-      "tanggal": "Nottingham-&-Fulham",
-      "jam": "28 Sep 2024 - 08:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/z35f681689062486.jpg/small",
-      "url": "live1",
-      "tanggal": "Wolves-&-Liverpool",
-      "jam": "28 Sep 2024 - 11:00"
-      
-    },
-    {
-      "poster": "https://sta.vnres.co/file/common/20240929/4f7dc62e545d7518f07a22ffa0afd532_wh320.jpg",
-      "url": "live2",
-      "tanggal": "Bayern & Leverkusen",
-      "jam": "28 Sep 2024 - 11:00"
-      
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/8r97k41718953982.jpg/small",
+      "url": "SkySportsMainEvent",
+      "tanggal": "Man-U-vs-Tottenham",
+      "jam": "29 Sep 2024 - 10:00"
     }
-    
-    
-    
+      
     
   ]
 }
