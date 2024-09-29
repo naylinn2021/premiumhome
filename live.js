@@ -5,7 +5,7 @@ function live2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1727618245-0-0-f62b9142df5f35d2f89acee849ca5418|referer=https://m.socolivez.app/origin=https://m.socolivez.app/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=0a0745f149a91a2966db78e46b54f338&txTime=66f85c99|referer=https://m.socolives.mobi/origin=https://m.socolives.mobi/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-9912100_lsd.m3u8?auth_key=1727624665-0-0-a88c95743fd1a06fdfb909ac0b82e381|referer=https://m.socolivez.app/origin=https://m.socolivez.app/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
 function live4() {
