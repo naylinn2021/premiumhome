@@ -2,6 +2,10 @@ function pbskids() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
+function boomerang() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://livecdn-iptv001.rumsport.com/livetv2/353/tracks-v1a1/mono.m3u8?token=95b0dd5ee31990119d741a2cc90b628e2aa3c83e&is_vip=false&verify=1727874840-pqpnwfzk2oL4Hgnz2veu%2F2F8Vyhmjg%2BObWVedQ1Ta%2FY%3D|referer=https://live-streamfootball.com/origin=https://live-streamfootball.com/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+
 function cartoonnet() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://livedth.95tv.live/memfs/e4149b1d-710d-47b5-b4b4-5c57995de2a8_output_0.m3u8?session=6czNWYREKj6ZrtrJxTf6Uo|referer=https://live.95tv.live/origin=https://live.95tv.live/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
