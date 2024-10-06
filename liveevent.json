@@ -1,52 +1,107 @@
 {
   "event": [
     {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/gczxc51689062531.jpg/small",
-      "url": "tnt1",
-      "tanggal": "Crystal-Pala-vs-Liverpool",
-      "jam": "5 OCT 2024 - 6:00"
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/skuu1j1718953986.jpg/small",
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/tztdio1720175810.jpg/small",
       "url": "live1",
-      "tanggal": "Arsenal-vs-Southampton",
-      "jam": "5 OCT 2024 - 8:30"
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/9xc8uq1689062544.jpg/small",
-      "url": "live2",
-      "tanggal": "Brentford-vs-Wolves",
-      "jam": "5 OCT 2024 - 08:30"
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/436xgc1720158996.jpg/medium",
-      "url": "live3",
-      "tanggal": "Leicester-vs-Bournemouth",
-      "jam": "5 OCT 2024 - 08:30"
-    }, 
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/rt6mmw1718953984.jpg/small",
-      "url": "live4",
-      "tanggal": "ManCity-vs-Fulham",
-      "jam": "5 OCT 2024 - 08:30"
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/kqw1v11718953983.jpg/small",
-      "url": "live5",
-      "tanggal": "West-Ham-vs-Ipswich",
-      "jam": "5 OCT 2024 - 08:30"
+      "tanggal": "Juventus-vs-Cagliari",
+      "jam": "6 OCT 2024 - 05:00"
       
     },
     {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/tsoec71689062527.jpg/small",
-      "url": "live1",
-      "tanggal": "Everton-vs-Newcastle",
-      "jam": "5 OTC 2024 - 11:00"
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/tdibwa1719563326.jpg/small",
+      "url": "Go3Sport1",
+      "tanggal": "Girona-vs-Athletic-Bilbao",
+      "jam": "6 OCT 2024 - 06:30"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/46pj951718953985.jpg/small",
+      "url": "USANetwork",
+      "tanggal": "Aston-Villa-vs-Man-U",
+      "jam": "6 OCT 2024 - 7:30"
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/1273uq1689062479.jpg/small",
+      "url": "DAZN2Spain",
+      "tanggal": "Chelsea-vs-Nottim-Forest",
+      "jam": "6 OCT 2024 - 7:30"
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/rabhgo1720175807.jpg/small",
+      "url": "ArenaSport4RS",
+      "tanggal": "Bologna-vs-Parma",
+      "jam": "6 OCT 2024 - 7:30"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/nkm69w1720175810.jpg",
+      "url": "ArenaSport3RS",
+      "tanggal": "Lazio-vs-Empoli",
+      "jam": "6 OCT 2024 - 7:30"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/cl5wsa1720178792.jpg/small",
+      "url": "Sport4IL",
+      "tanggal": "Heidenheim-vs-RB-Leipzig",
+      "jam": "6 OCT 2024 - 08:00"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/5qfxr61719563323.jpg/small",
+      "url": "Go3Sport1",
+      "tanggal": "Alaves-vs-Barcelona",
+      "jam": "6 OCT 2024 - 08:45"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/lmcky61689062545.jpg/small",
+      "url": "USANetwork1",
+      "tanggal": "Brighton-vs-Tottenham",
+      "jam": "6 OCT 2024 - 10:00"
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/1vuhf21720178788.jpg/small",
+      "url": "Go3Sport3",
+      "tanggal": "EintchtFrafurt-vs-Bayern",
+      "jam": "6 OCT 2024 - 10:00"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/7j0nvo1720175811.jpg/small",
+      "url": "ArenaSport3RS",
+      "tanggal": "Monza-vs-Roma",
+      "jam": "6 OCT 2024 - 10:30"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/7mqv0e1719563329.jpg/small",
+      "url": "ArenaSport3PremiumRS ",
+      "tanggal": "Sevilla-vs-Real-Betis",
+      "jam": "6 OCT 2024 - 11:00"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/o719yk1720178786.jpg/small",
+      "url": "Sport4IL",
+      "tanggal": "Stuttgart-vs-Hoffenheim",
+      "jam": "6 OCT 2024 - 12:00"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/aocmhh1720175808.jpg/small",
+      "url": "tnt1",
+      "tanggal": "Fiorentina-vs-AC-Milan",
+      "jam": "6 OCT 2024 - 01:15"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/6818mp1719563328.jpg/small",
+      "url": "DAZNLaLiga",
+      "tanggal": "RealSocidad-&-AtleticoMadid",
+      "jam": "6 OCT 2024 - 01:30"
       
     }
-    
-    
-    
     
     
   ]
