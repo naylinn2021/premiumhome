@@ -293,8 +293,8 @@ marquee {
   }
 
   .sport2_image {
-    width: 120px;
-    height: 68px;
+    width: 150px;
+    height: 84px;
     object-fit: cover;
   }
   /* THAI TV */
@@ -312,8 +312,8 @@ marquee {
   }
 
   .thaitv_image {
-    width: 120px;
-    height: 68px;
+    width: 150px;
+    height: 84px;
     object-fit: cover;
   }
 
