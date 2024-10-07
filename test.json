@@ -33,8 +33,8 @@
       "kategori": "popular",
       "name": "ch3",
       "protokol": "https",
-      "url": "edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8|&User-Agent=Mozilla/5.0",
-      "ref": "https://www.adintrend.tv/"
+      "url": "www.livedoomovies.com:4432/02_3HD_720p/chunklist.m3u8|referer=https://www.madoohd.com/origin=https://www.madoohd.com/&User-Agent=Mozilla/5.0",
+      "ref": "https://www.madoohd.com/"
     },
     {
       "id": "MCOT",
