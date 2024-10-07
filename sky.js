@@ -10,6 +10,10 @@ function f1c() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://livecdn-iptv001.rumsport.com/livetv2/10400/tracks-v1a1/mono.m3u8?token=1579f79bbd215e277f0757df8e75ce7d2fd70bac&is_vip=false&verify=1727504760-xwwFbn7QTbL65rhsoXzSgs9NPFTSmxR%2FM29eHIjxVSg%3D|referer=https://live-streamfootball.com/origin=https://live-streamfootball.com/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
+function f1d() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live2.notebulk.xyz/YGs1FQ0IkM-stpIiolNXpQ/1728310092/uk_ssf1/index.m3u8|referer=https://ggsport.tv/|origin=https://ggsport.tv/&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+
 function skyfootball() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdn2.aluku91.foundation/uk-skysportfootball.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
