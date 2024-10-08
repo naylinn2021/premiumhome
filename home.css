@@ -242,7 +242,7 @@ marquee {
   .sportlist {
     display: flex;
     align-items: center;
-    gap: 2px;
+    gap: 4px;
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
   }
@@ -262,7 +262,7 @@ marquee {
   .acaratv {
     display: flex;
     align-items: center;
-    gap: 2px;
+    gap: 4px;
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
   }
@@ -282,7 +282,7 @@ marquee {
   .sport2 {
     display: flex;
     align-items: center;
-    gap: 2px;
+    gap: 4px;
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
   }
@@ -301,7 +301,7 @@ marquee {
   .thaitv {
     display: flex;
     align-items: center;
-    gap: 2px;
+    gap: 4px;
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
   }
