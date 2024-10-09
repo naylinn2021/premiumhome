@@ -587,6 +587,27 @@ marquee {
     object-fit: cover;
   }
   
+  /* KOREA TV */
+  .korea {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .korea_item {
+    scroll-snap-align: center;
+    align-items: stretch;
+  }
+
+  .korea_image {
+    width: 170px;
+    height: 96px;
+    object-fit: cover;
+  }
+
+  
   /* portugal */
   .portugal {
     display: flex;
