@@ -20,14 +20,14 @@ function(result) {
   });
 });
 
-// jsonconnect korea
+// jsonconnect korea_tv
 $.getJSON('korea.json', 
 function(result) {
-  let korea = result.korea;
-  //console.log(korea);
+  let koreatv = result.koreatv;
+  //console.log(koreatv);
 
   $.each(hot, function(i, result) {
-    $('#korea').append('<div onclick="' + result.url + '()" class="korea_item"><img src="' + result.poster + '" class="korea_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+    $('#koreatv').append('<div onclick="' + result.url + '()" class="koreatv_item"><img src="' + result.poster + '" class="koreatv_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
   });
 });
 
