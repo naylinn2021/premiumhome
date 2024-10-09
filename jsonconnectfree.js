@@ -20,6 +20,17 @@ function(result) {
   });
 });
 
+// jsonconnect korea
+$.getJSON('korea.json', 
+function(result) {
+  let korea = result.korea;
+  //console.log(korea);
+
+  $.each(hot, function(i, result) {
+    $('#korea').append('<div onclick="' + result.url + '()" class="korea_item"><img src="' + result.poster + '" class="korea_image" /><h3><span>' + result.tanggal + '</span></h3><h4><span>' + result.jam + '</span></h4></div>');
+  });
+});
+
 // jsonconnect spsport
 $.getJSON('spsport.json', 
 function(result) {
