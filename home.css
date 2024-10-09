@@ -316,6 +316,7 @@ marquee {
     height: 84px;
     object-fit: cover;
   }
+  
   /* KOREA TV */
   .koreatv {
     display: flex;
