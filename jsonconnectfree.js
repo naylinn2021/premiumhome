@@ -168,20 +168,4 @@ function(result) {
    });
  });
 
-// jsonconnect korea
-$.getJSON('/korea.json', 
-function(result) {
-   let korea = result.korea;
-   console.log(korea);
 
-   let kategory = 'popular';
-   $.each(thaitv, function(i, result) {
-     if (kategory = result.kategori) {
-       $('#thaitv').append('<div id="' + result.id + '" class="sportlist_item"><img src="' + result.logo + '" class="tv_image"></div>');
-       $('#' + result.id + '').click(function() {
-         document.getElementById("objek").innerHTML = '<iframe src="intent://' + result.url + '?|referer=' + result.ref + '&User-Agent=' + result.useragent + '#Intent;scheme=' + result.protokol + ';type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;display:none;" title="SS Sport"></iframe>'
-       });
-     }
-
-   });
- });
