@@ -964,6 +964,26 @@ marquee {
     height: 141px;
     object-fit: cover;
   }
+  
+  /* KOREA TV */
+  .korea {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .korea_item {
+    scroll-snap-align: center;
+    align-items: stretch;
+  }
+
+  .korea_image {
+    width: 250px;
+    height: 141px;
+    object-fit: cover;
+  }
 
   /* sportlist */
   .sportlist {
