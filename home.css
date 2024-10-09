@@ -316,7 +316,26 @@ marquee {
     height: 84px;
     object-fit: cover;
   }
+  /* korea tv */
+  .korea {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
 
+  }
+
+  .korea_item {
+    scroll-snap-align: center;
+
+  }
+
+  .korea_image {
+    width: 150px;
+    height: 84px;
+    object-fit: cover;
+  }
   /* TV Category */
   .tv_category {
     display: flex;
