@@ -317,7 +317,7 @@ marquee {
     object-fit: cover;
   }
   /* KOREA TV */
-  .korea {
+  .koreatv {
     display: flex;
     align-items: center;
     gap: 4px;
@@ -326,12 +326,12 @@ marquee {
 
   }
 
-  .korea_item {
+  .koreatv_item {
     scroll-snap-align: center;
 
   }
 
-  .korea_image {
+  .koreatv_image {
     width: 150px;
     height: 84px;
     object-fit: cover;
@@ -588,7 +588,7 @@ marquee {
   }
   
   /* KOREA TV */
-  .korea {
+  .koreatv {
     display: flex;
     align-items: center;
     gap: 2px;
@@ -596,12 +596,12 @@ marquee {
     scroll-snap-type: x mandatory;
   }
 
-  .korea_item {
+  .koreatv_item {
     scroll-snap-align: center;
     align-items: stretch;
   }
 
-  .korea_image {
+  .koreatv_image {
     width: 170px;
     height: 96px;
     object-fit: cover;
@@ -966,7 +966,7 @@ marquee {
   }
   
   /* KOREA TV */
-  .korea {
+  .koreatv {
     display: flex;
     align-items: center;
     gap: 2px;
@@ -974,12 +974,12 @@ marquee {
     scroll-snap-type: x mandatory;
   }
 
-  .korea_item {
+  .koreatv_item {
     scroll-snap-align: center;
     align-items: stretch;
   }
 
-  .korea_image {
+  .koreatv_image {
     width: 250px;
     height: 141px;
     object-fit: cover;
