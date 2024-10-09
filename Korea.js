@@ -10,4 +10,7 @@ document.getElementById("objek").innerHTML = '<iframe src="intent://ogtv1.com/pl
 function kbs2() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://ogtv1.com/plugin/livetv/pc/pc_view.php?co=01&ch=1005#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
+function kbs2() {
+document.getElementById("objek").innerHTML = '<iframe src="intent://ogtv1.com/plugin/livetv/pc/pc_view.php?co=01&ch=1006#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
 
