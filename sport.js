@@ -16,7 +16,7 @@ document.getElementById("objek").innerHTML = '<iframe src="intent://snsporthd.ve
 function skyf1() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://cdn.aluku91.online/uk-skysportf1.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-function manutv2() {
+function mutv2() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function realtv() {
