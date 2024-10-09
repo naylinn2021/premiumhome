@@ -19,7 +19,7 @@ document.getElementById("objek").innerHTML = '<iframe src="intent://cdn.aluku91.
 function mutv2() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
-function realtv() {
+function realtv2() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function wwe() {
