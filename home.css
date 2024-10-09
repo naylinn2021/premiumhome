@@ -316,7 +316,7 @@ marquee {
     height: 84px;
     object-fit: cover;
   }
-  /* korea tv */
+  /* KOREA TV */
   .korea {
     display: flex;
     align-items: center;
@@ -336,6 +336,7 @@ marquee {
     height: 84px;
     object-fit: cover;
   }
+  
   /* TV Category */
   .tv_category {
     display: flex;
