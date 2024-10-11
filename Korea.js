@@ -27,3 +27,6 @@ document.getElementById("objek").innerHTML = '<iframe src="intent://ogtv1.com/pl
 function jtbc() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://ogtv1.com/plugin/livetv/pc/pc_view.php?co=01&ch=1009#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
+function kdr() {
+document.getElementById("objek").innerHTML = '<iframe src="intent://livetv.work/play/kbs-n91.php#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
