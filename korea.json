@@ -56,10 +56,10 @@
       "jam": "JTBC"
     },
     {
-      "poster": "https://i.imgur.com/R3FEk8Z.jpeg",
-      "url": "kdr",
+      "poster": "https://i.imgur.com/gxm4VBp.jpeg",
+      "url": "kbsjoy",
       "tanggal": "",
-      "jam": "K_DRAMA VPN"
+      "jam": "KBS JOY"
     },
     {
       "poster": "https://i.imgur.com/XzZiVx4.jpeg",
@@ -68,11 +68,12 @@
       "jam": "KBS LIFE"
     },
     {
-      "poster": "",
-      "url": "kbsjoy",
+      "poster": "https://i.imgur.com/R3FEk8Z.jpeg",
+      "url": "kdr",
       "tanggal": "",
-      "jam": "KBS JOY"
+      "jam": "K_DRAMA VPN"
     }
+    
     
     
   ]
