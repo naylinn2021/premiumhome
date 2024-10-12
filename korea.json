@@ -32,6 +32,12 @@
       "jam": "MBN"
     },
     {
+      "poster": "https://i.imgur.com/sBU3T9X.jpeg",
+      "url": "ocn",
+      "tanggal": "",
+      "jam": "OCN"
+    },
+    {
       "poster": "https://i.imgur.com/I9wXtMC.jpeg",
       "url": "kbs1",
       "tanggal": "",
@@ -72,7 +78,13 @@
       "url": "kdr",
       "tanggal": "",
       "jam": "K_DRAMA VPN"
-    }
+    },
+    {
+      "poster": "",
+      "url": "pink",
+      "tanggal": "",
+      "jam": "PINK"
+    },
     
     
     
