@@ -5,7 +5,7 @@ function live2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://hls.cdnokvip.com/live/SAITIEN/index.m3u8?expire=1861716660&sign=80295b8e59d35e11c5cfb7dfd7031087|referer=https://ls18.live/origin=https://ls18.live/&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1728222506-0-0-684db29df6bf5ba9ea90b7ea56daf734|referer=https://m.socolivep.com/origin=https://m.socolivep.com/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://ogtv1.com/plugin/livestream/mobile/mobile_view.php?title=%EC%9E%85%EC%8A%A4%EC%9C%84%EC%B9%98%20%20vs%20%20%EC%97%90%EB%B2%84%ED%84%B4%20&co=01&ch=229#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
 function live4() {
