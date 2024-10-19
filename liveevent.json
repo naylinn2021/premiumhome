@@ -9,40 +9,40 @@
     },
     {
       "poster": "https://www.thesportsdb.com/images/media/event/thumb/u199i41718955069.jpg/small",
-      "url": "eurosport2DE",
+      "url": "live1",
       "tanggal": "Man-U-vs-Brentford",
       "jam": "19 OCT 2024 - 08:30"
       
     },
     {
       "poster": "https://www.thesportsdb.com/images/media/event/thumb/ql58671718953986.jpg/small",
-      "url": "playsport1",
+      "url": "live2",
       "tanggal": "Fulham-vs-Aston-Villa",
       "jam": "19 OCT 2024 - 08:30"
     },
     {
       "poster": "https://www.thesportsdb.com/images/media/event/thumb/3kjzul1718955068.jpg/small",
-      "url": "playsport2",
+      "url": "live3",
       "tanggal": "Ipswich-vs-Everton",
       "jam": "19 OCT 2024 - 08:30"
     },
     {
       "poster": "https://www.thesportsdb.com/images/media/event/thumb/bdlqft1689062624.jpg/small",
-      "url": "playsport3",
+      "url": "live4",
       "tanggal": "Newcastle-vs-Brighton",
       "jam": "19 OCT 2024 - 08:30"
       
     },
     {
       "poster": "https://www.thesportsdb.com/images/media/event/thumb/q6u34m1720158997.jpg",
-      "url": "ArenaSport1RS",
+      "url": "live5",
       "tanggal": "Southampton-vs-Leicester",
       "jam": "19 OCT 2024 - 8:30"
       
     },
     {
       "poster": "https://www.thesportsdb.com/images/media/event/thumb/0xeia31689062490.jpg/small",
-      "url": "spotv",
+      "url": "live6",
       "tanggal": "Bournemouth-vs-Arsenal",
       "jam": "19 OCT 2024 - 11:00"
       
@@ -71,35 +71,7 @@
       "poster": "https://www.thesportsdb.com/images/media/event/thumb/ogk6tw1719563337.jpg/small",
       "url": "DAZNLaLiga",
       "tanggal": "Celta-Vigo-vs-Real-Madrid",
-      "jam": "19 OCT 2024 - 1:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/rnl41a1720175813.jpg/small",
-      "url": "dazn1es",
-      "tanggal": "Como-vs-Parma",
-      "jam": "19 OCT 2024 - 07:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/mwosxu1720175815.jpg/small",
-      "url": "dazn1e2",
-      "tanggal": "Genoa-vs-Bologna",
-      "jam": "19 OCT 2024 - 07:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/twydne1720175817.jpg/small",
-      "url": "tnt1",
-      "tanggal": "AC-Milan-vs-Udinese",
-      "jam": "19 OCT 2024 - 10:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/tgrx011720175816.jpg/small",
-      "url": "tnt3",
-      "tanggal": "Juventus-vs-Lazio",
-      "jam": "19 OCT 2024 - 01:15"
+      "jam": "20 OCT 2024 - 1:30"
       
     }
     
