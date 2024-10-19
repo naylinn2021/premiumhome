@@ -36,7 +36,7 @@ function live12() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1725114262-0-0-4891b0e7208b13c9eeecd9a3d303b024|referer=https://m.socoliveb.me/origin=https://m.socoliveb.me/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live13() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://ogtv1.com/plugin/livestream/mobile/mobile_view.php?title=%ED%86%A0%ED%8A%B8%EB%84%98%20%20vs%20%20%EC%9B%A8%EC%8A%A4%ED%8A%B8%ED%96%84%20&co=01&ch=219#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://ogtv1.com/plugin/livestream/mobile/mobile_view.php?title=%ED%86%A0%ED%8A%B8%EB%84%98%20%20vs%20%20%EC%9B%A8%EC%8A%A4%ED%8A%B8%ED%96%84%20&co=01&ch=219#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function phoenix() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://www.fengshows.com/live#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
