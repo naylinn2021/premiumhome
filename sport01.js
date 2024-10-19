@@ -374,6 +374,49 @@ function PrimaSport4() {
 
 
 
+
+
+
+
+
+
+
+function eurosport1DE() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-027/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function eurosport2DE() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function eurosport1ES() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-031/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function eurosport2ES() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-032/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+
+function playsport1() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function playsport2() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function playsport3() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+
+
+function vsport1() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd?|drmScheme=clearkey&drmLicense=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function vsportpremium() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd?|drmScheme=clearkey&drmLicense=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function vsportfootball() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd?|drmScheme=clearkey&drmLicense=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function vsportultrahd() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd?|drmScheme=clearkey&drmLicense=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
 function peacock() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd|drmScheme=clearkey&drmLicense=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
@@ -394,6 +437,53 @@ function DAZN2Spain() {
 };
 function DAZNLaLiga() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd|drmScheme=clearkey&drmLicense=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+
+function dazn1es() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function dazn2es() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-038/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+
+
+function dazneleven1() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function dazneleven2() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function dazneleven3() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function dazneleven4() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function dazneleven5() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function dazneleven6() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd?|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+
+
+function universoUS() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd|drmScheme=clearkey&drmLicense=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function cbsnUS() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/manifest.mpd|drmScheme=clearkey&drmLicense=3ca2eb502e8746168c77ad9a506bb293:342972045bddbc97f43cc3c841cdc6b9#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function espnuUs() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://fl5.moveonjoy.com/ESPN_U/manifest.mpd|drmScheme=clearkey&drmLicense=3ca2eb502e8746168c77ad9a506bb293:342972045bddbc97f43cc3c841cdc6b9#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function telemundUs() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd|drmScheme=clearkey&drmLicense=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function nbcS4Us() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd|drmScheme=clearkey&drmLicense=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+};
+function beinSportsUS() {
+  document.getElementById("objek").innerHTML = '<iframe src="intent://fl2.moveonjoy.com/BEIN_SPORTS/manifest.mpd|drmScheme=clearkey&drmLicense=3ca2eb502e8746168c77ad9a506bb293:342972045bddbc97f43cc3c841cdc6b9#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
 
