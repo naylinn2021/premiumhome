@@ -1,58 +1,17 @@
 {
   "event": [
-    
     {
-      "poster": "https://i.imgur.com/dEYBP31.jpeg",
-      "url": "live4",
-      "tanggal": "Man-U-vs-Brentford",
-      "jam": "19 OCT 2024 - 08:30"
+      "poster": "https://i.imgur.com/wgOlQS9.jpeg",
+      "url": "USANetwork",
+      "tanggal": "Wolves-vs-Man-City",
+      "jam": "20 OCT 2024 - 07:30"
       
     },
     {
-      "poster": "https://i.imgur.com/dEYBP31.jpeg",
-      "url": "live13",
-      "tanggal": "Man-U-vs-Brentford",
-      "jam": "19 OCT 2024 - 08:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/ql58671718953986.jpg/small",
-      "url": "live2",
-      "tanggal": "Fulham-vs-Aston-Villa",
-      "jam": "19 OCT 2024 - 08:30"
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/3kjzul1718955068.jpg/small",
-      "url": "live3",
-      "tanggal": "Ipswich-vs-Everton",
-      "jam": "19 OCT 2024 - 08:30"
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/bdlqft1689062624.jpg/small",
-      "url": "live1",
-      "tanggal": "Newcastle-vs-Brighton",
-      "jam": "19 OCT 2024 - 08:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/q6u34m1720158997.jpg",
-      "url": "live5",
-      "tanggal": "Southampton-vs-Leicester",
-      "jam": "19 OCT 2024 - 8:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/0xeia31689062490.jpg/small",
-      "url": "live6",
-      "tanggal": "Bournemouth-vs-Arsenal",
-      "jam": "19 OCT 2024 - 11:00"
-      
-    },
-    {
-      "poster": "https://i.imgur.com/wYXxETj.jpeg",
-      "url": "live12",
-      "tanggal": "LIVE",
-      "jam": "LIVE"
+      "poster": "https://i.imgur.com/mudcWbw.jpeg",
+      "url": "playsport1",
+      "tanggal": "Liverpool-vs-Chelsea",
+      "jam": "20 OCT 2024 - 10:00"
       
     }
     
