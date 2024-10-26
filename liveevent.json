@@ -1,38 +1,86 @@
 {
   "event": [
     {
-      "poster": "https://i.imgur.com/wgOlQS9.jpeg",
-      "url": "live3",
-      "tanggal": "Wolves-vs-Man-City",
-      "jam": "20 OCT 2024 - 07:30"
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/0rm6951719563356.jpg/small",
+      "url": "dazneleven1",
+      "tanggal": "Valladolid-vs-Villarreal",
+      "jam": "26 OCT 2024 - 06:30"
       
     },
     {
-      "poster": "https://i.imgur.com/wgOlQS9.jpeg",
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/ync8d61720175823.jpg/small",
+      "url": "ArenaSport3RS ",
+      "tanggal": "Napoli-vs-Lecce",
+      "jam": "26 OCT 2024 - 07:30"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/4y28l81720178837.jpg",
+      "url": " ",
+      "tanggal": "Stuttgart-&-Holstein-Kiel",
+      "jam": "26 OCT 2024 - 08:00"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/f5svp01720178840.jpg/small",
+      "url": "dazneleven6 ",
+      "tanggal": "RB-Leipzig-vs-Freiburg",
+      "jam": "26 OCT 2024 - 08:00"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/uv0x3b1718955071.jpg/small",
       "url": "USANetwork",
-      "tanggal": "Wolves-vs-Man-City",
-      "jam": "20 OCT 2024 - 07:30"
+      "tanggal": "Aston-Villa-vs-Bournemouth",
+      "jam": "26 OCT 2024 - 08:30"
       
     },
     {
-      "poster": "https://i.imgur.com/mudcWbw.jpeg",
-      "url": "live3",
-      "tanggal": "Liverpool-vs-Chelsea",
-      "jam": "20 OCT 2024 - 10:00"
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/cajvui1718955072.jpg/small",
+      "url": "ArenaSport4RS",
+      "tanggal": "Brentford-vs-Ipswich",
+      "jam": "26 OCT 2024 - 08:30"
       
     },
     {
-      "poster": "https://i.imgur.com/mudcWbw.jpeg",
-      "url": "live1",
-      "tanggal": "Liverpool-vs-Chelsea",
-      "jam": "20 OCT 2024 - 10:00"
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/ac8y3f1689062554.jpg/small",
+      "url": "vsportfootball",
+      "tanggal": "Brighton-vs-Wolves",
+      "jam": "26 OCT 2024 - 08:30"
       
     },
     {
-      "poster": "https://i.imgur.com/mudcWbw.jpeg",
-      "url": "live4",
-      "tanggal": "Liverpool-vs-Chelsea",
-      "jam": "20 OCT 2024 - 10:00"
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/u1jw4j1718955073.jpg/small",
+      "url": "playsport1",
+      "tanggal": "Man-City-vs-Southampton",
+      "jam": "26 OCT 2024 - 08:30"
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/e6dbmm1719563357.jpg/small",
+      "url": "dazneleven5 ",
+      "tanggal": "Vallecano-vs-Alaves",
+      "jam": "26 OCT 2024 - 08:45"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/923sp71689062465.jpg/small",
+      "url": "playsport1",
+      "tanggal": "Everton-vs-Fulham",
+      "jam": "26 OCT 2024 - 11:00"
+    },
+    
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/u9xi571719563353.jpg/small",
+      "url": "dazneleven1",
+      "tanggal": "Las-Palmas-vs-Girona",
+      "jam": "26 OCT 2024 - 11:00"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/qv1q6g1720178847.jpg/small",
+      "url": "dazneleven3",
+      "tanggal": "Werder-Brmen-&-Leverkusen",
+      "jam": "26 OCT 2024 - 11:00"
       
     }
     
