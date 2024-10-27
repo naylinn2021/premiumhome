@@ -1,33 +1,6 @@
 {
   "event": [
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/i9y2ca1720175824.jpg/small",
-      "url": "ArenaSport1PremiumRS ",
-      "tanggal": "Parma-Calcio-vs-Empoli",
-      "jam": "27 OCT 2024 - 05:00"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/uxjrb21719563352.jpg/small",
-      "url": "dazneleven5",
-      "tanggal": "Leganes-vs-Celta-Vigo",
-      "jam": "27 OCT 2024 - 06:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/vdla7j1718955074.jpg/small",
-      "url": "live1",
-      "tanggal": "West-Ham-vs-Man-U",
-      "jam": "27 OCT 2024 - 07:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/ue1w3d1689062585.jpg/small",
-      "url": "live2",
-      "tanggal": "Chelsea-vs-Newcastle",
-      "jam": "27 OCT 2024 - 07:30"
-      
-    },
+    
     {
       "poster": "https://www.thesportsdb.com/images/media/event/thumb/ue1w3d1689062585.jpg/small",
       "url": "USANetwork ",
@@ -65,7 +38,7 @@
     },
     {
       "poster": "https://www.thesportsdb.com/images/media/event/thumb/cocbpx1689062561.jpg/small",
-      "url": "playsport2 ",
+      "url": "USANetwork ",
       "tanggal": "Arsenal-vs-Liverpool",
       "jam": "27 OCT 2024 - 11:00"
       
