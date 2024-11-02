@@ -9,7 +9,7 @@ function live3() {
 };
 
 function live4() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://fv1052.huibo.tv/GE/H23/chunks.m3u8?wsSecret=81f3c135b50294464dc6e2ffdc0450eb&wsTime=1730561296|referer=https://55goal.com/origin=https://55goal.com/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.dangaoka.com/live/stream-551893_lhd.flv?auth_key=1730565552-0-0-2b5ec7319984f4c60801687779875a8e|referer=https://m.yyzbtv8.com/origin=https://m.yyzbtv8.com/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live5() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1728222746-0-0-22a9a6ed1bd73ede8ceb8fafa878ed37|referer=https://m.socolivep.com/origin=https://m.socolivep.com/User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
