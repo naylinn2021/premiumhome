@@ -5,7 +5,7 @@ function live2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://fv1052.huibo.tv/GE/H13/chunks.m3u8?wsSecret=4325d56fb0323c7d288408d615131c55&wsTime=1730561036|referer=https://55goal.com/origin=https://55goal.com/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://hls.cdnokvip.com/live/TAOTHAO/index.m3u8?expire=1861716660&sign=8a0ddc66aa29be883fc7f55805a10e1b|referer=https://ls19.live/origin=https://ls19.live/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://ftlive.s.llnwi.net/b/GE/H19/chunks.m3u8?p=47&cf=1730560572&group=55g&d=bc8f86cb113479f0001b269d65d767f0&e=1730561182&h=efe80274c31b218cacde0dbe5d05cbbe|referer=https://55goal.com/origin=https://55goal.com/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
 function live4() {
