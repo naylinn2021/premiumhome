@@ -2,7 +2,7 @@ function live1() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://a2.cdn-games.live/watch/u2TjBd2zlZZHTdph0WqEFw/1730551174/1730551428/1/tnt1_1.m3u8|referer=https://9goals.live/origin=https://9goals.live/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live2() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://live.95tv.live/channel/25/playlist.m3u8|referer=https://95tv.live/watch-channel/origin=https://95tv.live/watch-channel/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://hls.cdnokvip.com/live/CONGTONTHANG/index.m3u8?expire=1861716660&sign=f4afc0343e605680a37652c57fa0606d|referer=https://ls19.live/origin=https://ls19.live/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live3() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://ogtv1.com/plugin/livestream/mobile/mobile_view.php?title=리버풀  vs  첼시 &co=01&ch=124#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
