@@ -1,43 +1,23 @@
 {
   "event": [
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/cvjjpm1718955077.jpg/small",
-      "url": "live2 ",
-      "tanggal": "Tottenham-vs-Aston-Villa",
-      "jam": "3 NOV 2024 - 08:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/cvjjpm1718955077.jpg/small",
-      "url": "live1 ",
-      "tanggal": "Tottenham-vs-Aston-Villa",
-      "jam": "3 NOV 2024 - 08:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/cvjjpm1718955077.jpg/small",
-      "url": "USANetwork ",
-      "tanggal": "Tottenham-vs-Aston-Villa",
-      "jam": "3 NOV 2024 - 08:30"
-      
-    },
+    
     {
       "poster": "https://www.thesportsdb.com/images/media/event/thumb/j76w9k1718955076.jpg/small",
-      "url": "dazn1es",
+      "url": "live1",
       "tanggal": "Man-United-vs-Chelsea",
       "jam": "3 NOV 2024 - 11:00"
       
     },
     {
       "poster": "https://www.thesportsdb.com/images/media/event/thumb/j76w9k1718955076.jpg/small",
-      "url": "dazn1es",
+      "url": "live2",
       "tanggal": "Man-United-vs-Chelsea",
       "jam": "3 NOV 2024 - 11:00"
       
     },
     {
       "poster": "https://www.thesportsdb.com/images/media/event/thumb/j76w9k1718955076.jpg/small",
-      "url": "dazn1es",
+      "url": "live3",
       "tanggal": "Man-United-vs-Chelsea",
       "jam": "3 NOV 2024 - 11:00"
       
