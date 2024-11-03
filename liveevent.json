@@ -1,45 +1,38 @@
 {
   "event": [
     {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/q7pjdm1689062510.jpg/small",
-      "url": "live1 ",
-      "tanggal": "Newcastle-vs-Arsenal",
-      "jam": "2 NOV 2024 - 07:00"
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/cvjjpm1718955077.jpg/small",
+      "url": "dazn1es ",
+      "tanggal": "Tottenham-vs-Aston-Villa",
+      "jam": "3 NOV 2024 - 08:30"
       
     },
     {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/nqpdna1718955075.jpg/small",
-      "url": "live2",
-      "tanggal": "Bournemouth-vs-Man-City",
-      "jam": "2 NOV 2024 - 09:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/b7lgjo1689062593.jpg/small",
-      "url": "live3",
-      "tanggal": "Liverpool-vs-Brighton",
-      "jam": "2 NOV 2024 - 09:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/ytt9os1689062573.jpg/small",
-      "url": "live4",
-      "tanggal": "Nottingham-vs-West-Ham",
-      "jam": "2 NOV 2024 - 09:30"
-      
-    },
-    {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/glbw4u1718955077.jpg/small",
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/cvjjpm1718955077.jpg/small",
       "url": "USANetwork ",
-      "tanggal": "Southampton-vs-Everton",
-      "jam": "2 NOV 2024 - 09:30"
+      "tanggal": "Tottenham-vs-Aston-Villa",
+      "jam": "3 NOV 2024 - 08:30"
       
     },
     {
-      "poster": "https://www.thesportsdb.com/images/media/event/thumb/cbw8ff1689062625.jpg/small",
-      "url": "live6",
-      "tanggal": "Wolves-vs-Crystal-Palace",
-      "jam": "2 NOV 2024 - 12:00"
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/j76w9k1718955076.jpg/small",
+      "url": "USANetwork ",
+      "tanggal": "မန်ယူ-vs-ချဲလ်ဆီး",
+      "jam": "3 NOV 2024 - 11:00"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/j76w9k1718955076.jpg/small",
+      "url": "dazn1es",
+      "tanggal": "Man-United-vs-Chelsea",
+      "jam": "3 NOV 2024 - 11:00"
+      
+    },
+    {
+      "poster": "https://www.thesportsdb.com/images/media/event/thumb/j76w9k1718955076.jpg/small",
+      "url": "vsportpremium",
+      "tanggal": "မန်ယူ-vs-ချဲလ်ဆီး",
+      "jam": "3 NOV 2024 - 11:00"
       
     }
     
