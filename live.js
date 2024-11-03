@@ -5,7 +5,7 @@ function live2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://pull.dangaoka.com/live/stream-505050_lsd.flv?auth_key=1730654651-0-0-17a7a5b2359fc55ed528f60bf1bed334|referer=https://m.yyzbtv8.com/origin=https://m.yyzbtv8.com/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.dangaoka.com/live/stream-551866_lsd.flv?auth_key=1730565791-0-0-7e48bc246d4e0c644924462cb6526a24|referer=https://m.yyzbtv8.com/origin=https://m.yyzbtv8.com/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.dangaoka.com/live/stream-505050_lhd.flv?auth_key=1730654651-0-0-a956a35161000f329e6aff3d781e0268|referer=https://m.yyzbtv8.com/origin=https://m.yyzbtv8.com/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
 function live4() {
