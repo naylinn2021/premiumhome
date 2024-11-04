@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>영상</title>
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="robots" content="noindex,nofollow">
+</head>
+<body style="margin:0">
+<section class="player_section" style="border-radius:5px; overflow:hidden;">
+<img src='https:///liveedge/live1000/image.gif' style='display:none;' width='1' height='1'>
+
+	<div id="player"></div>
+</section>
+<script src="https://ogtv1.com/plugin/livetv/js/jquery-1.11.3.min.js"></script>
+<script src="https://ogtv1.com/plugin/livetv/js/jwplayer840.js"></script>
+<script>
+	(function ($) {
+		$(document).ready(function () {
+			var player = jwplayer("player");
+			player.setup({
+				sources: [{
+				file: "https://cdnnowstream.com/cdnnow/live1000/playlist.m3u8?wsSecret=bdedcc5a7dd912aa1f92839b71b98b53&wsTime=1730740418&site=ogtv",
+				}],
+				width: "100%",
+				stretching: "exactfit",
+				primary: "flash",
+				hlshtml: true,
+				aspectratio: "16:9",
+				autostart: true,
+				logo: {
+					file: "https://ogtv1.com/plugin/livetv/img/logo.png",
+					hide: "false",
+					link: "",
+					margin: "12",
+					position: "top-right"
+				}
+			}).on("ready", function () {
+				if ($(window.parent.document).find("#player" + "").length !== 0) {
+					$(window.parent.document).find("#player" + "").closest(".stream_box").height(document.body.scrollHeight);
+				}
+			});
+		});
+	})(jQuery);
+</script>
+</body>
+</html>
