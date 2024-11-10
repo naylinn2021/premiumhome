@@ -9,7 +9,7 @@ function live3() {
 };
 
 function live4() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://live.95tv.live/channel/25/playlist.m3u8|referer=https://95tv.live/watch-channel/origin=https://95tv.live/watch-channel/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://live.95tv.live/channel/5/playlist.m3u8|referer=https://95tv.live/watch-channel/origin=https://95tv.live/watch-channel/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live5() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1728222746-0-0-22a9a6ed1bd73ede8ceb8fafa878ed37|referer=https://m.socolivep.com/origin=https://m.socolivep.com/User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
