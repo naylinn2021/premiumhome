@@ -1,5 +1,5 @@
 function f1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://cdn.aluku91.foundation/uk-skysportf1.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://s2.bluetoblue.online/uk-skysportf1.m3u8|referer=https://365streamtv.live/origin=https://365streamtv.live/|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
 function f1b() {
