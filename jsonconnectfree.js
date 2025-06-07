@@ -132,23 +132,24 @@ function(result) {
   });
 });
 
-// jsonconnect ustv
-$.getJSON('/ustv.json', 
+// jsonconnect ustv = No VPN (VPN မလို)
+ $.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/ustv.json', 
 function(result) {
-   let ustv = result.ustv;
-   console.log(ustv);
+  let ustv = result.ustv;
+  //console.log(ustv);
 
-   let kategory = 'popular';
-   $.each(ustv, function(i, result) {
-     if (kategory = result.kategori) {
-       $('#ustv').append('<div id="' + result.id + '" class="sportlist_item"><img src="' + result.logo + '" class="tv_image"></div>');
-       $('#' + result.id + '').click(function() {
-         document.getElementById("objek").innerHTML = '<iframe src="intent://' + result.url + '?|referer=' + result.ref + '&User-Agent=' + result.useragent + '#Intent;scheme=' + result.protokol + ';type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;display:none;" title="SS Sport"></iframe>'
-       });
-     }
+  let kategory = 'popular';
+ $.each(ustv, function(i, result) {
+  if (kategory = result.kategori) {
+    $('#ustv').append('<div id="' + result.id + '" class="sportlist_item"><img src="' + result.logo + '" class="tv_image"></div>');
+      $('#' + result.id + '').click(function() {
+       document.getElementById("objek").innerHTML = '<iframe src="intent://' + result.url + '|drmScheme=clearkey&drmLicense=' + result.ref + '#Intent;scheme=' + result.protokol + ';type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;display:none;" title="SS Sport"></iframe>'
+     });
+   }
 
-   });
+  });
  });
+
 
 // jsonconnect thaitv
 $.getJSON('/test.json', 
