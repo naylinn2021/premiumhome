@@ -1,66 +1,15 @@
 {
   "koreatv": [
     
-    {
-      "poster": "https://i.imgur.com/OFOXLIQ.jpeg",
-      "url": "sbsgolf",
-      "tanggal": "",
-      "jam": "SBS GOLF"
-    },
-    {
-      "poster": "https://i.imgur.com/6LQUg6s.jpeg",
-      "url": "jtbcgolf",
-      "tanggal": "",
-      "jam": "JTBC GOLF"
-    },
+    
     {
       "poster": "https://i.imgur.com/QLVgQPU.jpeg",
       "url": "kworld",
       "tanggal": "",
       "jam": "KBS WORLD"
     },
-    {
-      "poster": "https://i.imgur.com/EtmuoFp.jpeg",
-      "url": "tvn2",
-      "tanggal": "",
-      "jam": "TVN"
-    },
-    {
-      "poster": "https://i.imgur.com/VLdWNB6.jpeg",
-      "url": "mbn",
-      "tanggal": "",
-      "jam": "MBN"
-    },
-    {
-      "poster": "https://i.imgur.com/sBU3T9X.jpeg",
-      "url": "ocn",
-      "tanggal": "",
-      "jam": "OCN"
-    },
-    {
-      "poster": "https://i.imgur.com/I9wXtMC.jpeg",
-      "url": "kbs1",
-      "tanggal": "",
-      "jam": "KBS 1"
-    },
-    {
-      "poster": "https://i.imgur.com/2Of1Axt.jpeg",
-      "url": "kbs2",
-      "tanggal": "",
-      "jam": "KBS 2"
-    },
-    {
-      "poster": "https://i.imgur.com/HbuKr33.jpeg",
-      "url": "sbs",
-      "tanggal": "",
-      "jam": "SBS"
-    },
-    {
-      "poster": "https://i.imgur.com/DHPOfNZ.jpeg",
-      "url": "jtbc",
-      "tanggal": "",
-      "jam": "JTBC"
-    },
+    
+    
     {
       "poster": "https://i.imgur.com/gxm4VBp.jpeg",
       "url": "kbsjoy",
@@ -78,12 +27,6 @@
       "url": "kdr",
       "tanggal": "",
       "jam": "K_DRAMA VPN"
-    },
-    {
-      "poster": "https://i.imgur.com/Pz5xHoq.jpeg",
-      "url": "pink",
-      "tanggal": "",
-      "jam": "PINK"
     }
     
     
