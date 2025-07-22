@@ -19,7 +19,20 @@
 
   <!-- jQuery -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  // Disable Right Click
+  document.addEventListener('contextmenu', event => event.preventDefault());
 
+  // Disable Inspect Tools: F12, Ctrl+Shift+I, Ctrl+U
+  document.onkeydown = function(e) {
+    if (e.keyCode == 123 || // F12
+        (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) || // Ctrl+Shift+I
+        (e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) // Ctrl+U
+    ) {
+      return false;
+    }
+  };
+</script>
 </head>
 
 <body>
