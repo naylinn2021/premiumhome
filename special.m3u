@@ -26,12 +26,12 @@ https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_ZATLENN/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f6f62937490b418487461688af7003f0:c54f813eff5ff437ae23c6eb0daa80fb
 https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_MAEMADI/output2/index.mpd
 
-#EXTINF:-1 tvg-id="CANALSUSANN" tvg-name="CANALSUSANN" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-susann-myanmar-fr-mm.png" group-title="Movies",CANALSUSANN
+#EXTINF:-1 tvg-id="CANALCHATATE" tvg-name="CANALCHATATE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-chatate-myanmar-fr-mm.png" group-title="Movies",CANALCHATATE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ac26716ab1e473e88b3339a5e2e7244:e500f7fbafd481136abc6149358ceb00
-https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_SUSANN/output2/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=2cf23379b3da4347895742cd0592e376:ef7876fe520d4bef9bff0d0e840a7736
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_CHATATE/output2/index.mpd
 
 
 
