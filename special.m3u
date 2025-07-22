@@ -6,3 +6,13 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
+#EXTINF:-1 tvg-id="celestialmovie" tvg-name="Canalaction" tvg-logo="" group-title="Movies",Canalaction
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=22bc8b4fee6544f3867d093a16ad05a7:ec9d9e621f216266695a30f08b93900f
+https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_ACTION/output2/index.mpd
+
+
+
+
