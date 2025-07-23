@@ -28,12 +28,12 @@ https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo=https://iili.io/JmoBGnV.png" group-title="🇲🇲 KIDS 🇲🇲",CARTOON NETWORK
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="🇲🇲 KIDS 🇲🇲",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
-https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
