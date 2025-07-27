@@ -52,8 +52,16 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 
 
 
-#EXTINF:-1 tvg-id="MaharBadi" tvg-name="MaharBadi" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-action-myanmar-fr-mm.png" group-title="MYANMAR",MaharBadi
+#EXTINF:-1 tvg-id="MaharBadi" tvg-name="MaharBadi" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png" group-title="MYANMAR",MaharBadi
 https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1 tvg-id="MRTV 4" tvg-name="MRTV 4" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png" group-title="MYANMAR",MRTV 4
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1 tvg-id="Channel 7" tvg-name="Channel 7" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png" group-title="MYANMAR",Channel 7
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+
 
 
 
