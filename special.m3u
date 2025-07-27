@@ -65,7 +65,8 @@ https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 #EXTINF:-1 tvg-id="MAHAR HD" tvg-name="MAHAR HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-tv-mm.png" group-title="MYANMAR",MAHAR HD
 https://tv.mahar.live/mahar/website.stream/mahar/website1/index.m3u8|referer=https://wwww.atomstore.com
 
-
+#EXTINF:-1 tvg-id="FORTUNE" tvg-name="FORTUNE" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png" group-title="MYANMAR",FORTUNE
+https://tv.mahar.live/mahar/website.stream/mahar/website1/index.m3u8|referer=https://wwww.atomstore.com
 
 
 
