@@ -318,10 +318,6 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
 
 
 #EXTINF:-1 group-title="TEST Sports" tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png", TEST
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=610df937b7294960a3e7bd6ad23f1623
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8
 
 
