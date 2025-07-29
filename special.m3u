@@ -328,7 +328,15 @@ https://mmhdhub.com/wp-content/plugins/clean-tube-player/public/player-x.php?q=c
 
 
 
+{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd","id1" :"ed068cf84f0640ccbc7c0e395c0a272e","id2":"bb722190f2bb446391020411a7d0828b","name":"ZEE TV","logo":"https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png"}, 
 
+
+#EXTINF:-1 tvg-id="ZEE" tvg-name="ZEE" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-title="🇲🇲 MOVIES 🇲🇲",ZEE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 
 
