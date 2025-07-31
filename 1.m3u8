@@ -327,11 +327,9 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
 #EXTINF:-1 group-title="TEST Sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 6
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
 
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-chatate-myanmar-fr-mm.png" group-title="TEST Sports",WWE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://live-tv.b-cdn.net/logos/channels/uswnetwork.png" group-title="TEST Sports",WWE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=693cc1b9-3a53-4fbd-8366-3d2b57bab3c2
+#KODIPROP:inputstream.adaptive.license_key=693cc1b93a534fbd83663d2b57bab3c2
 https://s2.dogruncat.store/us-wnetwork.m3u8
 
 
