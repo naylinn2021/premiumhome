@@ -327,7 +327,7 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
 #EXTINF:-1 group-title="TEST Sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 6
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
 
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://live-tv.b-cdn.net/logos/channels/uswnetwork.png" group-title="TEST Sports",WWE https://s2.dogruncat.store/us-wnetwork.m3u8?auth_key=1753938671-1abc87c13ff86c34b6f64acf288d1a03-00000000000000000000000000000000-90166909c7bde2bf2e0cca2322e234aa
+#EXTINF:-1 group-title="TEST Sports" tvg-logo="https://live-tv.b-cdn.net/logos/channels/uswnetwork.png",WWE https://s2.dogruncat.store/us-wnetwork.m3u8?auth_key=1753938671-1abc87c13ff86c34b6f64acf288d1a03-00000000000000000000000000000000-90166909c7bde2bf2e0cca2322e234aa
 
 
 ==========.  MYA MYA.  =============
