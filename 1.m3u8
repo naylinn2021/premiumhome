@@ -328,8 +328,7 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
 
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://live-tv.b-cdn.net/logos/channels/uswnetwork.png" group-title="TEST Sports",WWE
-#data-id = 693cc1b9-3a53-4fbd-8366-3d2b57bab3c2
-https://s2.dogruncat.store/us-wnetwork.m3u8
+#data-id = https://s2.dogruncat.store/us-wnetwork.m3u8?auth_key=1753938671-1abc87c13ff86c34b6f64acf288d1a03-00000000000000000000000000000000-90166909c7bde2bf2e0cca2322e234aa
 
 
 ==========.  MYA MYA.  =============
