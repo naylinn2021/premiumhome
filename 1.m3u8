@@ -328,8 +328,7 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
 
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://live-tv.b-cdn.net/logos/channels/uswnetwork.png" group-title="TEST Sports",WWE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=693cc1b93a534fbd83663d2b57bab3c2
+#data-id = "693cc1b9-3a53-4fbd-8366-3d2b57bab3c2"
 https://s2.dogruncat.store/us-wnetwork.m3u8
 
 
