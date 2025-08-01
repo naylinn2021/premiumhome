@@ -1,6 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="", TEST 1
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=8e5303f53dd19ae619dfd86420e0f7d2&txTime=688b1b2f
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="", TEST 2
+https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=de318bc618a56250bf0e386e0320595d&txTime=688b1b2f
+
+=============== MOVIE ==============
 #EXTINF:-1 tvg-id="celestialmovie" tvg-name="Celestial Movie" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="🇲🇲 MOVIES 🇲🇲",Celestial Movie
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -27,6 +34,9 @@ https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
+#EXTINF:-1 tvg-id="SONY MAX" tvg-name="SONY MAX" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="🇲🇲 MOVIES 🇲🇲", SONY MAX
+https://live.dinesh29.com.np/stream/livetv/sonymaxhd/master.m3u8|Referer:http://www.nadimrazatv.online/
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -50,7 +60,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 
 
 
-
+============ MYANMAR ===============
 
 #EXTINF:-1 tvg-id="MaharBadi" tvg-name="MaharBadi" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png" group-title="MYANMAR",MaharBadi
 https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
@@ -85,7 +95,7 @@ https://tv.mahar.live/mahar/website.stream/mahar/website1/index.m3u8|referer=htt
 
 
 
-
+=============== KIDS ===============
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-uk-plus1-us-uk.png" group-title="🇲🇲 KIDS 🇲🇲",CARTOON NETWORK
 #KODIPROP:inputstream=inputstream.adaptive
@@ -120,6 +130,37 @@ https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 
 
 
+============= ⚽SPORT ==============
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="⚽SPORT",BEIN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/408/default_ott.mpd
+
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="⚽SPORT",BEIN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5066/default_ott.mpd
+
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="⚽SPORT",BEIN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2705/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="⚽SPORT",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title=" ⚽SPORT ",SONY TEN 1 HD
@@ -131,8 +172,8 @@ https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title=" ⚽SPORT ",SONY TEN 3 HD
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title=" ⚽SPORT ",SONY TEN 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+###EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title=" ⚽SPORT ",SONY TEN 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8##
 
 #EXTINF:-1 tvg-id="sonyten4hd.in" tvg-name="SONY TEN 4 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title=" ⚽SPORT ", SONY TEN 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
@@ -154,7 +195,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 
 
-
+========== ⚽SPORT 2 ===============
 
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rtmsport.png" group-title="⚽SPORTS 2",RTM SPORT
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/.
@@ -169,8 +210,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 
 
 
-#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="TEST Sports",F1
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8
 
 
 
@@ -180,8 +219,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUy
 
 
 
-
-
+============ KNOWLEDGE =============
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -301,7 +339,9 @@ https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_MAEMADI/output2/index.mpd
 https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_CHATATE/output2/index.mpd###
 
 
-
+============= TEST SPORT ===========
+#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="TEST Sports",F1
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8
 
 #EXTINF:-1 group-title="TEST Sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 1
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
@@ -321,14 +361,34 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
 #EXTINF:-1 group-title="TEST Sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 6
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
 
+#EXTINF:-1 group-title="TEST Sports" tvg-logo="https://live-tv.b-cdn.net/logos/channels/uswnetwork.png",WWE https://s2.dogruncat.store/us-wnetwork.m3u8?auth_key=1753938671-1abc87c13ff86c34b6f64acf288d1a03-00000000000000000000000000000000-90166909c7bde2bf2e0cca2322e234aa
 
-#EXTINF:-1 group-title="MYA MYA" tvg-logo="", TEACHER(WISEPLAY)
+
+==========.  MYA MYA.  =============
+#EXTINF:-1 group-title="MYA MYA" tvg-logo="", ဆရာမ (WISEPLAY)
 https://mmhdhub.com/wp-content/plugins/clean-tube-player/public/player-x.php?q=cG9zdF9pZD0yODIwNSZ0eXBlPXZpZGVvJnRhZz0lM0N2aWRlbyUyMGlkJTNEJTIyd3BzdC12aWRlbyUyMiUyMGNsYXNzJTNEJTIydmlkZW8tanMlMjB2anMtYmlnLXBsYXktY2VudGVyZWQlMjIlMjBjb250cm9scyUyMHByZWxvYWQlM0QlMjJhdXRvJTIyJTIwd2lkdGglM0QlMjI2NDAlMjIlMjBoZWlnaHQlM0QlMjIyNjQlMjIlMjBwb3N0ZXIlM0QlMjJodHRwcyUzQSUyRiUyRnlvdGVweWFtbS54eXolMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRjIwMjQlMkYxMiUyRjAwNTIzMy5qcGclMjIlM0UlM0Nzb3VyY2UlMjBzcmMlM0QlMjJodHRwcyUzQSUyRiUyRmNsb3VkLm1taGQtY2RuLmNvbSUyRnMlMkZtbWhkaHViJTJGZG93bmxvYWQlM0ZwYXRoJTNEJTI2ZmlsZXMlM0QwMDUyMzMubXA0JTIyJTIwdHlwZSUzRCUyMnZpZGVvJTJGbXA0JTIyJTNFJTNDJTJGdmlkZW8lM0U=
 
 
 
+#EXTINF:-1 group-title="MYA MYA" tvg-logo="", မန်နေဂျာ(WISEPLAY)
+https://mmhdhub.com/wp-content/plugins/clean-tube-player/public/player-x.php?q=cG9zdF9pZD0yODEzOCZ0eXBlPXZpZGVvJnRhZz0lM0N2aWRlbyUyMGlkJTNEJTIyd3BzdC12aWRlbyUyMiUyMGNsYXNzJTNEJTIydmlkZW8tanMlMjB2anMtYmlnLXBsYXktY2VudGVyZWQlMjIlMjBjb250cm9scyUyMHByZWxvYWQlM0QlMjJhdXRvJTIyJTIwd2lkdGglM0QlMjI2NDAlMjIlMjBoZWlnaHQlM0QlMjIyNjQlMjIlMjBwb3N0ZXIlM0QlMjJodHRwcyUzQSUyRiUyRnlvdGVweWFtbS54eXolMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRjIwMjQlMkYxMSUyRjAwNTIwMy5qcGclMjIlM0UlM0Nzb3VyY2UlMjBzcmMlM0QlMjJodHRwcyUzQSUyRiUyRmNsb3VkLm1taGQtY2RuLmNvbSUyRnMlMkZtbWhkaHViJTJGZG93bmxvYWQlM0ZwYXRoJTNEJTI2ZmlsZXMlM0QwMDUyMDMubXA0JTIyJTIwdHlwZSUzRCUyMnZpZGVvJTJGbXA0JTIyJTNFJTNDJTJGdmlkZW8lM0U=
 
-{"id":"https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd","id1" :"ed068cf84f0640ccbc7c0e395c0a272e","id2":"bb722190f2bb446391020411a7d0828b","name":"ZEE TV","logo":"https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png"}, 
+
+#EXTINF:-1 group-title="MYA MYA" tvg-logo="", ဇော်ဇော် (WISEPLAY)
+https://mmhdhub.com/wp-content/plugins/clean-tube-player/public/player-x.php?q=cG9zdF9pZD0yODEyMSZ0eXBlPXZpZGVvJnRhZz0lM0N2aWRlbyUyMGlkJTNEJTIyd3BzdC12aWRlbyUyMiUyMGNsYXNzJTNEJTIydmlkZW8tanMlMjB2anMtYmlnLXBsYXktY2VudGVyZWQlMjIlMjBjb250cm9scyUyMHByZWxvYWQlM0QlMjJhdXRvJTIyJTIwd2lkdGglM0QlMjI2NDAlMjIlMjBoZWlnaHQlM0QlMjIyNjQlMjIlMjBwb3N0ZXIlM0QlMjJodHRwcyUzQSUyRiUyRnlvdGVweWFtbS54eXolMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRjIwMjQlMkYxMSUyRjAwNTE5NS5qcGclMjIlM0UlM0Nzb3VyY2UlMjBzcmMlM0QlMjJodHRwcyUzQSUyRiUyRmNsb3VkLm1taGQtY2RuLmNvbSUyRnMlMkZtbWhkaHViJTJGZG93bmxvYWQlM0ZwYXRoJTNEJTI2ZmlsZXMlM0QwMDUxOTUubXA0JTIyJTIwdHlwZSUzRCUyMnZpZGVvJTJGbXA0JTIyJTNFJTNDJTJGdmlkZW8lM0U=
+
+#EXTINF:-1 group-title="MYA MYA" tvg-logo="", ဆံသဆရာမလေး (WISEPLAY)
+https://mmhdhub.com/wp-content/plugins/clean-tube-player/public/player-x.php?q=cG9zdF9pZD0yNzM4OSZ0eXBlPXZpZGVvJnRhZz0lM0N2aWRlbyUyMGlkJTNEJTIyd3BzdC12aWRlbyUyMiUyMGNsYXNzJTNEJTIydmlkZW8tanMlMjB2anMtYmlnLXBsYXktY2VudGVyZWQlMjIlMjBjb250cm9scyUyMHByZWxvYWQlM0QlMjJhdXRvJTIyJTIwd2lkdGglM0QlMjI2NDAlMjIlMjBoZWlnaHQlM0QlMjIyNjQlMjIlMjBwb3N0ZXIlM0QlMjJodHRwcyUzQSUyRiUyRnlvdGVweWFtbS54eXolMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRjIwMjQlMkYwOSUyRjAwNDkwMC5qcGclMjIlM0UlM0Nzb3VyY2UlMjBzcmMlM0QlMjJodHRwcyUzQSUyRiUyRmNsb3VkLm1taGQtY2RuLmNvbSUyRnMlMkZtbWhkaHViJTJGZG93bmxvYWQlM0ZwYXRoJTNEJTI2ZmlsZXMlM0QwMDQ5MDAubXA0JTIyJTIwdHlwZSUzRCUyMnZpZGVvJTJGbXA0JTIyJTNFJTNDJTJGdmlkZW8lM0U=
+
+#EXTINF:-1 group-title="MYA MYA" tvg-logo="", ဂျပန်ကျောင်းသူ (WISEPLAY)
+https://mmhdhub.com/wp-content/plugins/clean-tube-player/public/player-x.php?q=cG9zdF9pZD0yNjU1NiZ0eXBlPXZpZGVvJnRhZz0lM0N2aWRlbyUyMGlkJTNEJTIyd3BzdC12aWRlbyUyMiUyMGNsYXNzJTNEJTIydmlkZW8tanMlMjB2anMtYmlnLXBsYXktY2VudGVyZWQlMjIlMjBjb250cm9scyUyMHByZWxvYWQlM0QlMjJhdXRvJTIyJTIwd2lkdGglM0QlMjI2NDAlMjIlMjBoZWlnaHQlM0QlMjIyNjQlMjIlMjBwb3N0ZXIlM0QlMjJodHRwcyUzQSUyRiUyRnlvdGVweWFtbS54eXolMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRjIwMjQlMkYwNyUyRjAwNDU1MS5qcGclMjIlM0UlM0Nzb3VyY2UlMjBzcmMlM0QlMjJodHRwcyUzQSUyRiUyRmNsb3VkLm1taGQtY2RuLmNvbSUyRnMlMkZtbWhkaHViJTJGZG93bmxvYWQlM0ZwYXRoJTNEJTI2ZmlsZXMlM0QwMDQ1NTEubXA0JTIyJTIwdHlwZSUzRCUyMnZpZGVvJTJGbXA0JTIyJTNFJTNDJTJGdmlkZW8lM0U=
+
+
+#EXTINF:-1 group-title="MYA MYA" tvg-logo="", တက်တူးဆရာ (WISEPLAY)
+https://mmhdhub.com/wp-content/plugins/clean-tube-player/public/player-x.php?q=cG9zdF9pZD0yNjUwMiZ0eXBlPXZpZGVvJnRhZz0lM0N2aWRlbyUyMGlkJTNEJTIyd3BzdC12aWRlbyUyMiUyMGNsYXNzJTNEJTIydmlkZW8tanMlMjB2anMtYmlnLXBsYXktY2VudGVyZWQlMjIlMjBjb250cm9scyUyMHByZWxvYWQlM0QlMjJhdXRvJTIyJTIwd2lkdGglM0QlMjI2NDAlMjIlMjBoZWlnaHQlM0QlMjIyNjQlMjIlMjBwb3N0ZXIlM0QlMjJodHRwcyUzQSUyRiUyRnlvdGVweWFtbS54eXolMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRjIwMjQlMkYwNyUyRjAwNDUzMC5qcGclMjIlM0UlM0Nzb3VyY2UlMjBzcmMlM0QlMjJodHRwcyUzQSUyRiUyRmNsb3VkLm1taGQtY2RuLmNvbSUyRnMlMkZtbWhkaHViJTJGZG93bmxvYWQlM0ZwYXRoJTNEJTI2ZmlsZXMlM0QwMDQ1MzAubXA0JTIyJTIwdHlwZSUzRCUyMnZpZGVvJTJGbXA0JTIyJTNFJTNDJTJGdmlkZW8lM0U=
+
+
+===========.  ZEE VPN  ============
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
