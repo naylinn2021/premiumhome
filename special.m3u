@@ -217,6 +217,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvsu8gzp-Sl-_08QdV2FCcmek80q_IYPBrRZANta7QQ&s" group-title="⚽SPORTS 2",WWE
 https://smart.bengaldigital.live/WWE/tracks-v1a1/mono.m3u8|Referer:http://www.nadimrazatv.online/
 
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="⚽SPORTS 2",STARSPORT 1HD
+https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8|Referer:http://www.nadimrazatv.online/
+
 
 
 
