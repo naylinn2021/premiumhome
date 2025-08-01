@@ -37,6 +37,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #EXTINF:-1 tvg-id="SONY MAX" tvg-name="SONY MAX" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="🇲🇲 MOVIES 🇲🇲", SONY MAX
 https://live.dinesh29.com.np/stream/livetv/sonymaxhd/master.m3u8|Referer:http://www.nadimrazatv.online/
 
+#EXTINF:-1 tvg-id="STAR MOVIE" tvg-name="STAR MOVIE" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="🇲🇲 MOVIES 🇲🇲", STAR MOVIE
+https://live.dinesh29.com.np/stream/livetv/starmovieshd/stream_0.m3u8?uid=3692066273|Referer:http://www.nadimrazatv.online/
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -206,6 +209,12 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/redbulltv.png" group-title="⚽SPORTS 2",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvsu8gzp-Sl-_08QdV2FCcmek80q_IYPBrRZANta7QQ&s" group-title="⚽SPORTS 2",WWE
+https://smart.bengaldigital.live/WWE/tracks-v1a1/mono.m3u8|Referer:http://www.nadimrazatv.online/
+
+
 
 
 
