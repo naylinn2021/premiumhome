@@ -293,6 +293,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 #EXTINF:-1 group-title="6_Knowledge"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png",LOVE NATURE HD[INDIHOME]
 https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 
+#EXTINF:-1 group-title="6_Knowledge"   tvg-logo="https://www.jagledam.online/logo/logortbalkan.jpg",RT NEWS
+https://rt-srb.rttv.com/dvr/rtbalkan/playlist_800Kb.m3u8
+
+#EXTINF:-1 group-title="6_Knowledge"   tvg-logo="https://www.jagledam.online/logo/logoajb.jpg",AJB NEWS
+https://live-hls-web-ajb.getaj.net/AJB/03.m3u8
+
+
 
 
 
