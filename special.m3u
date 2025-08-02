@@ -59,7 +59,7 @@ https://atemecdnbalancer-voe.sysln.id//live/eds/AXNHD/mpd/AXNHD.mpd
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://iili.io/JmoHQt9.png" group-title="🇲🇲 MOVIES 🇲🇲", Thrill 🔵
 https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
-#https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
+#https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd###
 
 
 #EXTINF:-1 tvg-id="ZEE CINEMA" tvg-name="ZEE CINEMA" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.svg" group-title="🇲🇲 MOVIES 🇲🇲", ZEE CINEMA
