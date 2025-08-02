@@ -237,7 +237,12 @@ https://m3u.iranvids.com/fox-sport-01/output.m3u8|Referer:https://babaktv.com/
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://babaktv.com/wp-content/uploads/2022/06/Tennis-Channel.jpg?x33928" group-title="5_⚽SPORTS 2",TENNIS CHANNEL
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8|Referer:https://pass.iranvids.com/
 
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="http://podrinje.at.ua/Sport/logo-fightnetwork.png" group-title="5_⚽SPORTS 2",FIGHT NETWORK
+https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266/variant/22099742.m3u8|Referer:https://sultanovic.info/
 
+
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951154/600x337.webp?type=channelTile" group-title="5_⚽SPORTS 2",BOXING TV
+https://de54f2b5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9Cb3hpbmdUVl9ITFM/6c71bde8-9cb7-4376-aa07-2bb9387ca063/3.m3u8|Referer:https://sultanovic.info/
 
 
 
