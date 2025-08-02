@@ -52,18 +52,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN Asia" tvg-logo="https://iili.io/JZIBmlf.png" group-title="🇲🇲 MOVIES 🇲🇲", AXN 🟢
 https://atemecdnbalancer-voe.sysln.id//live/eds/AXNHD/mpd/AXNHD.mpd
 
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://iili.io/JmoHQt9.png" group-title="🇲🇲 MOVIES 🇲🇲", Thrill 🔵
-https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
-#https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd###
-
 
 #EXTINF:-1 tvg-id="ZEE CINEMA" tvg-name="ZEE CINEMA" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.svg" group-title="🇲🇲 MOVIES 🇲🇲", ZEE CINEMA
 https://live.dinesh29.com.np/stream/livetv/zeecinemahd/master.m3u8|Referer:http://www.nadimrazatv.online/
+
+
+
+
+
+
+
+
+
 
 
 ============ MYANMAR ===============
