@@ -359,28 +359,28 @@ https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_CHATATE/output2/index.mpd###
 
 
 ============= TEST SPORT ===========
-#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="8_TEST Sports",F1
+#EXTINF:-1 tvg-logo="https://live-tv.b-cdn.net/logos/channels/ukskysportf1.png" group-title="8_TESTSports",F1
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8
 
-#EXTINF:-1 group-title="8_TEST Sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 1
+#EXTINF:-1 group-title="8_TESTSports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 1
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
-#EXTINF:-1 group-title="8_TEST Sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 2
+#EXTINF:-1 group-title="8_TESTSports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 2
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
 
-#EXTINF:-1 group-title="8_TEST Sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 3
+#EXTINF:-1 group-title="8_TESTSports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 3
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
 
-#EXTINF:-1 group-title="8_TEST Sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 4
+#EXTINF:-1 group-title="8_TESTSports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 4
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
 
-#EXTINF:-1 group-title="8_TEST Sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 5
+#EXTINF:-1 group-title="8_TESTSports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 5
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
 
-#EXTINF:-1 group-title="8_TEST Sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 6
+#EXTINF:-1 group-title="8_TESTSports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 6
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
 
-#EXTINF:-1 group-title="8_TEST Sports" tvg-logo="https://live-tv.b-cdn.net/logos/channels/uswnetwork.png",WWE https://s2.dogruncat.store/us-wnetwork.m3u8?auth_key=1753938671-1abc87c13ff86c34b6f64acf288d1a03-00000000000000000000000000000000-90166909c7bde2bf2e0cca2322e234aa
+#EXTINF:-1 group-title="8_TESTSports" tvg-logo="https://live-tv.b-cdn.net/logos/channels/uswnetwork.png",WWE https://s2.dogruncat.store/us-wnetwork.m3u8?auth_key=1753938671-1abc87c13ff86c34b6f64acf288d1a03-00000000000000000000000000000000-90166909c7bde2bf2e0cca2322e234aa
 
 
 ==========.  MYA MYA.  =============
