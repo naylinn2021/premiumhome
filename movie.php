@@ -1,0 +1,7002 @@
+
+<!DOCTYPE html>
+<HTML>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/55013136-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<meta content='width=device-width' name='viewport'/>
+<title></title>
+<style id='page-skin-1' type='text/css'><!--
+body {background-color: #000000;background-position: center center;}
+a:link {font-family: 'PT Serif Caption', serif; font-size: 15px; color:#3094db;}
+a:hover {color: #4d4544;}
+a {color: #3094db;}
+<style type='text/css'>
+.tab-buttons{
+overflow:auto;
+text-align: center;
+}
+.tab-buttons button{
+background:#363f45;
+color:#feb41c;
+border:none;
+padding:10px 20px;
+font:700 15px 'segoe ui',sans-serif;
+text-transform:uppercase;
+cursor:pointer;
+-webkit-transition:all 300ms ease-in;
+-moz-transition:all 300ms ease-in;
+transition:all 300ms ease-in;
+}
+.tab-buttons button.active{
+color: #fff;
+background: #5e7c88;
+}
+.tab-content>div{
+padding:20px;
+background:#5e7c88;
+font:400 16px 'segoe ui',sans-serif;
+color:#fff;
+}
+.tab-content iframe{width:100%!important;height:400px;}
+@media screen and (max-width:960px){
+.tab-content iframe{max-height:90%}}
+@media screen and (max-width:768px){
+.tab-content iframe{max-height:75%}}
+@media screen and (max-width:600px){
+.tab-content iframe{max-height:60%}}
+@media screen and (max-width:480px){
+.tab-content iframe{height:auto!important;max-height:auto!important}}
+</style>
+<style type="text/css">
+/*CSS Multi Tab Video by Blog Mas Tamvan*/
+#multitab-video{position:relative;box-sizing:border-box;margin:0 auto;line-height:2em;font-size:15px!important;width:100%}
+#multitab-video #movie-player{position:relative;padding-bottom:56.25%;padding-top:1.66666666666667em;height:0}
+#multitab-video #movie-player iframe{position:absolute;top:0;left:0;width:100%;height:100%}
+#multitab-video #server-list{position:relative;background:#fafafa;display:block}
+#multitab-video #server-list .server-item:before{content:attr(title);width:9.93333333333333em;display:inline-block;padding-left:0.933333333333333em}
+.server-item{border-bottom:1px solid #c8c8cb}
+#multitab-video #server-list a{color:#334;text-decoration:none;border:1px solid #443;padding:0.333333333333333em 0.666666666666667em;display:inline-block;margin:0.333333333333333em;box-sizing:border-box}
+a:active{background-color:yellow}
+</style>
+
+--></style>
+<link href="//vjs.zencdn.net/5.4.6/video-js.css" rel="stylesheet">
+<script src='//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular.min.js'></script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6349176220471264269&amp;zx=6201ad98-3727-414d-b5d2-5cc6f295ebe5' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6349176220471264269&amp;zx=6201ad98-3727-414d-b5d2-5cc6f295ebe5' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+</head>
+<body onclick='adPop();'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://tboys88.github.io/Test-In/zlogo.jpeg' itemprop='image_url'/>
+<meta content='6349176220471264269' itemprop='blogId'/>
+<meta content='1339544686984873016' itemprop='postId'/>
+<a name='1339544686984873016'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+FILM MOVIE
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1339544686984873016' itemprop='description articleBody'>
+<!--doctype html-->
+<html lang="id" data-theme="dark">
+  <head>
+    <!-- Meta tags  -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta name="referrer" content="same-origin">
+
+    <title>LIVE TV &#8226; Situs Aplikasi Live Streaming Bola, Badminton, MotoGP, Formula1, Basketball Android Gratis</title>  
+      
+<meta name="description" content="LIVE TV Sports - LIVETV Live Streaming Sports, Situs dan Aplikasi Android Nonton Bola, Badminton, Football, MotoGP, Formula 1, NBA Basketball, Liga 1 Indonesia, Liga 2 Indonesia, Premier League Liga inggris, La Liga Liga Spanyol, Serie A Liga Italia, Ligue 1 Liga Prancis, Uefa Liga Champions, Liga Europa, Live Streaming Bola Malam Hari ini, Live Streaming Timnas Indonesia, Nonton Liga Malam hari ini, Jadwal Bola Malam Hari ini, MinozoTV, Bolasiar, BGI Bola, NobarTV, TV Bersama, OkeStream Lancar Android Gratis MiGiTV Indonesia">
+      
+<meta name="keywords" content="CONNECT TV Sports - HaboTV Live Streaming Sports, Situs dan Aplikasi Android Nonton Bola, Badminton, Football, MotoGP, Formula 1, NBA Basketball, Liga 1 Indonesia, Liga 2 Indonesia, Premier League Liga inggris, La Liga Liga Spanyol, Serie A Liga Italia, Ligue 1 Liga Prancis, Uefa Liga Champions, Liga Europa, Live Streaming Bola Malam Hari ini, Live Streaming Timnas Indonesia, Nonton Liga Malam hari ini, Jadwal Bola Malam Hari ini, MinozoTV, Bolasiar, BGI Bola, NobarTV, TV Bersama, OkeStream Lancar Android Gratis MiGiTV Indonesia">       
+      
+    <link rel="icon" href="https://i.postimg.cc/MH84vwy2/logoCONNECT TV.png" /> 
+    <link rel="shortcut icon" href="https://i.postimg.cc/MH84vwy2/logoCONNECT TV.png" type="image/png" />
+    <link rel="apple-touch-icon" href="https://i.postimg.cc/MH84vwy2/logoCONNECT TV.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="CONNECT TV Sports" />
+
+    <meta content='xxxx' name='msvalidate.01' />
+<meta content='xxxx' name='yandex-verification' />
+
+    
+      <div class="center-body">
+<div class="loader-circle-11">
+  <div class="arc"></div>
+  <div class="arc"></div>
+  <div class="arc"></div>
+</div>
+      </div>
+    <!-- Font Google -->
+      
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">  
+
+
+    
+ 
+<script language=javascript>document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('*8Hqnsp*75wjq*8I*77xy%7Eqjxmjjy*77*75y%7Euj*8I*77yj%7Dy4hxx*77*75mwjk*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4mfgty%7B4uqf%7EjwErfxyjw4gttyxywfux3rns3hxx*77*8J*5F*8Hqnsp*75wjq*8I*77xy%7Eqjxmjjy*77*75y%7Euj*8I*77yj%7Dy4hxx*77*75mwjk*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4mfgty%7B4uqf%7EjwErfxyjw4rnlnxyjqnsx3hxx*77*8J5')</script>
+      
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-VPJKS5JDMR"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-VPJKS5JDMR'); </script>  
+     
+     
+
+  		
+<style> .ekwnwftjxmtvexfftvmfwmjougfsvfbtwdzyljpqvuixyzdnhzc{ margin: 0; padding: 0; color: #000; font-size: 13px; line-height: 1.5; } .zepwmefwcahbqnzdmwccljkvxkweuzvuewlowzgtqbuwwutdnhzc{ padding: 8px; text-align: right; } .zepwmefwcahbqnzdmwccljkwxpyluyuxkzmkouuyndbcufkukhokzbubtyrsnfrkuzlbwmdvnwdnhzcdnhzc, .zepwmefwcahbqnzdmwccljkuzdvyeylecmyalfnwlcuexbetnvyxfomlnmrfwczfwknncmvubadnhzcdnhzc{ cursor: pointer; text-align: center; outline: none !important; display: inline-block; -webkit-tap-highlight-color: rgba(0, 0, 0, 0.12); -webkit-transition: all 0.45s cubic-bezier(0.23, 1, 0.32, 1); -o-transition: all 0.45s cubic-bezier(0.23, 1, 0.32, 1); transition: all 0.45s cubic-bezier(0.23, 1, 0.32, 1); } .zepwmefwcahbqnzdmwccljkwxpyluyuxkzmkouuyndbcufkukhokzbubtyrsnfrkuzlbwmdvnwdnhzcdnhzc{ color: #000; width: 100%; } .zepwmefwcahbqnzdmwccljkuzdvyeylecmyalfnwlcuexbetnvyxfomlnmrfwczfwknncmvubadnhzcdnhzc{ color: #1e8cbe; } .tthjmmaymjmtkhpotfnuendqjmvthnexzgzmvkqwlhqphavntvdazdnhzc.svg{ padding-top: 1rem; } img.tthjmmaymjmtkhpotfnuendqjmvthnexzgzmvkqwlhqphavntvdazdnhzc{ width: 100px; padding: 0; margin-bottom:10px; } .stuzloejvurefnwulfnzrybrqdlbmuvkouwwuocnzxwfatwnddnhzc{ padding: 5px; } .yjlzstbnegoohvvskpsmdzatzkczfzykhxwmzhrfksnjdvfiuvpdmddnhzc{ padding: 10px; padding-top: 0; } .yjlzstbnegoohvvskpsmdzatzkczfzykhxwmzhrfksnjdvfiuvpdmddnhzc a{ font-size: 14px; } .tuoeljwmvgwvzyyemvmtelzryturghhyuffzvjqzwxznbkcmnxkhmyvwghcylvmyxdtrjzpdzkbadnhzcdnhzc, .tuoeljwmvgwvzyyemvmtelzryturghhyuffzvjqzwxznbkcmnxkhmyvwghcylvmyxdtrjzpdzkbadnhzcdnhzc:active, .tuoeljwmvgwvzyyemvmtelzryturghhyuffzvjqzwxznbkcmnxkhmyvwghcylvmyxdtrjzpdzkbadnhzcdnhzc:focus{ background: #fff; border-radius: 50%; height: 35px; width: 35px; padding: 7px; position: absolute; right: -12px; top: -12px; cursor: pointer; outline: none; border: none; box-shadow: none; display: flex; justify-content: center; align-items: center; } .ngpeitevzvekfanmzkrrnvzbmmkufjqrovsddzsujbfcvzmxazdnhzc{ padding-top: 10px; margin-bottom: 10px; display: flex; justify-content: center; } .snmlgbxpryrvmfnawtgrmhdmrwfucrjliccsrcnbmrkvbcxlsuphznumkoohpmuuewmwdnsqdnhzcdnhzc{ -webkit-animation-name: fadeInDown; animation-name: fadeInDown; -webkit-animation-duration: 0.3s; animation-duration: 0.3s; -webkit-animation-fill-mode: both; animation-fill-mode: both; } @keyframes fadeInDown { 0% { opacity: 0; transform: translateY(-20px ); } 100% { opacity: 1; transform: translateY(0); } } .yyhrfjwmhzugfurkrexlllxeegzsspzgjkvhzmelchlvqjlszzdnhzc:not(.bytyzjnlmudvemmqmqkjmqjhccndvawvkbzkzlpylzeyvwzrczdnhzc), .wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc:not(.bytyzjnlmudvemmqmqkjmqjhccndvawvkbzkzlpylzeyvwzrczdnhzc){ display: none; } .wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc .dmfzbnzluuviwnzyrvjyvhgqpgbvfnatjfdllhqwdpvicqjdiulbqtdnhzc .ahddciqzejbdudcjfuzdzrnzzrzkgbjerzgnozhrqlnnvurvmdzstmrtovrmlzmavdjszhtmjcecadnhzcdnhzc{ padding-top: 1rem; padding-bottom: 0; } .wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc .dmfzbnzluuviwnzyrvjyvhgqpgbvfnatjfdllhqwdpvicqjdiulbqtdnhzc .adblock_title, .chpadbpro_wrap_title { margin: 1.3rem 0; } .wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc .dmfzbnzluuviwnzyrvjyvhgqpgbvfnatjfdllhqwdpvicqjdiulbqtdnhzc .adblock_subtitle{ padding: 0 1rem; padding-bottom: 1rem; } .kdxekjdircknzxhncejcndfrtjbwuxndzfozhgejvpalgyutnqsjjdaldmgyvrdujbzowzummeqdnhzcdnhzc{ width: 100%; align-items: center; display: flex; justify-content: space-around; border-top: 1px solid #d6d6d6; border-bottom: 1px solid #d6d6d6; } .kdxekjdircknzxhncejcndfrsnaaddmxhthflzbpdkjrunjtvuahddglpeufkrliztjhmnveugdnhzcdnhzc+.kdxekjdircknzxhncejcndfrsnaaddmxhthflzbpdkjrunjtvuahddglpeufkrliztjhmnveugdnhzcdnhzc{ border-left: 1px solid #d6d6d6; } .kdxekjdircknzxhncejcndfrtjbwuxndzfozhgejvpalgyutnqsjjdaldmgyvrdujbzowzummeqdnhzcdnhzc .kdxekjdircknzxhncejcndfrsnaaddmxhthflzbpdkjrunjtvuahddglpeufkrliztjhmnveugdnhzcdnhzc{ flex: 1 1 auto; padding: 1rem; } .kdxekjdircknzxhncejcndfrsnaaddmxhthflzbpdkjrunjtvuahddglpeufkrliztjhmnveugdnhzcdnhzc p{ margin: 0; font-size: 16px; font-weight: bold; text-transform: uppercase; margin-bottom: 0.3rem; } .kdxekjdircknzxhncejcndfrtjbwuxndzfozhgejvpalgyutnqsjjdaldmgyvrdujbzowzummeqdnhzcdnhzc button, .kdxekjdircknzxhncejcndfrtjbwuxndzfozhgejvpalgyutnqsjjdaldmgyvrdujbzowzummeqdnhzcdnhzc a{ background: #fff; border: 1px solid #fff; color: #000; text-transform: uppercase; font-weight: bold; cursor: pointer; text-decoration: none; } .nmtirwvvxstuldpyuzbnkcymwgztwsrdtjgqdttrrakdutctsjhwlzlhbvprlrtrducgvtehktadnhzcdnhzc{ display: flex; justify-content: space-between; padding: 1rem; } .nmtirwvvxstuldpyuzbnkcymwgztwsrdtjgqdttrrakdutctsjhwlzlhbvprlrtrducgvtehktadnhzcdnhzc a, .nmtirwvvxstuldpyuzbnkcymwgztwsrdtjgqdttrrakdutctsjhwlzlhbvprlrtrducgvtehktadnhzcdnhzc a:focus{ text-decoration: none; color: #000; font-size: 12px; font-weight: bold; border: none; outline: none; } body .ofs-admin-doc-box .chp_ad_block_pro_admin_preview #chp_ads_blocker-modal { display: block !important; } body .ofs-admin-doc-box .chp_ad_block_pro_admin_preview #chp_ads_blocker-modal { position: inherit; width: 70%; left: 0; box-shadow: none; border: 3px solid #ddd; } #rkhcuszfhwqdrmjkzjunvuyudhccvnegwyqkptuhyxndhgcgnyayefztmzuytdrefmttlsqnkrgdnhzcdnhzc{ border: none; position: absolute; top: -3.5%; right: -1.5%; background: #fff; border-radius: 100%; height: 45px; outline: none; border: none; width: 45px; box-shadow: 0px 6px 18px -5px #fff; z-index: 9990099; display: flex; justify-content: center; align-items: center; text-decoration: none; } #rkhcuszfhwqdrmjkzjunvuyudhccvnegwyqkptuhyxndhgcgnyayefztmzuytdrefmttlsqnkrgdnhzcdnhzc svg{ margin: 0 -1rem; } body #wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc.active{ width: 60%; left: 20%; top: 10%; height: 80vh; } @media only screen and (max-width:800px ) { body #wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc.active{ width: 80%; left: 10%; top: 5%; height: 99vh; } } @media only screen and (max-width:550px ) { body #wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc.active{ width: 100%; left: 0%; top: 0%; height: 99vh; } #rkhcuszfhwqdrmjkzjunvuyudhccvnegwyqkptuhyxndhgcgnyayefztmzuytdrefmttlsqnkrgdnhzcdnhzc{ top: 2%; right: 2%; } } .howToBlock_color { color: #fff !important; } .ddmvvdzdcxpklwmmfprmoxtxrtehbiehbvejfwdgmpqsejslbmxrzzngrovdbchbuwggvwmtsqdnhzcdnhzc, .ddmvvdzdcxpklwmmfprmoxtxrtnjleykxrtbviewjvblnjuhhshnmvezmsxvwrdrmzlikjrgzadnhzcdnhzc{ border: none; border-radius: 5px; padding: 9px 20px !important; font-size: 12px; color: white !important; margin-top: 0.5rem; transition: 0.3s; border: 2px solid; } .ddmvvdzdcxpklwmmfprmoxtxrtehbiehbvejfwdgmpqsejslbmxrzzngrovdbchbuwggvwmtsqdnhzcdnhzc:hover, .ddmvvdzdcxpklwmmfprmoxtxrtnjleykxrtbviewjvblnjuhhshnmvezmsxvwrdrmzlikjrgzadnhzcdnhzc:hover{ background: none; box-shadow: none; } .ddmvvdzdcxpklwmmfprmoxtxrtehbiehbvejfwdgmpqsejslbmxrzzngrovdbchbuwggvwmtsqdnhzcdnhzc:hover{ color: #fff !important; } .ddmvvdzdcxpklwmmfprmoxtxrtnjleykxrtbviewjvblnjuhhshnmvezmsxvwrdrmzlikjrgzadnhzcdnhzc:hover{ color: #888 !important; } .ddmvvdzdcxpklwmmfprmoxtxrtehbiehbvejfwdgmpqsejslbmxrzzngrovdbchbuwggvwmtsqdnhzcdnhzc{ background-color: #fff; box-shadow: 0px 6px 18px -5px #fff; border-color: #fff; } .ddmvvdzdcxpklwmmfprmoxtxrtnjleykxrtbviewjvblnjuhhshnmvezmsxvwrdrmzlikjrgzadnhzcdnhzc{ background-color: #8a8a8a; box-shadow: 0px 6px 18px -5px #8a8a8a; border-color: #8a8a8a; } body .wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc{ position: fixed; z-index: 9999999999; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: #000; background-color: rgba(0, 0, 0, 0.7); display: flex; justify-content: center; align-items: center; } .wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc .bytyzjnlmudvemmqmqkjmqjhccndvawvkbzkzlpylzeyvwzrczdnhzc{ display: block; } .wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc .dmfzbnzluuviwnzyrvjyvhgqpgbvfnatjfdllhqwdpvicqjdiulbqtdnhzc{ background-color: #fff; margin: auto; padding: 20px; border: none; width: 40%; border-radius: 5%; position: relative; } .tuoeljwmvgwvzyyemvmtelzqtbevbkatvzudndhjucnnmzxutdnhzc.theme3{ text-align: center; } .tuoeljwmvgwvzyyemvmtelzqtbevbkatvzudndhjucnnmzxutdnhzc *{ color: #000; text-align: center; text-decoration: none; } .tuoeljwmvgwvzyyemvmtelzqtbevbkatvzudndhjucnnmzxutdnhzc a{ cursor: pointer; } .tuoeljwmvgwvzyyemvmtelzqtbevbkatvzudndhjucnnmzxutdnhzc a:first-child{ margin-right:1rem; } .tuoeljwmvgwvzyyemvmtelzqtbevbkatvzudndhjucnnmzxutdnhzc a{ text-decoration: none; } .tuoeljwmvgwvzyyemvmtelzqtbevbkatvzudndhjucnnmzxutdnhzc.theme2 a:first-child{ margin-bottom: 0.5rem !important; } .ddmvvdzdcxpklwmmfprmoxtxrtnudvkhubufivwrgnvdzczzwbtbbuwvsvevldjvztxbutrqbxhugpx vgdnhzcdnhzc .image-container{ width: 100px; text-align: center; margin-bottom: -20px; } .ddmvvdzdcxpklwmmfprmoxtxrtnudvkhubufivwrgnvdzczzwbtbbuwvsvevldjvztxbutrqbxhugpx vgdnhzcdnhzc .image-container .image{ position: relative; } .ddmvvdzdcxpklwmmfprmoxtxrtnudvkhubufivwrgnvdzczzwbtbbuwvsvevldjvztxbutrqbxhugpx vgdnhzcdnhzc .image-container .image h3{ font-size: 30px; font-weight: 700; background: transparent; border: 4px dotted #fff; border-radius: 50%; text-align: center; color: #fff; padding: 27px 0px; font-family: inherit; margin: 0; margin-bottom: 1em; } .ddmvvdzdcxpklwmmfprmoxtxrtnudvkhubufivwrgnvdzczzwbtbbuwvsvevldjvztxbutrqbxhugpx vgdnhzcdnhzc .image-container .image i.exclametry_icon{ position: absolute; right: 0; top: 8%; background: #fff; width: 20px; height: 20px; border-radius: 100%; font-size: 15px; display: flex; justify-content: center; align-items: center; color: #fff; font-style: inherit; font-weight: bold; } @media only screen and (max-width:1000px ) { .wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc .dmfzbnzluuviwnzyrvjyvhgqpgbvfnatjfdllhqwdpvicqjdiulbqtdnhzc{ width: calc(40% + 15%); } } @media only screen and (max-width:800px ) { .wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc .dmfzbnzluuviwnzyrvjyvhgqpgbvfnatjfdllhqwdpvicqjdiulbqtdnhzc{ width: calc(40% + 25%); } } @media only screen and (max-width:700px ) { .wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc .dmfzbnzluuviwnzyrvjyvhgqpgbvfnatjfdllhqwdpvicqjdiulbqtdnhzc{ width: calc(40% + 35%); } } @media only screen and (max-width:500px ) { .wdhodzuybkviwufouknekhbqdyykledhzskjpdeoyswnqakpqkzwzzdnhzc .dmfzbnzluuviwnzyrvjyvhgqpgbvfnatjfdllhqwdpvicqjdiulbqtdnhzc{ width: 95%; } } #rkhcuszfhwqdrmjkzjunvuyudhccvnegwyqkptuhyxndhgcgnyayefztmzuytdrefmttlsqnkrgdnhzcdnhzc{ color: #fff !important; } #uxhhbffxawllteppneemjvdxoxiywdbcurbvkdmwggdnnlqwzqvdgttdhegtlwktenwrxnezcmgdnhzcdnhzc{ position:absolute; z-index:-20; bottom:0; } </style>
+	<!-- This site is optimized with the Yoast SEO plugin v20.3 - https://yoast.com/wordpress/plugins/seo/ -->
+
+  <style>
+    .sticky-container {
+      position: sticky;
+      top: 80px;
+      z-index: 999;
+    }
+    .scrollbar-outer {
+      overflow-y: auto;
+    }
+    
+  </style>
+</head>
+
+  
+   <!-- Internet Connection Status -->
+  <div class="internet-connection-status" id="internetStatus"></div>
+  
+  <div style="clear:both;"></div><abc>
+<!-- Header Area -->
+<div class="header-area" id="headerArea">
+<div class="container">
+<!-- Header Content -->
+<div class="header-content header-style-five position-relative d-flex align-items-center justify-content-between">
+<div class="setting-wrapper">
+<div class="element-heading-wrapper">
+<a href="go:home"><i class="bi bi-house"></i><span></span></a></div></div>
+<!-- Page Title -->
+
+
+<div class="page-heading">
+  <h6 class="mb-0">SUMALENG TV</h6>
+</div>
+<div class="setting-wrapper">
+  <div class="element-heading-wrapper" style="margin-right:-10px;">
+    <a href="javascript:void(0);" onclick="goToLink()" oncontextmenu="return false" style="user-select: none;">
+      <i class="bi bi-arrow-clockwise"></i><span></span>
+    </a>
+  </div>
+</div></div></div>
+</div>
+
+<script>
+  function goToLink() {
+    // Ganti dengan URL tujuan sebenarnya
+    const hiddenURL = atob(""); // Base64 encoded: https://example.com/
+    window.location.href = hiddenURL;
+  }
+</script>
+
+
+
+
+<div class="page-content-wrapper py-1" id="elementsSearchList"><div class="container">
+  
+
+
+  
+     
+<!--<div class="container">-->
+<div style="padding:0px">
+<div class="row">
+   
+     <div class="alert custom-alert-1 alert-dark alert-dismissible fade show mb-0" role="alert">
+
+SEBELUM NONTON PASTIKAN SUDAH MENGINSTAL APLIKASI (NS PLAYER), AGAR DAPAT MEMUTAR CHANNEL DIBAWAH. DOWNLOAD (NS PLAYER) DI PLAYSTORE JIKA BELUM MEMILIKI.
+<a href="go:nsplayer"><font color="red" size="4">ATAU KLIK DISINI</font></div></div>
+
+
+<!--
+            <button aria-label="Close" class="btn btn-close position- p-1 ms-auto" data-bs-dismiss="alert" type="button"></button>
+          </div>  
+  
+  
+   
+<div class="col-12 col-md-8" style="padding:0px"><div class="embed-container"><div id="tv">
+<a title="Live TV Online"><img src="https://tboys88.github.io/Test-In/zlogo.jpeg" style="width:100%"></a></div></div>  
+</div>
+  
+-->     
+  
+<div class="col-12 col-md-4" style="padding:0px">  
+ <div class="blog-wrapper py-3">
+<!--<div class="container">--> 
+    
+ 
+  
+  
+  
+<div class="row g-3 channels scrollbar-outer list" style="height:450px">
+  
+  
+  
+  
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:cinemaxid();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://www.starjogja.com/assets/2017/10/CINE.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CINEMAX ID</marquee></font></p></div></div></a></div>
+
+<!--
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd%7Creferer=https://www.cubmu.com/&drmScheme=widevine&drmLicense=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+-->
+
+<script>
+    function cinemaxid() {
+        const appUrl = "intent://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd%7Creferer=https://www.cubmu.com/&drmScheme=widevine&drmLicense=https://cubmu-cindo.cenc16995.workers.dev/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NS7en;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+  
+  
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:cinemax();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://www.starjogja.com/assets/2017/10/CINE.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CINEMAX PH</marquee></font></p></div></div></a></div>
+
+
+
+<!--intent://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd|&drmScheme=clearkey&drmLicense=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end-->
+
+
+<script>
+    function cinemax() {
+        const appUrl = "intent://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd|&drmScheme=clearkey&drmLicense=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:axn();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu-dHk_vlJD8MxbWbE0AUK4Xerf81mhMTkwwGmcCeQs8Gw77rlK9wfIgem&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>AXN</marquee></font></p></div></div></a></div>
+<!--
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
+-->
+<script>
+    function axn() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:rockaction();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUeIssoni5OZ3pfToxIDT6cmG-93J4tS2vw&amp;s" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>ROCK ACTION</marquee></font></p></div></div></a></div>
+<!--
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+-->
+<script>
+    function rockaction() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:rockent();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3qdvjqaiXntdAqpgweyENqjHnBxuSYQWDiw&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>ROCK ENT</marquee></font></p></div></div></a></div>
+<!--
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
+
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
+-->
+<script>
+    function rockent() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:citramuslim();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9liHi5wg-4GkOMatZoskc-E-CwGhzyz7r8j8blXc0Ebykq1Jv95NKTUr0&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CITRA MUSLIM</marquee></font></p></div></div></a></div>
+<script>
+    function citramuslim() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:citradrama();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCSxUh5ky9M1_YXS1QCHN-rNHGDFJJXb-cIwpDwnGN6-lhuXCXUGElBI&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CITRA DRAMA</marquee></font></p></div></div></a></div>
+<script>
+    function citradrama() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:citrabioskop();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTjqu8jH65mZJGRZ0yJrUHLSGYmktJEzna1-vhoWOPkH6GE0zNUguAImGC&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CITRA BIOSKOP</marquee></font></p></div></div></a></div>
+<script>
+    function citrabioskop() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:citraent();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCE8Nigq-VIeBU5gQi-Tiux9tVdM3LWU5JkdO9p6y8v4T5VNGzQCRExSo&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CITRA ENT</marquee></font></p></div></div></a></div>
+<script>
+    function citraent() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:citradangdut();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVc9TCoRQzRSNkZCmz_Kpn9QRjMC8rEUD3pmlPATwpQblqTwdaRP7xcw&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CITRA DANGDUT</marquee></font></p></div></div></a></div>
+<script>
+    function citradangdut() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:movienews();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBd2s47VIovlYftEcx_q0jl3Q4oV__fV_tw4OxmnHIqEZxbn_AOsAxYdqJ&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MOVIE NEWS</marquee></font></p></div></div></a></div>
+<script>
+    function movienews() {
+        const appUrl = "intent://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd%7Creferer=https://www.cubmu.com/&drmScheme=widevine&drmLicense=https://cubmu-cindo.cenc16995.workers.dev/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NS7en;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:serieszone();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd2LWvYaDp1mDFkNxpcAY1j0cQg715cCnntA&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SERIES ZONE</marquee></font></p></div></div></a></div>
+<script>
+    function serieszone() {
+        const appUrl = "intent://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd%7Creferer=https://www.cubmu.com/&drmScheme=widevine&drmLicense=https://cubmu-cindo.cenc16995.workers.dev/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NS7en;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:one();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7uof7-5YIZRGzXVOeVUQSNVd_tHavuQ-mag&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>ONE</marquee></font></p></div></div></a></div>
+<script>
+    function one() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:cinemachi();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://linktr.ee/og/image/cinemachi.jpg" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Cinemachi</marquee></font></p></div></div></a></div>
+
+<!--
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd|Referer=https://www.visionplus.id/&drmScheme=clearkey&drmLicense=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
+-->
+<script>
+    function cinemachi() {
+        const appUrl = "intent://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd|Referer=https://www.visionplus.id/&drmScheme=clearkey&drmLicense=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:chinemachikids();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwa3vfDAJo59SErHvDxCZIN-sVET6lgQ_Gbw&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Cinemachi Kid</marquee></font></p></div></div></a></div>
+<script>
+    function chinemachikids() {
+        const appUrl = "intent://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd|Referer=https://www.visionplus.id/&drmScheme=clearkey&drmLicense=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:cinemachixtra();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF9gsseAZSO43xjrD1MgIo-bxazUTTxsrk6PNdAiJK-7VFnY6VG3AqZsM&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Cinemachi Xtra</marquee></font></p></div></div></a></div>
+<script>
+    function cinemachixtra() {
+        const appUrl = "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd|Referer=https://www.visionplus.id/&drmScheme=clearkey&drmLicense=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:cinemachimax();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmfZkLLxcb7jbhigcDpVLmRozXB8WvXgi4g&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Cinemachi Max</marquee></font></p></div></div></a></div>
+<script>
+    function cinemachimax() {
+        const appUrl = "intent://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:cinemachiaction();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhxcQqtIDSyQ8Yo8zS60p1IJfXmIqhBcUHAw&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Cinemachi Action</marquee></font></p></div></div></a></div>
+<script>
+    function cinemachiaction() {
+        const appUrl = "intent://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:hboph();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsJCt8flc4ECpgPntHKPzTcQzozpbVEVt3Gg&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>HBO PH</marquee></font></p></div></div></a></div>
+<script>
+    function hboph() {
+        const appUrl = "intent://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:hbohitsph();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8p1ezoMpMeuN8D7n5tWElhsmKB_WmJQ6VI9aQxqYQ5HnBiiC8AhdFjq0&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>HBO HITS PH</marquee></font></p></div></div></a></div>
+<script>
+    function hbohitsph() {
+        const appUrl = "intent://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:hbofamilyph();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREis8BTJrcHKO0i8DxZWp65TM45gaannAfFA&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>HBO FAMILY PH</marquee></font></p></div></div></a></div>
+<script>
+    function hbofamilyph() {
+        const appUrl = "intent://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:hbosigph();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgGWDK2oHyO33OLtpxNA_rIwKnOx5y9Wz8A&amp;s" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>HBO SIGNATURE PH</marquee></font></p></div></div></a></div>
+<script>
+    function hbosigph() {
+        const appUrl = "intent://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:hboid();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsJCt8flc4ECpgPntHKPzTcQzozpbVEVt3Gg&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>HBO ID</marquee></font></p></div></div></a></div>
+
+<!--
+intent://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=widevine&drmLicense=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end
+-->
+<!--
+intent://notion.boybook.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/manifest.mpd|&drmScheme=clearkey&drmLicense=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end
+-->
+
+<script>
+    function hboid() {
+        const appUrl = "intent://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd%7Creferer=https://www.cubmu.com/&drmScheme=widevine&drmLicense=https://cubmu-cindo.cenc16995.workers.dev/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NS7en;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:hbohitsid();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8p1ezoMpMeuN8D7n5tWElhsmKB_WmJQ6VI9aQxqYQ5HnBiiC8AhdFjq0&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>HBO HITS ID</marquee></font></p></div></div></a></div>
+
+<!--
+intent://notion.boybook.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/manifest.mpd|&drmScheme=clearkey&drmLicense=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end
+-->
+
+<script>
+    function hbohitsid() {
+        const appUrl = "intent://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd%7Creferer=https://www.cubmu.com/&drmScheme=widevine&drmLicense=https://cubmu-cindo.cenc16995.workers.dev/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NS7en;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:hbofamilyid();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREis8BTJrcHKO0i8DxZWp65TM45gaannAfFA&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>HBO FAMILY ID</marquee></font></p></div></div></a></div>
+
+<!--
+intent://notion.boybook.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/manifest.mpd|&drmScheme=clearkey&drmLicense=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end
+-->
+
+<script>
+    function hbofamilyid() {
+        const appUrl = "intent://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd%7Creferer=https://www.cubmu.com/&drmScheme=widevine&drmLicense=https://cubmu-cindo.cenc16995.workers.dev/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NS7en;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:hbosigid();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgGWDK2oHyO33OLtpxNA_rIwKnOx5y9Wz8A&amp;s" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>HBO SIGNATURE ID</marquee></font></p></div></div></a></div>
+<script>
+    function hbosigid() {
+        const appUrl = "intent://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd%7Creferer=https://www.cubmu.com/&drmScheme=widevine&drmLicense=https://cubmu-cindo.cenc16995.workers.dev/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NS7en;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:warnertvid();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxW6pbaRlYj6_E7HLcTfGhfMHFuO4n-bYLAa1acIf4tiFnUCL4rZ7MKFYi&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Warner TV ID</marquee></font></p></div></div></a></div>
+<script>
+    function warnertvid() {
+        const appUrl = "intent://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd%7Creferer=https://www.cubmu.com/&drmScheme=widevine&drmLicense=https://cubmu-cindo.cenc16995.workers.dev/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NS7en;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:warnertv();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxW6pbaRlYj6_E7HLcTfGhfMHFuO4n-bYLAa1acIf4tiFnUCL4rZ7MKFYi&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Warner TV</marquee></font></p></div></div></a></div>
+
+
+
+<script>
+    function warnertv() {
+        const appUrl = "intent://bintangstream.sahsiasahsia.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd|X-Forwarded-For=103.190.171.245|referer=https://astrogo.astro.com.my/|&drmScheme=clearkey&drmLicense=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:imc();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLG--iJaseh71v3IXL8SmwiXRyUSyIho3wg&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>IMC</marquee></font></p></div></div></a></div>
+
+<script>
+    function imc() {
+        const appUrl = "intent://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:dreamwork();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0kKEZFCMBLvCk0cZMMZ9fNNOfGvFj8Nx3nTV3Y7O2Rmfo7M2EqLWEeLA&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>DREAMWORK</marquee></font></p></div></div></a></div>
+<script>
+    function dreamwork() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:wedomovies();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiE0zKJi9CIEbD5tH2lczuaT3IRI-SCIl_6w&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>WEDO MOVIES</marquee></font></p></div></div></a></div>
+<script>
+    function wedomovies() {
+        const appUrl = "intent://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-xiaomi/playlist.m3u8|&#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:watchmojotv();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsSQFCyUdS1dGfJ_YSK7-1gJ3hnGoM0eiIaQ&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>WATCH MOJOTV</marquee></font></p></div></div></a></div>
+<script>
+    function watchmojotv() {
+        const appUrl = "intent://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8|&#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:sonymax();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVw1xRZ7NGQ1KhtIR_U82K9fG21zsPCAr58o_bqtQodFLBrVtqamzPjU&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SONY MAX</marquee></font></p></div></div></a></div>
+<script>
+    function sonymax() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:sonymax2ind();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4iSl-s6Y14g4vLG_9LtpzdP2_wY3vX-rH_g&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SONY MAX 2</marquee></font></p></div></div></a></div>
+<script>
+    function sonymax2ind() {
+        const appUrl = "intent://companion-live-play1.streamready.in/live/media14/sony_max_2/ndashd/sony_max_2.mpd|&drmScheme=clearkey&drmLicense=c23701522dc53a78a3869ee6b1d2d8f5:4f2a47857d6724c84852447cdcb02765#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:sonywah();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkiSNyswZV0ZqURANyWB3PcWWq7kPJEpQ8mBlujoQ6yJN3biobSfl7Tc&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SONY WAH</marquee></font></p></div></div></a></div>
+<script>
+    function sonywah() {
+        const appUrl = "intent://companion-live-play1.streamready.in/live/media14/sony_wah/ndashd/sony_wah.mpd|&drmScheme=clearkey&drmLicense=6ccacc3e29e438faaabbc8f7cb8d1fe7:d8b40fedaf5d18f69c7061dfcfbfa407#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:sonypix();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWwXGFkJxcnASf3XIzwKrlJxdsas5xnkiNo77matT4LEGgaLnDWHY-0GFP&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SONY PIX</marquee></font></p></div></div></a></div>
+<script>
+    function sonypix() {
+        const appUrl = "intent://companion-live-play1.streamready.in/live/media4/sony_pix/ndashd/sony_pix.mpd|&drmScheme=clearkey&drmLicense=b744ae0cabae3998bbfbd778d537f049:9d10c52b46a7d909b69c4d5edf569b5a#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:zeebioskop();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://thumbor.prod.vidiocdn.com/wU3QIe0cpiz8bdH0mgztkU5JtiE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6399/zee-bioskop-bdb0e4.jpg" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Zee Bioskop</marquee></font></p></div></div></a></div>
+<script>
+    function zeebioskop() {
+        const appUrl = "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:skycineact();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYE2buWoRGAtXwKZOP7AcWTSr_fD3oVJBiSO64zxYnAGSL2xgYLRXjLjKN&s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SKY CINEMA ACTION</marquee></font></p></div></div></a></div>
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:skycineprem();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd2fYLDB497aTvqpGNUFUHVGAxABZjHgGARoRxlcnjiM2MEOZBW0utfn6r&s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SKY CINEMA PREMIER</marquee></font></p></div></div></a></div>
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:skycineanim();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTtv10eyQHlOdq3WiLlXUwUbz2BQzEj6HPnKcLowrdzfOGAIAoqN7ZPU&s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SKY CINEMA ANIMATION</marquee></font></p></div></div></a></div>
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:skycinefam();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9Qtqlb5MQuaXK9FlP1DlFKDEePQoEL_b3QUltwp5GsoqlwhkU2MxEU3M&s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SKY CINEMA FAMILY</marquee></font></p></div></div></a></div>
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:skycinehit();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTATA0mJW5PlqL9PXQBT2uJow9UOMbf7esUqA68HytkRSdNzTOT5SF4CTA&s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SKY CINEMA HITS</marquee></font></p></div></div></a></div>
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:skycom();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9ZXTAL49C2JXzsmSLJi2-QbVXODFNnxrXGNcpo_z0Hvn_oHHuIb5wt0&s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SKY COMEDY</marquee></font></p></div></div></a></div>
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:skycrim();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPpVeHWimwzcHA565o9sYv1bTJLDwzWwaUw&usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SKY CRIME</marquee></font></p></div></div></a></div>
+
+-->
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:mycinemaasia();"><div class="card position-relative team-member-card shadow-sm"><img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgNbiZ_kKikmwK_IcJLVjU1cbm2rmfHgzihw&amp;usqp=CAU">
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MY CINEMA ASIA</marquee></font></p></div></div></a></div>
+<!--
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+-->
+<script>
+    function mycinemaasia() {
+        const appUrl = "intent://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8|referer=http://www.dens.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:mycineeuro();"><div class="card position-relative team-member-card shadow-sm"><img class="card-img-top" src="https://i.namu.wiki/i/M30xCDco9GT2NVT-ez1rrzNmuhXtTL1kpDOoXIsyLBJt4h9b3PLs77p5Khgd7vSkdwSD1RV7WPYxKMh4zQX0nA.webp">
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MY CINEMA EUROPA</marquee></font></p></div></div></a></div>
+<script>
+    function mycineeuro() {
+        const appUrl = "intent://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:mycinema();"><div class="card position-relative team-member-card shadow-sm"><img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbG-fjt-ogNNiPkEmOqNPUE9Q5gZ8jiS2wQ&amp;usqp=CAU">
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MY CINEMA</marquee></font></p></div></div></a></div>
+<!--
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+-->
+<script>
+    function mycinema() {
+        const appUrl = "intent://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8|referer=http://www.dens.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:myfamily();"><div class="card position-relative team-member-card shadow-sm"><img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWh69ivUl2HevRXWhiAWs1zhgCa-9IzawLZrYxmIJ00qBXdX38oJcuhfo&amp;s=10">
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MY FAMILY</marquee></font></p></div></div></a></div>
+<!--
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+-->
+<script>
+    function myfamily() {
+        const appUrl = "intent://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8|referer=http://www.dens.tv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:mykidz();"><div class="card position-relative team-member-card shadow-sm"><img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV2lyb67cDFg6_AD9nf70sBXdjtn9nEnQnwg&amp;usqp=CAU">
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MY KIDZ</marquee></font></p></div></div></a></div>
+<script>
+    function mykidz() {
+        const appUrl = "intent://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:celestialmovie();"><div class="card position-relative team-member-card shadow-sm"><img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBDDE-maQyY3kv82Fba4qeJKO-0DdRJCa_MN0KwSTSLcHi_6Nlralp0ik&amp;s=10">
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CELESTIAL MOVIE</marquee></font></p></div></div></a></div>
+<!--
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd|referer=https://www.visionplus.id/&drmScheme=clearkey&drmLicense=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
+-->
+<script>
+    function celestialmovie() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:tvnmovie();"><div class="card position-relative team-member-card shadow-sm"><img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzAKuEvNl5SPVMipanezQxTi30aqmLZKSLsw&amp;usqp=CAU">
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>TVN MOVIE</marquee></font></p></div></div></a></div>
+<!--
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id/&drmScheme=clearkey&drmLicense=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
+-->
+<script>
+    function tvnmovie() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:tvn();"><div class="card position-relative team-member-card shadow-sm"><img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpA33iXwCTcvhBYJR8T2yxI54pDt6e5H9cT_WkIOww9wjUhISPaNDrzPA&amp;s=10">
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>TVN</marquee></font></p></div></div></a></div>
+<!--
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd|referer=https://www.visionplus.id/&drmScheme=clearkey&drmLicense=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
+-->
+<script>
+    function tvn() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=844db5a3a7ff4339b22f93811b004148:de946a52bd1df1d8a9e6510b1e0b3576#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:onech();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://astromedia.com.my/wp-content/uploads/2023/12/onehd.jpeg.webp" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>ONE</marquee></font></p></div></div></a></div>
+<script>
+    function onech() {
+        const appUrl = "intent://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:kix();"><div class="card position-relative team-member-card shadow-sm"><img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtV6annmuqvOvBjl7a-qm3pkBh-njpUE9GA&amp;usqp=CAU">
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>KIX</marquee></font></p></div></div></a></div>
+<!--
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd|Referer=https://www.visionplus.id/|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+-->
+<script>
+    function kix() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&drmScheme=clearkey&drmLicense=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:ccm();"><div class="card position-relative team-member-card shadow-sm"><img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdR1Ys-ZqxoausXiJUfTOZ08nrLiUJXYUKhymu2_n0ZtvpJ8BCG2HvSq2a&amp;s=10">
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CCM</marquee></font></p></div></div></a></div>
+<!--
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd|referer=https://www.visionplus.id/&drmScheme=clearkey&drmLicense=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
+-->
+<script>
+    function ccm() {
+        const appUrl = "intent://av-ch-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash/CelestialClassic.mpd|Referer=https://www.visionplus.id/|&drmScheme=clearkey&drmLicense=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:kplus();"><div class="card position-relative team-member-card shadow-sm"><img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgAuvgqTX6lZ3S7qwGU8CBj1j-8BsZ1iO3fG1_pBDqdch9XthS2VJOAk&amp;s=10">
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>K +</marquee></font></p></div></div></a></div>
+<script>
+    function kplus() {
+        const appUrl = "intent://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:thrill();"><div class="card position-relative team-member-card shadow-sm"><img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLswJ26Sr_ar4aPj073ysrK7dpqaVaewGQbw&amp;usqp=CAU">
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>THRILL</marquee></font></p></div></div></a></div>
+<script>
+    function thrill() {
+        const appUrl = "intent://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd|Referer=https://www.visionplus.id/|&drmScheme=clearkey&drmLicense=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:bioskopid();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR61i3sHQvqrup2aP9zYnrVHR-NqSgsskSA-w&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>BIOSKOP ID</marquee></font></p></div></div></a></div>
+<script>
+    function bioskopid() {
+        const appUrl = "intent://proji.glitch.me/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd|referrer=https://www.indihometv.com/&drmScheme=clearkey&drmLicense=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:cinesedrama();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CINESE DRAMA</marquee></font></p></div></div></a></div>
+<!--
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8?c
+-->
+<script>
+    function cinesedrama() {
+        const appUrl = "intent://proji.glitch.me/https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd|referrer=https://www.indihometv.com/&drmScheme=clearkey&drmLicense=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:cinemaworld();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKdzb0-sOhgCnLaWuFVHzyPLJs3I8o3O09EawA7YppqUNwYP56kHy20DQ&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CINEMA WORLD</marquee></font></p></div></div></a></div>
+<script>
+    function cinemaworld() {
+        const appUrl = "intent://proji.glitch.me/https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd|referrer=https://www.indihometv.com/&drmScheme=clearkey&drmLicense=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:galaxy();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://images.indihometv.com/tvposter/galaxy.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>GALAXY</marquee></font></p></div></div></a></div>
+<!--
+https://proji.glitch.me/https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+-->
+<script>
+    function galaxy() {
+        const appUrl = "intent://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd|referrer=https://www.indihometv.com/&drmScheme=clearkey&drmLicense=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:galaxyprem();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxqYF4OFYPgUSOpdzNcPM02mpACtH7DU7Skqy_z-pNEp8-_BT8SV1ks&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>GALAXY Premium</marquee></font></p></div></div></a></div>
+<!--
+https://proji.glitch.me/https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+-->
+<script>
+    function galaxyprem() {
+        const appUrl = "intent://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|referrer=https://www.indihometv.com/&drmScheme=clearkey&drmLicense=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:hits();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/a/af/HITS-WWW-Banner1.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>HITS</marquee></font></p></div></div></a></div>
+<!--
+https://proji.glitch.me/https://cdn08jtedge.indihometv.com/dassdvr/133/hits/manifest.mpd|referrer=https://www.indihometv.com/&drmScheme=clearkey&drmLicense=68697473303030303030303030303030:605f9a17b3fe63477eeee636af6f3890
+-->
+<script>
+    function hits() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1&drmScheme=clearkey&drmLicense=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:hitsmovie();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRzMZGf3pTVsTD8dUds1p8vKROHyjrghS-3Q&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>HITS MOVIE</marquee></font></p></div></div></a></div>
+<!--
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1&drmScheme=clearkey&drmLicense=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
+
+-->
+<script>
+    function hitsmovie() {
+        const appUrl = "intent://202.147.193.244/live/eds/HitsMovies/sa_dash/HitsMovies.mpd|referrer=https://www.indihometv.com/&drmScheme=clearkey&drmLicense=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:hitsnow();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkcwBX3A6rZpZcoBw4li3AEuQdBP2l-BagktR78t2b1tob7atgXrZgwXw&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>HITS NOW</marquee></font></p></div></div></a></div>
+<!--
+https://proji.glitch.me/https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd|referrer=https://www.indihometv.com/&drmScheme=clearkey&drmLicense=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+-->
+<script>
+    function hitsnow() {
+        const appUrl = "intent://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1&drmScheme=clearkey&drmLicense=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:astroboo();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_Boo_%282024%29.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>ASTRO BOO MY</marquee></font></p></div></div></a></div>
+<!--
+http://spectrum-cors-lim.kolorsempak.workers.dev/dash-wv/linear/2407/default_primary.mpd|X-Forwarded-For=85.237.215.255
+
+-->
+
+<script>
+    function astroboo() {
+        const appUrl = "intent://bintangstream.sahsiasahsia.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd|X-Forwarded-For=103.190.171.245|referer=https://astrogo.astro.com.my/|&drmScheme=clearkey&drmLicense=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:astroshowcase();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Showcase_%282024%29.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>ASTRO SHOWCASE</marquee></font></p></div></div></a></div>
+
+
+<script>
+    function astroshowcase() {
+        const appUrl = "intent://bintangstream.sahsiasahsia.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd|X-Forwarded-For=103.190.171.245|referer=https://astrogo.astro.com.my/|&drmScheme=clearkey&drmLicense=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:lifetime();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXa62wPlB0qu5WEFd4w1dewTz4oehnBw1dGNVYBtR_uHBYobgYmHWkkbHY&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>LIFE TIME</marquee></font></p></div></div></a></div>
+<script>
+    function lifetime() {
+        const appUrl = "intent://bintangstream.sahsiasahsia.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd|X-Forwarded-For=103.190.171.245|referer=https://astrogo.astro.com.my/|&drmScheme=clearkey&drmLicense=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:duniasinema();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmWa8JY65rQO4878aqwdCFRSDefyWmhzhag&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>DUNIA SINEMA</marquee></font></p></div></div></a></div>
+<script>
+    function duniasinema() {
+        const appUrl = "intent://unifi-live27.secureswiftcontent.com/UnifiHD/live27.mpd|&drmScheme=clearkey&drmLicense=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:ohmyceria();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7-ZM_cVFiwLgOkBwOYcW971WNOtT0gzRCQw&amp;s" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Oh My Ceria</marquee></font></p></div></div></a></div>
+
+<script>
+    function ohmyceria() {
+        const appUrl = "intent://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:lawakcentral();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_2w-gVq08j93KBnd1XtbXslO2een1u_wgIzG1fPpvkgtoy86TkC4dcOv&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Lawak Central</marquee></font></p></div></div></a></div>
+<script>
+    function lawakcentral() {
+        const appUrl = "intent://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:dramahebat();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEjX2X-F-7VNsKHD9lb5Bj7EQYyL0Ts7qbfEOehott-XHc4CFDSALxj0&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>DRAMA HEBAT</marquee></font></p></div></div></a></div>
+<script>
+    function dramahebat() {
+        const appUrl = "intent://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:dramamantap();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqNp0Eg4u6nRWx2tsfjRd7nQorV_NVa1W0GYYSQE76N0wGjAcBIFEIsxk&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>DRAMA MANTAP</marquee></font></p></div></div></a></div>
+<script>
+    function dramamantap() {
+        const appUrl = "intent://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:dramahotpot();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYjKaSvyJyDVIkCGV0opQY8Ld0a7-FYlMwwMbtfhwO61qf2uY6KyPx4WNd&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>DRAMA HOTPOT</marquee></font></p></div></div></a></div>
+<script>
+    function dramahotpot() {
+        const appUrl = "intent://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:stcdrama();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ykFVrOAsmYWyUq-D0ZQ4dL0puQTbJdrZ4lqEeDjfX3ZKlPcT6QnzRws&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>STC TV DRAMA </marquee></font></p></div></div></a></div>
+
+<script>
+    function stcdrama() {
+        const appUrl = "intent://uselector.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd|X-Forwarded-For=38.54.114.49&drmScheme=clearkey&drmLicense=4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:stcfamily();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ykFVrOAsmYWyUq-D0ZQ4dL0puQTbJdrZ4lqEeDjfX3ZKlPcT6QnzRws&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>STC TV FAMILY </marquee></font></p></div></div></a></div>
+<script>
+    function stcfamily() {
+        const appUrl = "intent://uselector.cdn.intigral-ott.net/STCF/STCF.isml/manifest.mpd|X-Forwarded-For=38.54.114.49&drmScheme=clearkey&drmLicense=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:stccinema();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ykFVrOAsmYWyUq-D0ZQ4dL0puQTbJdrZ4lqEeDjfX3ZKlPcT6QnzRws&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>STC TV CINEMA </marquee></font></p></div></div></a></div>
+<script>
+    function stccinema() {
+        const appUrl = "intent://uselector.cdn.intigral-ott.net/STCC/STCC.isml/manifest.mpd|X-Forwarded-For=38.54.114.49&drmScheme=clearkey&drmLicense=27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:starworld();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZauchlM_3Zx-2fOG9v3JAwpc8IijzIWcJKHQ0zuHKjOwJPrIwKlj80E4O&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>STAR WORLD </marquee></font></p></div></div></a></div>
+<script>
+    function starworld() {
+        const appUrl = "intent://uselector.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd|X-Forwarded-For=38.54.114.49&drmScheme=clearkey&drmLicense=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:staraction();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKe_AMLNFQGAUSUhVWDf45JVA1inX_UYA3ECWTA75084X05P3-ewrANB8h&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>STAR ACTION </marquee></font></p></div></div></a></div>
+<script>
+    function staraction() {
+        const appUrl = "intent://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd|X-Forwarded-For=38.54.114.49&drmScheme=clearkey&drmLicense=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:starmovies();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikxD5SinF8pm3xeToX3F64uPXn4qN3AD4QXcse3lLg5NYwHv8amIE0uOLYo9x_7VIDT-PMIQDisEO-DM-EfL7FrFz7ejGJm45Tsmyx0l9qeGrE5khm4yoKum7PczltvEs7O7slqsGqdMUlnJlMSdzgawaYvKkTiGLE8rLWyzp7xtKdHzNFKHc2MaVwcII8/s480/images%20(36).jpeg" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>STAR MOVIES </marquee></font></p></div></div></a></div>
+<script>
+    function starmovies() {
+        const appUrl = "intent://https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd|X-Forwarded-For=38.54.114.49&drmScheme=clearkey&drmLicense=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:mbc1arb();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/MBC_1_poster_chanel/original/MBC_1_poster_chanel.jpg?height=379.5&amp;width=675&amp;croppingPoint=&amp;version=1&amp;type=webp" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MBC 1</marquee></font></p></div></div></a></div>
+<script>
+    function mbc1arb() {
+        const appUrl = "intent://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:mbc2arb();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/MBC_1_poster_chanel/original/MBC_1_poster_chanel.jpg?height=379.5&amp;width=675&amp;croppingPoint=&amp;version=1&amp;type=webp" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MBC 2</marquee></font></p></div></div></a></div>
+<script>
+    function mbc2arb() {
+        const appUrl = "intent://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:mbc3arb();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/MBC_1_poster_chanel/original/MBC_1_poster_chanel.jpg?height=379.5&amp;width=675&amp;croppingPoint=&amp;version=1&amp;type=webp" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MBC 3</marquee></font></p></div></div></a></div>
+<script>
+    function mbc3arb() {
+        const appUrl = "intent://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:mbc4arb();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/MBC_1_poster_chanel/original/MBC_1_poster_chanel.jpg?height=379.5&amp;width=675&amp;croppingPoint=&amp;version=1&amp;type=webp" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MBC 4</marquee></font></p></div></div></a></div>
+<script>
+    function mbc4arb() {
+        const appUrl = "intent://shls-masr-enc.edgenextcdn.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:mbc5arb();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://shahid.mbc.net/mediaObject/Curation_2022/Live_Channels/MBC_1_poster_chanel/original/MBC_1_poster_chanel.jpg?height=379.5&amp;width=675&amp;croppingPoint=&amp;version=1&amp;type=webp" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MBC 5</marquee></font></p></div></div></a></div>
+<script>
+    function mbc5arb() {
+        const appUrl = "intent://shls-masr2-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_6.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:moviesarb();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNnP-vd5KDBfopMwtqV-6UkjHWewrQeJ8jG3TbK-Xx6AL1WX16rvpC9Y&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MOVIES</marquee></font></p></div></div></a></div>
+<script>
+    function moviesarb() {
+        const appUrl = "intent://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:moviesthrillerarb();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6rA5TzUwl3uOqx3b68Ojda3CWgQVfx1LOA&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MOVIES THRILLER</marquee></font></p></div></div></a></div>
+<script>
+    function moviesthrillerarb() {
+        const appUrl = "intent://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:moviesactionarb();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://static.wikia.nocookie.net/foxtelmovies/images/c/c2/Action.png/revision/latest?cb=20190326090830" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MOVIES ACTION</marquee></font></p></div></div></a></div>
+<script>
+    function moviesactionarb() {
+        const appUrl = "intent://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:moviedome();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkCP1TvKC-JjMZPp2Bpgox1TeCiYH7T6KN7f3WNKAJS2Mu8E_7sEkzDnnE&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MOVIE DOME</marquee></font></p></div></div></a></div>
+<script>
+    function moviedome() {
+        const appUrl = "intent://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8?c|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:moviesphere();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_Y4gs8EO8rIRq54qmUgAEpByiP9m1_yiDI2XEa_PvHzTztocFOiqtGfP&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MOVIE SPHERE</marquee></font></p></div></div></a></div>
+<script>
+    function moviesphere() {
+        const appUrl = "intent://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:amcplus();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiVbOjSd9KJolFe351VC30x9aaUuK18qh_U3XcHE2bGqiilTyvupQVzk&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>AMC +</marquee></font></p></div></div></a></div>
+<script>
+    function amcplus() {
+        const appUrl = "intent://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:amc();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiVbOjSd9KJolFe351VC30x9aaUuK18qh_U3XcHE2bGqiilTyvupQVzk&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>AMC</marquee></font></p></div></div></a></div>
+<script>
+    function amc() {
+        const appUrl = "intent://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:amcthriller();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiVbOjSd9KJolFe351VC30x9aaUuK18qh_U3XcHE2bGqiilTyvupQVzk&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>AMC THRILLER</marquee></font></p></div></div></a></div>
+<script>
+    function amcthriller() {
+        const appUrl = "intent://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:runtime();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNspkOSEzplCaR9S8_u2HrL8bzdb3IlTl72w&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>RUN TIME</marquee></font></p></div></div></a></div>
+<script>
+    function runtime() {
+        const appUrl = "intent://stream.ads.ottera.tv/playlist.m3u8?network_id=2649|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:runtimethrillerteror();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNspkOSEzplCaR9S8_u2HrL8bzdb3IlTl72w&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>RUN TIME THRILLER TEROR</marquee></font></p></div></div></a></div>
+<script>
+    function runtimethrillerteror() {
+        const appUrl = "intent://stream.ads.ottera.tv/playlist.m3u8?network_id=3054|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:runtimecrimen();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNspkOSEzplCaR9S8_u2HrL8bzdb3IlTl72w&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>RUN TIME CRIMEN</marquee></font></p></div></div></a></div>
+<script>
+    function runtimecrimen() {
+        const appUrl = "intent://stream.ads.ottera.tv/playlist.m3u8?network_id=3527|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:runtime2crimen();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNspkOSEzplCaR9S8_u2HrL8bzdb3IlTl72w&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>RUN TIME CRIMEN 2</marquee></font></p></div></div></a></div>
+<script>
+    function runtime2crimen() {
+        const appUrl = "intent://stream.ads.ottera.tv/playlist.m3u8?network_id=3533|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:runtimecineseries();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNspkOSEzplCaR9S8_u2HrL8bzdb3IlTl72w&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>RUN TIME CINE SERIES</marquee></font></p></div></div></a></div>
+<script>
+    function runtimecineseries() {
+        const appUrl = "intent://stream.ads.ottera.tv/playlist.m3u8?network_id=2152|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:runtimeaction();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNspkOSEzplCaR9S8_u2HrL8bzdb3IlTl72w&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>RUN TIME ACTION</marquee></font></p></div></div></a></div>
+<script>
+    function runtimeaction() {
+        const appUrl = "intent://stream.ads.ottera.tv/playlist.m3u8?network_id=3058|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:runtimeromance();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNspkOSEzplCaR9S8_u2HrL8bzdb3IlTl72w&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>RUN TIME ROMANCE</marquee></font></p></div></div></a></div>
+<script>
+    function runtimeromance() {
+        const appUrl = "intent://stream.ads.ottera.tv/playlist.m3u8?network_id=3056|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:runtimeclasico();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNspkOSEzplCaR9S8_u2HrL8bzdb3IlTl72w&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>RUN TIME CLASICO</marquee></font></p></div></div></a></div>
+<script>
+    function runtimeclasico() {
+        const appUrl = "intent://stream.ads.ottera.tv/playlist.m3u8?network_id=3053|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+ <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:runtimeseries();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNspkOSEzplCaR9S8_u2HrL8bzdb3IlTl72w&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>RUN TIME SERIES</marquee></font></p></div></div></a></div>
+<script>
+    function runtimeseries() {
+        const appUrl = "intent://stream.ads.ottera.tv/playlist.m3u8?network_id=3434|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:rakutenbbcdrama();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuA9apYdQqYgAfE99ap4ISEhgTm7kj6eRQ_xzZ_rzMBd1QhsxvnXBWksIc&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Rakuten BBC DRAMA</marquee></font></p></div></div></a></div>
+<script>
+    function rakutenbbcdrama() {
+        const appUrl = "intent://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:rakutenfamily();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlmXNLwF2Dia00MrMlm3N4QMBCTejFtYXpCnI_1MxWnEhCVBCle1BeACPX&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>RAKUTEN FAMILY</marquee></font></p></div></div></a></div>
+<script>
+    function rakutenfamily() {
+        const appUrl = "intent://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:cineclasico();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchVP-5mWAvARYGb9QpvWTQzejmdl4iWXn8Ng9f_4NCdc6oAqrjSL-97-N&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CINE CLASSICO</marquee></font></p></div></div></a></div>
+<script>
+    function cineclasico() {
+        const appUrl = "intent://stream.ads.ottera.tv/playlist.m3u8?network_id=652|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:cinemaone();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_oK0yyW2_s1AMovvEc3JhUbfxiP6Av8ZAVQ&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>CINEMA ONE</marquee></font></p></div></div></a></div>
+<script>
+    function cinemaone() {
+        const appUrl = "intent://cinemaone-abscbn-ono.amagi.tv/index.m3u8?c|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:mbcbollywood();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT87A7q8Pl0AKOxXG7ZBMlH9SMjJ-Vf83AVG903s6AeHMSpnHGjU89BTceo&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MBC BOLLYWOOD</marquee></font></p></div></div></a></div>
+<script>
+    function mbcbollywood() {
+        const appUrl = "intent://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:actionhollywood();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqcnkwJ6xS7wBKSX1dLZRwBv3wX0lOTE8L2rpchtvQtsRHT9H79eDPkM&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>ACTION HOLLYWOOD</marquee></font></p></div></div></a></div>
+<script>
+    function actionhollywood() {
+        const appUrl = "intent://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+   <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:mytimemovie();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE9RwbDRKvm_6a4ibbNGNC347FY8pbdsjeYMaUZPMnTrObE1CKhptSQJ0&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MY TIME MOVIE</marquee></font></p></div></div></a></div>
+<script>
+    function mytimemovie() {
+        const appUrl = "intent://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:asiancrush();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStL5insC47uEj0dOZyNWRdmeCAHgbrb-6dLg7uj3kUSL8PoksytPKJenPf&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>ASIAN CRUSH</marquee></font></p></div></div></a></div>
+<script>
+    function asiancrush() {
+        const appUrl = "intent://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:koreamovie1kr();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqD3yppQ-TZvdzuupfCoSEeL2kWM9BOqYWhA3dCisWw3nBml6McacFWPCw&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>KOREA MOVIE 1</marquee></font></p></div></div></a></div>
+<script>
+    function koreamovie1kr() {
+        const appUrl = "intent://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:koreamovie2kr();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqD3yppQ-TZvdzuupfCoSEeL2kWM9BOqYWhA3dCisWw3nBml6McacFWPCw&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>KOREA MOVIE 2</marquee></font></p></div></div></a></div>
+<script>
+    function koreamovie2kr() {
+        const appUrl = "intent://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:koreamovie3kr();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqD3yppQ-TZvdzuupfCoSEeL2kWM9BOqYWhA3dCisWw3nBml6McacFWPCw&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>KOREA MOVIE 3</marquee></font></p></div></div></a></div>
+<script>
+    function koreamovie3kr() {
+        const appUrl = "intent://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:koreamovie4kr();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqD3yppQ-TZvdzuupfCoSEeL2kWM9BOqYWhA3dCisWw3nBml6McacFWPCw&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>KOREA MOVIE 4</marquee></font></p></div></div></a></div>
+<script>
+    function koreamovie4kr() {
+        const appUrl = "intent://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:sbs();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1NY-pBGIzstQmmewM86PYNO9rn-OLhhczWw&amp;s" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SBS</marquee></font></p></div></div></a></div>
+<script>
+    function sbs() {
+        const appUrl = "intent://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:kdrama();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCCVUOQbzB0fqJgG1RjDMtPO2zL6-BoYYyfaHE11ug0nUPJLo6oWAZotq&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>K Drama</marquee></font></p></div></div></a></div>
+<script>
+    function kdrama() {
+        const appUrl = "intent://stream.ads.ottera.tv/playlist.m3u8?network_id=425|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:tvnkr();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMMHr7cjhlj2CsOCA6ZpXBl_9HTiGMEr4GQ&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>TVN KR</marquee></font></p></div></div></a></div>
+<script>
+    function tvnkr() {
+        const appUrl = "intent://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:kmovie();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRC0aa8ZSmYIJ_DYsJunUmbLmuqEz8Bi4RnA&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>K Movie</marquee></font></p></div></div></a></div>
+<script>
+    function kmovie() {
+        const appUrl = "intent://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:plutotvparamount();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgKB3THyUxUUVEKeNLI0_hCfYSDTNbwoJZl7eney4HSywKfBQ4DF0AD3H&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>PLUTOTV Paramount</marquee></font></p></div></div></a></div>
+<script>
+    function plutotvparamount() {
+        const appUrl = "intent://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:plutotvaction();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgKB3THyUxUUVEKeNLI0_hCfYSDTNbwoJZl7eney4HSywKfBQ4DF0AD3H&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>PLUTOTV Action</marquee></font></p></div></div></a></div>
+<script>
+    function plutotvaction() {
+        const appUrl = "intent://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:plutotvcomedy();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgKB3THyUxUUVEKeNLI0_hCfYSDTNbwoJZl7eney4HSywKfBQ4DF0AD3H&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>PLUTOTV Comedy</marquee></font></p></div></div></a></div>
+<script>
+    function plutotvcomedy() {
+        const appUrl = "intent://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:plutotvdrama();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgKB3THyUxUUVEKeNLI0_hCfYSDTNbwoJZl7eney4HSywKfBQ4DF0AD3H&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>PLUTOTV Drama</marquee></font></p></div></div></a></div>
+<script>
+    function plutotvdrama() {
+        const appUrl = "intent://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:plutotvfantastic();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgKB3THyUxUUVEKeNLI0_hCfYSDTNbwoJZl7eney4HSywKfBQ4DF0AD3H&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>PLUTOTV Fantastic</marquee></font></p></div></div></a></div>
+<script>
+    function plutotvfantastic() {
+        const appUrl = "intent://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:plutotvromance();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgKB3THyUxUUVEKeNLI0_hCfYSDTNbwoJZl7eney4HSywKfBQ4DF0AD3H&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>PLUTOTV Romance</marquee></font></p></div></div></a></div>
+<script>
+    function plutotvromance() {
+        const appUrl = "intent://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:plutotvcrimemovie();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgKB3THyUxUUVEKeNLI0_hCfYSDTNbwoJZl7eney4HSywKfBQ4DF0AD3H&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>PLUTOTV Crime Movie</marquee></font></p></div></div></a></div>
+<script>
+    function plutotvcrimemovie() {
+        const appUrl = "intent://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:plutotvhoror();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgKB3THyUxUUVEKeNLI0_hCfYSDTNbwoJZl7eney4HSywKfBQ4DF0AD3H&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>PLUTOTV Horor</marquee></font></p></div></div></a></div>
+<script>
+    function plutotvhoror() {
+        const appUrl = "intent://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:plutotvthriller();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgKB3THyUxUUVEKeNLI0_hCfYSDTNbwoJZl7eney4HSywKfBQ4DF0AD3H&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>PLUTOTV Thriller</marquee></font></p></div></div></a></div>
+<script>
+    function plutotvthriller() {
+        const appUrl = "intent://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:plutotvteror();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCgKB3THyUxUUVEKeNLI0_hCfYSDTNbwoJZl7eney4HSywKfBQ4DF0AD3H&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>PLUTOTV Teror</marquee></font></p></div></div></a></div>
+<script>
+    function plutotvteror() {
+        const appUrl = "intent://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:hiyaahmovie();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://vhx.imgix.net/hi-yahtv/assets/2d0cd40c-eaee-48cf-9ab3-b2cf69d6e110-9b300abc.png?auto=format%2Ccompress&amp;fit=crop&amp;h=720&amp;w=1280" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>HI YAAH Movie</marquee></font></p></div></div></a></div>
+<script>
+    function hiyaahmovie() {
+        const appUrl = "intent://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:lalatv();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWYq9XKLCN-kOqP25KR5pxJR0vxek4HbzxEA&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>LALA TV</marquee></font></p></div></div></a></div>
+<script>
+    function lalatv() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:necojp();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://www.necoweb.com/neco/assets/images/og.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>NECO JP</marquee></font></p></div></div></a></div>
+<script>
+    function necojp() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:superdrama();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFyyVLRSQGPW2RZLlXQsGPwdtJ6Ry0SgM4gniQlf31VHNTcxOhQdPpUyA&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>SUPER DRAMA TV</marquee></font></p></div></div></a></div>
+<script>
+    function superdrama() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:bstbs();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQabkK7z39caw4by-QpeYruEsCWjVM776BjOtji3L2exocbVJYFz6tXg&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>BS TBS</marquee></font></p></div></div></a></div>
+<script>
+    function bstbs() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:wowowprime();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7m2rSOdN5sN9r4_fOoOrtwZwen6nfFmlzcg&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>WOWOW PRIME</marquee></font></p></div></div></a></div>
+<script>
+    function wowowprime() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:wowowcinema();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2OfT0K9Mwkpcm4C7ksRAeM4efRLKOA9nZeA&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>WOWOW CINEMA</marquee></font></p></div></div></a></div>
+<script>
+    function wowowcinema() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:wowowlive();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://static.wikia.nocookie.net/logopedia/images/a/a8/Bandicam_2020-02-15_13-47-30-399.jpg/revision/latest/scale-to-width-down/250?cb=20200215064814" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>WOWOW LIVE</marquee></font></p></div></div></a></div>
+<script>
+    function wowowlive() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:dlifejp();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS33TwBmLHatKlxyqQr4aMQsXuw1qYj2y4CYA&amp;usqp=CAU" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>DLIFE JP</marquee></font></p></div></div></a></div>
+<script>
+    function dlifejp() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:toeichannel();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6xbQjjWLzyWc_8KstqPftDvOUTb0hIyma0PEwy9cUixOvrzU92sEDJU&amp;s=10" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>TOEI Channel</marquee></font></p></div></div></a></div>
+<script>
+    function toeichannel() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:movieplusjp();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Movie Plus</marquee></font></p></div></div></a></div>
+<script>
+    function movieplusjp() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:bstvtokyo();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>BS TV Tokyo</marquee></font></p></div></div></a></div>
+<script>
+    function bstvtokyo() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:starch1jp();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Star Channel 1</marquee></font></p></div></div></a></div>
+<script>
+    function starch1jp() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:starch2jp();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Star Channel 2</marquee></font></p></div></div></a></div>
+<script>
+    function starch2jp() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+  <div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:starch3jp();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>Star Channel 3</marquee></font></p></div></div></a></div>
+<script>
+    function starch3jp() {
+        const appUrl = "intent://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+  
+
+<div class="blog-wrapper py-2">
+<div class="container">  
+<div class="element-heading">
+<h6>&#169;COPYRIGHT </h6></div>      
+<div class="row g-3">
+  
+<div class="alert custom-alert-1 alert-dark alert-dismissible fade show mb-0" role="alert">
+
+&#9679; This application does not host or broadcast any video streams on its servers. Please resolve any DMCA complaints directly with the platform or server where the videos are hosted or streamed.
+            <button aria-label="Close" class="btn btn-close position-relative p-1 ms-auto" data-bs-dismiss="alert" type="button"></button>
+          </div>  
+  
+  </div></div></div>
+
+  
+  </div>
+  
+  
+ 
+    
+  
+  
+
+
+
+
+
+    <!-- Footer Nav -->
+<div class="footer-nav-area" id="footerNav"> 
+<div class="container px-0">
+<!-- Footer Content -->
+<div class="footer-nav position-relative">
+<ul class="h-100 d-flex align-items-center justify-content-between ps-0">
+<li><a href="go:update">
+<i class="bi bi-tablet"></i><span>Apk</span></a></li>
+<li><a href="go:tvsports">
+<i class="bi bi-collection-play"></i>
+<span>Sport TV</span></a></li>
+<li class=""><a href="go:home">
+<i class="bi bi-house"></i><span>Home</span></a></li>
+<li><a href="go:event">
+<i class="bi bi-calendar-event"></i>
+<span>LIVE EVENT</span></a></li>
+<li><a href="https://nyawer.co/Sumaleng">
+<i class="bi bi-gift"></i>
+<span>Donate</span></a></li>
+</ul>
+</div></div></div>
+
+
+
+
+
+
+
+
+
+
+
+<!-------- NAVIGASI REMOT ---------->
+
+<style>
+  /* Outline kuning saat fokus */
+  .tv-focusable:focus,
+  .channel-item:focus-within {
+    outline: 5px solid yellow !important;
+    outline-offset: -1px;
+    border-radius: 5px;
+  }
+
+  .col-4 a {
+    display: block;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const focusables = [];
+
+    // Gabungkan semua elemen fokus: <a> biasa dan dalam .col-4
+    document.querySelectorAll('a[href], a[onclick]').forEach((el) => {
+      el.classList.add('tv-focusable');
+      el.setAttribute('tabindex', '0');
+      focusables.push(el);
+    });
+
+    let currentFocus = 0;
+    const cols = 3;
+
+    if (focusables.length > 0) {
+      setTimeout(() => {
+        focusables[0].focus();
+      }, 500);
+    }
+
+    document.addEventListener('keydown', (e) => {
+      const maxIndex = focusables.length - 1;
+      const row = Math.floor(currentFocus / cols);
+
+      if (e.key === 'ArrowRight') {
+        const next = currentFocus + 1;
+        if (Math.floor(next / cols) === row && next <= maxIndex) {
+          currentFocus = next;
+          focusables[currentFocus].focus();
+        }
+        e.preventDefault();
+      } else if (e.key === 'ArrowLeft') {
+        const prev = currentFocus - 1;
+        if (Math.floor(prev / cols) === row && prev >= 0) {
+          currentFocus = prev;
+          focusables[currentFocus].focus();
+        }
+        e.preventDefault();
+      } else if (e.key === 'ArrowDown') {
+        const down = currentFocus + cols;
+        if (down <= maxIndex) {
+          currentFocus = down;
+          focusables[currentFocus].focus();
+        }
+        e.preventDefault();
+      } else if (e.key === 'ArrowUp') {
+        const up = currentFocus - cols;
+        if (up >= 0) {
+          currentFocus = up;
+          focusables[currentFocus].focus();
+        }
+        e.preventDefault();
+      } else if (e.key === 'Enter') {
+        focusables[currentFocus].click();
+      }
+    });
+  });
+</script>
+
+<!-------- /NAVIGASI REMOT ---------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language=javascript>document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('*8Hxhwnuy*75qfslzflj*8I*77of%7Bfxhwnuy*77*8Jkzshynts*75iK*7%3Dx*7%3E*%3CG%7Bfw*75x6*8Izsjxhfuj*7%3Dx3xzgxyw*7%3D5*7Hx3qjslym26*7%3E*7%3E*8G*75%7Bfw*75y*8I*7%3C*7%3C*8Gktw*7%3Dn*8I5*8Gn*8Hx63qjslym*8Gn00*7%3Ey0*8IXywnsl3kwtrHmfwHtij*7%3Dx63hmfwHtijFy*7%3Dn*7%3E2x3xzgxyw*7%3Dx3qjslym26*7H6*7%3E*7%3E*8Githzrjsy3%7Cwnyj*7%3Dzsjxhfuj*7%3Dy*7%3E*7%3E*8G*%3CI*8H4xhwnuy*8J*8Hxhwnuy*8J*5F*75*75*75*75*75*75*75*75%7Bfw*75ni*75*8I*75Odljy*7%3D*7%3Cni*7%3C*7%3E*8G*5F*75*75*75*75%7Bfw*75iu*8Isj%7C*75IUqf%7Ejw*7%3D*%3CGhtsyfnsjw*8F*75ithzrjsy3ljyJqjrjsyG%7ENi*7%3D*7%3Cwfpjyuqf%7Ejw*7%3C*7%3E*7Hymjrj*8F*77*78kkkkkk*77*7Hqttu*8Fkfqxj*7Hfzytuqf%7E*8Fywzj*7Hmtypj%7E*8Fywzj*7H*75uwjqtfi*8F*77rjyfifyf*77*7H*75rzyj%7D*8Fywzj*7H*75%7Bnijt*8F*75*%3CG*75vzfqny%7E*8F*75*%3AG*%3CG*75zwq*8F*75*77*770ni0*77*77*7H*77sfrj*77*8F*77WFPJY*75Y%5B*75QN%5BJ*77*7H*75y%7Euj*8F*75*7%3Cfzyt*7%3C*7H*75*%3CI*7H*75*%3AI*7H*75ijkfzqyVzfqny%7E*8F*755*7H*75unh*8F*75*7%3Cmyyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4wfpjyy%7BErfxyjw4wfpjyy%7B3oul*7%3C*7H*75wjkjwwjwUtqnh%7E*8F*77st2wjkjwwjw*77*%3CI*7H*%3CI*7%3E*8G*75*5F*75*75*75ithzrjsy3ljyJqjrjsyG%7ENi*7%3D*7%3Cwfpjyuqf%7Ejw*7%3C*7%3E3tshtsyj%7Dyrjsz*75*8I*75kzshynts*75*7%3D*7%3E*75*%3CG*5F*75*75*75*75*75*75*75*75*75*75*75*75ithzrjsy3vzjw%7EXjqjhytw*7%3D*7%3C3iuqf%7Ejw2rjsz*7%3C*7%3E3xy%7Eqj3inxuqf%7E*75*8I*75*77stsj*77*8G*5F*75*75*75*75*75*75*75*75*75*75*75*75ithzrjsy3vzjw%7EXjqjhytw*7%3D*7%3C3iuqf%7Ejw2rfxp*7%3C*7%3E3xy%7Eqj3inxuqf%7E*75*8I*75*77stsj*77*8G*5F*75*75*75*75wjyzws*75kfqxj*8G*5F*75*75*75*75*%3CI*8G*5F*75*75*75*75xjyYnrjtzy*7%3Dkzshynts*7%3D*7%3E*%3CGiu3uqf%7E*7%3D*7%3E*8G*%3CI*7H6555*7%3E*8G*5F*75*75*75*75*8H4xhwnuy*8J5')</script>
+    
+<script>
+videojs.options.hls.overrideNative = true;
+var player = videojs('minozo_player');  
+
+// Source Selector
+player.httpSourceSelector();
+</script>    
+     
+<script language=javascript>document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('*8Hxhwnuy*8J*75*5Fkzshynts*75rn6*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr63myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75rn7*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr73myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75rn8*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr83myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75rn9*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr93myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75rn%3A*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr%3A3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75rn%3B*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr%3B3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75rn%3C*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr%3C3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75rn%3D*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr%3D3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75rn%3E*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr%3E3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75rn65*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr653myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75rn66*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr663myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75rn67*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr673myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75rn68*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr683myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75rn69*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr693myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75rn6%3A*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr6%3A3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75rn6%3B*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr6%3B3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75rn6%3C*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr6%3C3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75rn6%3D*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr6%3D3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75rn6%3E*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr6%3E3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75rn75*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*77475774594uwjrnzr753myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5F*8H4xhwnuy*8J*75*755')</script> 
+    
+<script language=javascript>document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('*8Hxhwnuy*8J*75*5Fkzshynts*75y%7B6*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B63myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*75*5Fkzshynts*75y%7B7*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B73myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75y%7B8*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B83myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75y%7B9*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B93myrq*8K*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75y%7B%3A*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B%3A3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75y%7B%3B*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B%3B3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75y%7B%3C*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B%3C3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75y%7B%3D*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B%3D3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75y%7B%3E*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B%3E3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*75*5Fkzshynts*75y%7B65*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B653myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75y%7B66*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B663myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75y%7B67*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B673myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75y%7B68*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B683myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75y%7B69*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B693myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5Fkzshynts*75y%7B6%3A*7%3D*7%3E*%3CGithzrjsy3ljyJqjrjsyG%7ENi*7%3D*77y%7B*77*7%3E*5F3nssjwMYRQ*8I*7%3C*8Hnkwfrj*75xwh*8I*774757745%3E4y%7B6%3A3myrq*77*75fqqt%7C*8I*77jshw%7Euyji2rjinf*77*75xhwtqqnsl*8I*77st*77*75kwfrjgtwijw*8I*775*77*75mjnlmy*8I*77655*7%3A*77*75%7Cniym*8I*77655*7%3A*77*75ljxyzwj*8I*77rjinf*77*75fqqt%7Ckzqqxhwjjs*8I*77fqqt%7Ckzqqxhwjjs*77*8J*8H4nkwfrj*8J*7%3C*8G*%3CI*5F*8H4xhwnuy*8J*75*755')</script>    
+    
+<script language=javascript>document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4gttyxywfu3gzsiqj3rns3ox*77*8J*8H4xhwnuy*8J*5F*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4xqnijYtllqj3rns3ox*77*8J*8H4xhwnuy*8J*5F*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4nsyjwsjy2xyfyzx3ox*77*8J*8H4xhwnuy*8J*5F*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4yns%7E2xqnijw3ox*77*8J*8H4xhwnuy*8J*5F*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4gflzjyyjGt%7D3rns3ox*77*8J*8H4xhwnuy*8J*5F*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4htzsyit%7Cs3ox*77*8J*8H4xhwnuy*8J*5F*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4wfsljxqnijw3rns3ox*77*8J*8H4xhwnuy*8J*5F*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4%7Bfsnqqf2ifyfYfgqjx3rns3ox*77*8J*8H4xhwnuy*8J*5F*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4nsij%7D3ox*77*8J*8H4xhwnuy*8J*5F*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4nrfljxqtfiji3upli3rns3ox*77*8J*8H4xhwnuy*8J*5F*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4nxtytuj3upli3rns3ox*77*8J*8H4xhwnuy*8J*5F*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4ifwp2wyq3ox*77*8J*8H4xhwnuy*8J*5F*75*75*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4lm4rnst%7Fty%7B4xyjqnsErfxyjw4fhyn%7Bj3ox*77*8J*8H4xhwnuy*8J5')</script>
+    
+</body>
+  
+ 
+<script> 
+function caranonton(){document.getElementById("tv")
+.innerHTML='<iframe src="https://kadaladi04.github.io/date/ch/cara-nonton.html" allow="encrypted-media" scrolling="yes" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';} 
+     
+     
+
+function skycineact(){document.getElementById("tv")
+.innerHTML='<iframe src="https://tboys88.github.io/tesid/movi/skycineact.html" allow="encrypted-media" scrolling="yes" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';} 
+
+
+function skycineprem(){document.getElementById("tv")
+.innerHTML='<iframe src="https://tboys88.github.io/tesid/movi/skycineprem.html" allow="encrypted-media" scrolling="yes" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';} 
+
+
+
+
+function skycineanim(){document.getElementById("tv")
+.innerHTML='<iframe src="https://tboys88.github.io/tesid/movi/skycineanim.html" allow="encrypted-media" scrolling="yes" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';} 
+
+
+
+function skycinefam(){document.getElementById("tv")
+.innerHTML='<iframe src="https://tboys88.github.io/tesid/movi/skycinefam.html" allow="encrypted-media" scrolling="yes" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';} 
+
+
+
+function skycinehit(){document.getElementById("tv")
+.innerHTML='<iframe src="https://tboys88.github.io/tesid/movi/skycinehit.html" allow="encrypted-media" scrolling="yes" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';} 
+
+
+
+function skycom(){document.getElementById("tv")
+.innerHTML='<iframe src="https://tboys88.github.io/tesid/movi/skycom.html" allow="encrypted-media" scrolling="yes" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';} 
+
+
+
+function skycrim(){document.getElementById("tv")
+.innerHTML='<iframe src="https://tboys88.github.io/tesid/movi/skycrim.html" allow="encrypted-media" scrolling="yes" frameborder="0" height="100%" width="100%" gesture="media" allowfullscreen="allowfullscreen"></iframe>';} 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+  
+  
+    
+    </script>
+  
+  
+  <html lang="en"><head><style class="vjs-styles-defaults">
+      .video-js {
+        width: 300px;
+        height: 150px;
+      }
+
+      .vjs-fluid {
+        padding-top: 56.25%
+      }
+    </style>
+    <!-- Meta tags  -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="icon" href="https://raw.githubusercontent.com/ZRAR0205/AllolaTV/main/allolatv_logo.jpg" type="image/x-icon">
+    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/ZRAR0205/AllolaTV/main/allolatv_logo.jpg">
+    <meta name="theme-color" content="#151515">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="SBOTV">
+    <meta name="msapplication-TileImage" content="https://raw.githubusercontent.com/ZRAR0205/AllolaTV/main/allolatv_logo.jpg">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="referrer" content="same-origin">
+    <title>AllolaTV</title>    
+	<meta name="keywords" content="SBOTV">
+	<meta name="description" content="SBOTV">
+      
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
+      
+      <script language="javascript">document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('*8Hqnsp*75wjq*8I*77xy%7Eqjxmjjy*77*75mwjk*8I*77myyux*8F44his3oxijqn%7Bw3sjy4sur4gttyxywfuE93%3B364inxy4hxx4gttyxywfu3rns3hxx*77*8J*5F*8Hqnsp*75wjq*8I*77xy%7Eqjxmjjy*77*75mwjk*8I*77myyux*8F44his3xyfynhfqq%7E3nt4lm4rnst%7Fty%7B4rnlny%7B746%3Ah97g7%3B4rnlnxy%7Eqj3hxx*77*8J*5F*8Hqnsp*75mwjk*8I*77myyux*8F44his3xyfynhfqq%7E3nt4lm4rnst%7Fty%7B4rnlny%7B746%3Ah97g7%3B4ofwfp3hxx*77*75wjq*8I*77xy%7Eqjxmjjy*77*8J5')</script><script language="javascript">function dF(s){var s1=unescape(s.substr(0,s.length-1)); var t='';for(i=0;i<s1.length;i++)t+=String.fromCharCode(s1.charCodeAt(i)-s.substr(s.length-1,1));document.write(unescape(t));}</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.statically.io/gh/minozotv/migitv2/15c42b26/migistyle.css">
+<link href="https://cdn.statically.io/gh/minozotv/migitv2/15c42b26/jarak.css" rel="stylesheet">
+ 
+     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VPJKS5JDMR"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-VPJKS5JDMR'); </script>
+       
+   <style>    
+     .list-levels {background: #191b20;border:1px solid #f05926 !important;border-radius:0px;}
+  .btn-dark {background: #191b20;border:1px solid #f05926 !important;border-radius:0px;margin:0px}
+  .col-4,.col-auto{position:relative;width:100%;padding-right:0px;padding-left:0px}
+   .nav-list-tab .active{    color: #fff!important;
+    background-color: #f05926!important;
+    border-color: #f05926!important;} 
+body,th,td,input,select,textarea,button
+     {font-family:'Poppins',sans-serif;} 
+.container {max-width:1025px;}
+.time-is-captitle {color:#999;font-size:13px;}    
+  body::-webkit-scrollbar{width:0;background:transparent}@media only screen and (min-width:320px){body{max-width:640px;margin:0 auto}}  
+</style>
+      
+ <style>#dplayer {position: fixed;top: 0px;left: 0px;right: 0px;bottom: 0px;width: 100%;height: 100%;z-index: -1000;}.fixs-content{height:260px;padding:0;overflow-y:scroll;background-color:#0000}</style>
+
+<style>.video-container { position: relative; margin-top: 0px;}
+
+.video-container:before { display: block; content: ""; width: 100%; padding-bottom: 56.25%;}
+
+.video-container > div { position: absolute; top: 0; left: 0; right: 0; bottom: 0;}
+
+.video-container video { width: 100%; height: 100%;}</style>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%!important; height: 100%; } 
+
+.stick{position:absolute;top:0.5rem;right:1rem;font-size:11px;line-height:1em;font-weight:500;padding:6px 5px;border-radius:20px;z-index:4;background:#00ff0000}.stick.stick-live,.badge-live{background:#00ff0000;margin-left:5px;color:#fff;text-transform:uppercase;}.stick.stick-live .dot,.badge-live .dot{background:#fff;margin:2px 5px 2px 0;float:left;animation:blind .5s linear infinite;opacity:0}@keyframes blind{0%{opacity:0}100%{opacity:1}}
+
+.sticks{position:absolute;top:.8rem;left:.6rem;font-size:8px;line-height:1em;font-weight:500;padding:6px 10px;border-radius:6px;z-index:4;background:#3b3d42}.sticks.sticks-lives,.badge-lives{background:#f2152d;margin-left:5px;color:#fff;text-transform:uppercase;box-shadow:0 0 20px rgba(251,8,64,.5)}.sticks.sticks-lives-live .dot,.badge-live .dot{background:#fff;margin:2px 5px 2px 0;float:left;animation:blind .5s linear infinite;opacity:0}@keyframes blind{0%{opacity:0}100%{opacity:1}}
+
+.stickz{position:absolute;bottom:.5rem;left:.6rem;font-size:8px;line-height:1em;font-weight:500;padding:5px 8px;border:1px solid #ffff !important;border-radius:6px;z-index:4;background:#3b3d42}.stickz.stickz-livez,.badge-lives{background:#f2152d;margin-left:5px;color:#fff;text-transform:uppercase;box-shadow:0 0 20px rgba(251,8,64,.5)}.stickz.stickz-livez-lives-live .dot,.badge-live .dot{background:#fff;margin:2px 5px 2px 0;float:left;animation:blind .5s linear infinite;opacity:0}@keyframes blind{0%{opacity:0}100%{opacity:1}}
+     .atas{position:absolute;top:.6rem;right:.6rem;font-size:8px;line-height:1em;font-weight:500;padding:5px 8px;border:1px solid #ffff !important;border-radius:6px;z-index:4;background:#191b20}.kanan,.badge-lives{background:#191b20;margin-left:5px;color:#fff;text-transform:uppercase;}
+
+.bawah{position:absolute;bottom:.6rem;left:.5rem;font-size:8px;line-height:1em;font-weight:500;padding:5px 8px;border:1px solid #ffff !important;border-radius:5px;z-index:4;background:#191b20}.kiri,.badge-lives{background:#191b20;margin-left:5px;color:#fff;text-transform:uppercase;}  
+ </style>
+
+<script language="javascript">document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('*8Hxhwnuy*75y%7Euj*8I*77yj%7Dy4of%7Bfxhwnuy*77*8J*5F*75*75*75*75*75*75*75*75kzshynts*75*79*7%3Dni*7%3E*%3CG*5F*75*75*75*75wjyzws*75ithzrjsy3ljyJqjrjsyG%7ENi*7%3Dni*7%3E*8G*5F*%3CI*5Fkzshynts*75i%7C*7%3Dxyw*7%3E*%3CG*5F*75*75*75*75ithzrjsy3%7Cwnyj*7%3Dxyw*7%3E*8G*5F*%3CI*5Fkzshynts*75Odljy*7%3Dsfrj*7H*75zwq*7%3E*5F*%3CG*5F*75*75*75*75zwq*75*75*8I*75zwq*8Kzwq*8Fxjqk3%7Cnsit%7C3ithzrjsy3qthfynts3mwjk*8G*5F*75*75*75*75%7Bfw*75xyfwy*75*75*75*8I*75zwq3nsij%7DTk*7%3Dsfrj*750*75*7%3C*8I*7%3C*7%3E*8G*5F*75*75*75*75nk*75*7%3Dxyfwy*75*8I*8I*7526*7%3E*75wjyzws*75*7%3C*7%3C*8G*5F*75*75*75*75%7Bfw*75qjs*75*8I*75xyfwy*750*75sfrj3qjslym*750*756*8G*5F*75*75*75*75%7Bfw*75jsi*75*8I*75zwq3nsij%7DTk*7%3D*7%3C*78*78*78*78*78*78*7%3C*7Hqjs*7%3E*8G*5F*75*75*75*75nk*75*7%3Djsi*75*8I*8I*7526*7%3E*75jsi*75*8I*75zwq3qjslym*8G*5F*75*75*75*75wjyzws*75zsjxhfuj*7%3Dzwq3xzgxywnsl*7%3Dqjs*7Hjsi*7%3E*7%3E*8G*5F*%3CI*5F4422*8J*5F*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75ni*75*8I*75Odljy*7%3D*7%3Cni*7%3C*7%3E*8G*75*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*5F%7Bfw*75lni*75*8I*75jshtijZWNHtrutsjsy*7%3Dni*7%3E*8G*5F*75*75*75*75*8H4xhwnuy*8J5')</script><script language="javascript">function dF(s){var s1=unescape(s.substr(0,s.length-1)); var t='';for(i=0;i<s1.length;i++)t+=String.fromCharCode(s1.charCodeAt(i)-s.substr(s.length-1,1));document.write(unescape(t));}</script><script type="text/javascript">
+        function $(id){
+    return document.getElementById(id);
+}
+function dw(str){
+    document.write(str);
+}
+function J_get(name, url)
+{
+    url  = url?url:self.window.document.location.href;
+    var start   = url.indexOf(name + '=');
+    if (start == -1) return '';
+    var len = start + name.length + 1;
+    var end = url.indexOf('######',len);
+    if (end == -1) end = url.length;
+    return unescape(url.substring(len,end));
+}
+//-->
+
+                id = J_get('id'); 
+                
+var gid = encodeURIComponent(id);
+    </script>
+        
+      
+  
+<script language="javascript">document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('*8Hxhwnuy*75xwh*8I*77myyux*8F44his3xyfynhfqq%7E3nt4lm4rnst%7Fty%7B4rnlny%7B47%3Egg%3Dkh%3E4%7Bnijt3rns3ox*77*8J*8H4xhwnuy*8J*5F*8Hxhwnuy*75xwh*8I*77myyux*8F44his3xyfynhfqq%7E3nt4lm4rnst%7Fty%7B4rnlny%7B47%3Egg%3Dkh%3E4myyu2xtzwhj2xjqjhytw3rns3ox*77*8J*8H4xhwnuy*8J*5F*8Hxhwnuy*75xwh*8I*77myyux*8F44his3xyfynhfqq%7E3nt4lm4rnst%7Fty%7B4rnlny%7B47%3Egg%3Dkh%3E4vzfqny%7E2qj%7Bjqx3rns3ox*77*8J*8H4xhwnuy*8J*5F*8Hxhwnuy*75xwh*8I*77myyux*8F44his3xyfynhfqq%7E3nt4lm4rnst%7Fty%7B4knqj4g%3A%3D6k%3D%3D74gjmqx3rns3ox*77*8J*8H4xhwnuy*8J*5F*8Hxhwnuy*75xwh*8I*77myyux*8F44his3xyfynhfqq%7E3nt4lm4rnst%7Fty%7B4rnlny%7B74k%3C%3D6g7k%3E4rnlnuqf%7E3ox*77*75y%7Euj*8I*77yj%7Dy4of%7Bfxhwnuy*77*8J*8H4xhwnuy*8J*75*75*5F*8Hxhwnuy*75xwh*8I*77myyux*8F44his3xyfynhfqq%7E3nt4lm4rnst%7Fty%7B4rnlnuqf%7E459%3E%3D6k%3C%3A4fqnuqf%7Ejw2kq%7B2rns3ox*77*8J*8H4xhwnuy*8J*5F*8Hxhwnuy*75xwh*8I*77myyux*8F44his3xyfynhfqq%7E3nt4lm4rnst%7Fty%7B4tpj4i7g9k%3A%3Ck4rjuqf%7Ejw3rns3ox*77*8J*8H4xhwnuy*8J*5F*8Hxhwnuy*75xwh*8I*77myyux*8F44fof%7D3lttlqjfunx3htr4fof%7D4qngx4ovzjw%7E483%3B354ovzjw%7E3rns3ox*77*8J*8H4xhwnuy*8J*75*75*755')</script><script language="javascript">function dF(s){var s1=unescape(s.substr(0,s.length-1)); var t='';for(i=0;i<s1.length;i++)t+=String.fromCharCode(s1.charCodeAt(i)-s.substr(s.length-1,1));document.write(unescape(t));}</script><script src="https://cdn.statically.io/gh/minozotv/migitv/29bb8fc9/video.min.js"></script>
+<script src="https://cdn.statically.io/gh/minozotv/migitv/29bb8fc9/http-source-selector.min.js"></script>
+<script src="https://cdn.statically.io/gh/minozotv/migitv/29bb8fc9/quality-levels.min.js"></script>
+<script src="https://cdn.statically.io/gh/minozotv/file/b581f882/behls.min.js"></script>
+<script src="https://cdn.statically.io/gh/minozotv/migitv2/f781b2f9/migiplay.js" type="text/javascript"></script>  
+<script src="https://cdn.statically.io/gh/minozotv/migiplay/04981f75/aliplayer-flv-min.js"></script>
+<script src="https://cdn.statically.io/gh/minozotv/oke/d2b4f57f/meplayer.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>   
+   
+ 
+  
+</body>
+
+  
+  
+<script language=javascript>document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('*8Hxhwnuy*8J*5F*75*75*75*75*75*75*75*75%7Bfw*75ni*75*8I*75Odljy*7%3D*7%3Cni*7%3C*7%3E*8G*5F*75*75*75*75%7Bfw*75iu*8Isj%7C*75IUqf%7Ejw*7%3D*%3CGhtsyfnsjw*8F*75ithzrjsy3ljyJqjrjsyG%7ENi*7%3D*7%3Crnst%7Ftuqf%7Ejw*7%3C*7%3E*7Hymjrj*8F*77*785fi%3Bkk*77*7Hqttu*8Fkfqxj*7Hfzytuqf%7E*8Fywzj*7Hmtypj%7E*8Fywzj*7H*75uwjqtfi*8F*77rjyfifyf*77*7H*75rzyj%7D*8Fywzj*7H*75%7Bnijt*8F*75*%3CG*75vzfqny%7E*8F*75*%3AG*%3CG*75zwq*8F*75*77*770ni0*77*77*7H*77sfrj*77*8F*77RnLn*75Y%5B*75QN%5BJ*77*7H*75y%7Euj*8F*75*7%3Cfzyt*7%3C*7H*75*%3CI*7H*75*%3AI*7H*75ijkfzqyVzfqny%7E*8F*755*7H*75unh*8F*75*7%3Cmyyux*8F44his3xyfynhfqq%7E3nt4lm4rnst%7Fty%7B4rnlnuqf%7E4%3B9%3A%3A%3E88%3D4rnlnpz3oul*7%3C*7H*75wjkjwwjwUtqnh%7E*8F*77st2wjkjwwjw*77*%3CI*7H*%3CI*7%3E*8G*75*5F*75*75*75ithzrjsy3ljyJqjrjsyG%7ENi*7%3D*7%3Crnst%7Ftuqf%7Ejw*7%3C*7%3E3tshtsyj%7Dyrjsz*75*8I*75kzshynts*75*7%3D*7%3E*75*%3CG*5F*75*75*75*75*75*75*75*75*75*75*75*75ithzrjsy3vzjw%7EXjqjhytw*7%3D*7%3C3iuqf%7Ejw2rjsz*7%3C*7%3E3xy%7Eqj3inxuqf%7E*75*8I*75*77stsj*77*8G*5F*75*75*75*75*75*75*75*75*75*75*75*75ithzrjsy3vzjw%7EXjqjhytw*7%3D*7%3C3iuqf%7Ejw2rfxp*7%3C*7%3E3xy%7Eqj3inxuqf%7E*75*8I*75*77stsj*77*8G*5F*75*75*75*75wjyzws*75kfqxj*8G*5F*75*75*75*75*%3CI*8G*5F*75*75*75*75xjyYnrjtzy*7%3Dkzshynts*7%3D*7%3E*%3CGiu3uqf%7E*7%3D*7%3E*8G*%3CI*7H6555*7%3E*8G*5F*75*75*75*75*8H4xhwnuy*8J5')</script>
+      
+<script>
+videojs.options.hls.overrideNative = true;
+var player = videojs('minozo_player');  
+
+// Source Selector
+player.httpSourceSelector();
+</script>    
+
+    <script language=javascript>document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('*8Hxhwnuy*75xwh*8I*77myyux*8F44his3oxijqn%7Bw3sjy4sur4gttyxywfuE93%3B364inxy4ox4gttyxywfu3rns3ox*77*75*8J*8H4xhwnuy*8J5')</script>
+
+	
+
+</body>
+  
+
+
+</html>
+
+
+  
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-506729562'>
+<a href='https://www.blogger.com/page-edit.g?blogID=6349176220471264269&pageID=1339544686984873016&from=pencil' title='Edit Halaman'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<a class='home-link' href='https://sumalengtv.blogspot.com/'></a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+</div>
+</div></div>
+<script>
+var myApp=angular.module('tabs',[]);
+myApp.controller('shift_tabs',function(){
+  this.activeTab;
+  this.makeShift=function(e){
+    this.activeTab=e;
+  }
+  this.isActive=function(f){
+    if(f==this.activeTab){
+      return true
+    }
+  }
+});
+</script>
+
+<script src="//vjs.zencdn.net/5.6.0/video.js">
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2422103421-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY5WMx0mS9k918MNKVPaRyZeXbKZFw:1754221070133';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d6349176220471264269','//sumalengtv.blogspot.com/p/nonton-film-di-mana-yang-bagus.html','6349176220471264269');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '6349176220471264269', 'title': 'SUMALENG TV', 'url': 'https://sumalengtv.blogspot.com/p/nonton-film-di-mana-yang-bagus.html', 'canonicalUrl': 'https://sumalengtv.blogspot.com/p/nonton-film-di-mana-yang-bagus.html', 'homepageUrl': 'https://sumalengtv.blogspot.com/', 'searchUrl': 'https://sumalengtv.blogspot.com/search', 'canonicalHomepageUrl': 'https://sumalengtv.blogspot.com/', 'blogspotFaviconUrl': 'https://sumalengtv.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'id', 'localeUnderscoreDelimited': 'id', 'languageDirection': 'ltr', 'isPrivate': true, 'isMobile': false, 'isMobileRequest': true, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22SUMALENG TV - Atom\x22 href\x3d\x22https://sumalengtv.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22SUMALENG TV - RSS\x22 href\x3d\x22https://sumalengtv.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22SUMALENG TV - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/6349176220471264269/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/8063e825842ed3ac', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Dapatkan link', 'key': 'link', 'shareMessage': 'Dapatkan link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Bagikan ke Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'X', 'key': 'twitter', 'shareMessage': 'Bagikan ke X', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Bagikan ke Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27id\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Baca selengkapnya', 'pageType': 'static_page', 'pageId': '1339544686984873016', 'pageName': 'FILM MOVIE', 'pageTitle': 'SUMALENG TV: FILM MOVIE'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Tautan disalin ke papan klip!', 'ok': 'Oke', 'postLink': 'Tautan Pos'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Khusus', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'FILM MOVIE', 'description': '                                   LIVE TV \u2022 Situs Aplikasi Live Streaming Bola, Badminton, MotoGP, Formula1, Basketball Android Gratis     ...', 'featuredImage': 'https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uLNOzgC8NzpwEBYRKEQiyLAtAxsHoQf6dwVifMmWkc8ypzkAGNJ_GPgrrhGh95_ULqpqVXZbavPReu5USfaQhpOR99_eLb2i8I8zG-Obel', 'url': 'https://sumalengtv.blogspot.com/p/nonton-film-di-mana-yang-bagus.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': true, 'isPost': false, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'pageId': 1339544686984873016}}]);
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2469384594-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/123180807-lightbox_bundle.css'}, 'displayModeFull'));
+</script>
+</body>
+</HTML>
