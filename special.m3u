@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 
 #EXTINF:-1 group-title="1_LIVE EVENT" tvg-logo="http://podrinje.at.ua/Sport/logo-livestream.png", TEST 1
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1754503247-0-0-ff7cf0b2f0078cb535f8fda46a862d0e
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1754562648-0-0-ab06524d752a0c6c97435ad5aaada339
 
 #EXTINF:-1 group-title="1_LIVE EVENT" tvg-logo="http://podrinje.at.ua/Sport/logo-livestream.png", TEST 2
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8|Referer:https://sultanovic.info/
