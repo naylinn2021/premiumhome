@@ -478,6 +478,43 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
     window.onload = checkApp;
 </script>
 
+<div class="col-4 col-sm-4 col-md-4">
+<a href="javascript:mrtvhd();">
+<div class="card position-relative team-member-card shadow-sm"><img alt="" class="card-img-top" src="https://www.lyngsat.com/logo/tv/mm/mrtv-mm.png" />
+<div class="contact-info bg-dark">
+<p class="mb-0 text-truncate"><font color="red" size="2"><marquee scrolldelay='300'>MRTV HD</marquee></font></p></div></div></a></div>
+<script>
+    function mrtvhd() {
+        const appUrl = "intent://player.twitch.tv/?channel=livestreamingmrtv&parent=mrtv.gov.mm#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=LIVETV;end";
+
+        const openButton = document.getElementById('openButton');
+
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        let timeout;
+
+        const handleVisibilityChange = () => {
+            if (document.hidden) {
+                clearTimeout(timeout);
+                openButton.classList.remove('disabled');
+                openButton.addEventListener('click', () => window.location = appUrl);
+            }
+        };
+
+        document.addEventListener('visibilitychange', handleVisibilityChange);
+
+        timeout = setTimeout(() => {
+            document.removeEventListener('visibilitychange', handleVisibilityChange);
+            document.body.removeChild(iframe);
+        }, 500);
+
+        iframe.src = appUrl;
+    }
+
+    window.onload = checkApp;
+</script>
 
 	
 <div class="blog-wrapper py-2">
