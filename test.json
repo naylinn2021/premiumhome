@@ -1,14 +1,6 @@
 {
   "thaitv": [
-    {
-      "id": "Workpoint_TV",
-      "logo": "https://i.imgur.com/sq0Pv8B.jpeg",
-      "kategori": "popular",
-      "name": "workpoint_tv",
-      "protokol": "https",
-      "url": "www.livedoomovies.com:4432/02_WORKPOINT_720p/chunklist.m3u8|referer=https://www.madoohd.com/origin=https://www.madoohd.com/&User-Agent=Mozilla/5.0/playlist.m3u8",
-      "ref": "https://www.madoohd.com/"
-    },
+    
     {
       "id": "PPTV",
       "logo": "https://i.imgur.com/na9fs2X.jpeg",
