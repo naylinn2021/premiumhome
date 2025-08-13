@@ -1,26 +1,49 @@
 {
   "event": [
-    
     {
-      "poster": " https://drive.google.com/uc?export=download&id=1V1VTLbmwp8QNO_39BH8ScM9xD7jBmcMN",
-      "url": "live1 ",
-      "tanggal": "Ipswich-ManchesterUnited",
-      "jam": "24 NOV 2024 - 11:00pm"
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/67r1br1750320106.jpg/small",
+      "url": "USANetworke",
+      "tanggal": "Liverpool vs Bournemouth",
+      "jam": "15 AUG 2025 - 01:30"
       
     },
     {
-      "poster": "https://drive.google.com/uc?export=download&id=1V1VTLbmwp8QNO_39BH8ScM9xD7jBmcMN",
-      "url": "USANetwork ",
-      "tanggal": "Ipswich-ManchesterUnited",
-      "jam": "24 NOV 2024 - 11:00pm"
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/obp08d1750320109.jpg/small",
+      "url": "tnt1",
+      "tanggal": "Aston Villa vs Newcastle",
+      "jam": "16 AUG 2025 - 06:00"
       
     },
     {
-      "poster": "https://drive.google.com/uc?export=download&id=1V1VTLbmwp8QNO_39BH8ScM9xD7jBmcMN",
-      "url": "live2 ",
-      "tanggal": "Ipswich-ManchesterUnited",
-      "jam": "24 NOV 2024 - 11:00pm"
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/bmj2zt1750320112.jpg/small",
+      "url": "USANetworke",
+      "tanggal": "Brighton vs Fulham",
+      "jam": "16 AUG 2025 - 08:30"
+      
+    },
+    {
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/za86cn1750320117.jpg/small",
+      "url": "",
+      "tanggal": "Sunderland vs West Ham",
+      "jam": "16 AUG 2025 - 08:30"
+      
+    },
+    {
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/7rziwz1750320119.jpg/small",
+      "url": "",
+      "tanggal": "Tottenham vs Burnley",
+      "jam": "16 AUG 2025 - 08:30"
+      
+    },
+    {
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/w9mxwc1750320122.jpg/small",
+      "url": "UNIVERSO_EAST",
+      "tanggal": "Wolves vs Man City",
+      "jam": "16 AUG 2025 - 11:00"
       
     }
+    
+    
+    
   ]
 }
