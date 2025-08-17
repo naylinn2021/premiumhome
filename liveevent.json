@@ -1,51 +1,34 @@
 {
   "event": [
  
-   {
-      "poster": "https://i.imgur.com/CsXH1lP.jpeg",
+    {
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/8ra9pg1750320124.jpg/small",
       "url": "live1",
-      "tanggal": "MYANMAR_THAI",
-      "jam": "16 AUG 2025 - 01:30"
+      "tanggal": "Chelsea vs Crystal Palace",
+      "jam": "17 AUG 2025 - 07:30"
       
     },
-    
-
     {
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/obp08d1750320109.jpg/small",
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/5xm6d01750320127.jpg/small",
       "url": "live2",
-      "tanggal": "Aston Villa vs Newcastle",
-      "jam": "16 AUG 2025 - 06:00"
+      "tanggal": "Man United vs Arsenal",
+      "jam": "17 AUG 2025 - 10:00"
       
     },
     {
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/bmj2zt1750320112.jpg/small",
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/5xm6d01750320127.jpg/small",
       "url": "live3",
-      "tanggal": "Brighton vs Fulham",
-      "jam": "16 AUG 2025 - 08:30"
+      "tanggal": "Man United vs Arsenal",
+      "jam": "17 AUG 2025 - 10:00"
       
     },
     {
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/za86cn1750320117.jpg/small",
+      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/5xm6d01750320127.jpg/small",
       "url": "live4",
-      "tanggal": "Sunderland_West Ham",
-      "jam": "16 AUG 2025 - 08:30"
-      
-    },
-    {
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/7rziwz1750320119.jpg/small",
-      "url": "live5",
-      "tanggal": "Tottenham vs Burnley",
-      "jam": "16 AUG 2025 - 08:30"
-      
-    },
-    {
-      "poster": "https://r2.thesportsdb.com/images/media/event/thumb/w9mxwc1750320122.jpg/small",
-      "url": "live6",
-      "tanggal": "Wolves vs Man City",
-      "jam": "16 AUG 2025 - 11:00"
+      "tanggal": "Man United vs Arsenal",
+      "jam": "17 AUG 2025 - 10:00"
       
     }
-    
     
     
   ]
