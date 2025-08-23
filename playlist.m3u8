@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=5433250,RESOLUTION=1920x1080,CODECS="avc1.4d0028,mp4a.40.2"
-kantipurmaxgeo/match1_1080/chunks.m3u8?nimblesessionid=1165322
+https://kantipurmaxgeo/match1_1080/chunks.m3u8?nimblesessionid=1165322
 #EXT-X-STREAM-INF:BANDWIDTH=2905787,RESOLUTION=1280x720,CODECS="avc1.4d0020,mp4a.40.2"
-kantipurmaxgeo/match1_720/chunks.m3u8?nimblesessionid=1165322
+https://kantipurmaxgeo/match1_720/chunks.m3u8?nimblesessionid=1165322
 #EXT-X-STREAM-INF:BANDWIDTH=1876047,RESOLUTION=720x576,CODECS="avc1.4d001f,mp4a.40.2"
-kantipurmaxgeo/match1_480/chunks.m3u8?nimblesessionid=1165322
+https://kantipurmaxgeo/match1_480/chunks.m3u8?nimblesessionid=1165322
 #EXT-X-STREAM-INF:BANDWIDTH=1355736,RESOLUTION=448x336,CODECS="avc1.77.30,mp4a.40.2"
-kantipurmaxgeo/match1_360/chunks.m3u8?nimblesessionid=1165322
+https://kantipurmaxgeo/match1_360/chunks.m3u8?nimblesessionid=1165322
 #EXT-X-STREAM-INF:BANDWIDTH=842992,RESOLUTION=352x288,CODECS="avc1.4d0015,mp4a.40.2"
-kantipurmaxgeo/match1_240/chunks.m3u8?nimblesessionid=1165322
+https://kantipurmaxgeo/match1_240/chunks.m3u8?nimblesessionid=1165322
