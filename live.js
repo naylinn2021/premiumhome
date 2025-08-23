@@ -15,7 +15,7 @@ function live5() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://pull.yyzb456.top/live/stream-746673_lhd.flv?auth_key=1755969316-0-0-79f23cebb9134313cbf1d458b996c3ad|referer=https://m.yyzbtv8.com/origin=https://m.yyzbtv8.com/User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live6() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8/User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live7() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niur.live/live/stream-9911977_lsd.m3u8?txSecret=9a8ae12172e69bd35a3913765b4db311&txTime=6702e912|referer=https://m.socolivefc.live/origin=https://m.socolivefc.live/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
