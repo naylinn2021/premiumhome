@@ -9,7 +9,7 @@ function live3() {
 };
 
 function live4() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.yyzb456.top/live/stream-492306_lhd.flv?auth_key=1756052176-0-0-dfe1fd81cac63e3851425b8755b97355|referer=https://m.yyzbtv8.com/origin=https://m.yyzbtv8.com/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1756565390-0-0-7ce5decef1ef447c01095c1a502c6ba1|referer=https://m.yyzbtv8.com/origin=https://m.yyzbtv8.com/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live5() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://45.148.145.57/SS1_IND/index.m3u8|User-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8& Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
