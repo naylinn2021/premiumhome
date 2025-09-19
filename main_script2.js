@@ -69,7 +69,7 @@ loginBtn?.addEventListener("click", ()=>{
   }
   if(u.value.trim()===creds.username && p.value===creds.password){
     loginMsg.textContent = "✅ Login success. Redirecting…";
-    setTimeout(()=>{ location.href = "go:black"; }, 1200);
+    setTimeout(()=>{ location.href = "home.html"; }, 1200);
   } else {
     loginMsg.textContent = "❌ Username/Password မမှန်ပါ။";
   }
