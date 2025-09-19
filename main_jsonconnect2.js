@@ -7,7 +7,7 @@ const CONFIG = {
     "LID-B9KJ0OKZ": { username: "naylinn", password: "22222" },
     "LID-9DKNNZL9": { username: "aung", password: "1221"},
      "LID-MBH7YFPY": { username: "ZMT", password: "1234" },
-     "LID-MBH7YFPY": { username: "ZMT", password: "1234" }
+     "LID-MBH7YFPY": { username: "ZMT2", password: "1235" }
   },
   iptvUrl: "https://goldtv.adia/home"
 };
