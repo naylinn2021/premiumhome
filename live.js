@@ -5,7 +5,7 @@ function live2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1758389175-0-0-fc3061008bd73778b1062ea28857ca35|referer=https://m.socolivexo.co/origin=https://m.socolivexo.co/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live3() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1756565930-0-0-fe1d949e27561a3cb8d4453fdd978ab8|referer=https://m.socolivexo.co/origin=https://m.socolivexo.co/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://vsd200.okcdn.ru/cmaf/9116329118418/sig/E_34xHiL4EE/expires/1758471959326/srcIp/36.232.32.191/urls/45.136.20.84/clientType/36/srcAg/CHROME_ANDROID/mid/10584499701714/get/dash_10584499701714.0EQE_RsxXcM.mpd#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
 function live4() {
