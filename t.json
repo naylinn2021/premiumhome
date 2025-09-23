@@ -1,0 +1,175 @@
+{
+  "thailand": [
+      {
+      "id": "vspl",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/d/db/V_Sport_Premier_League.svg",
+      "kategori": "popular",
+      "name": "vspl",
+      "protokol": "https",
+      "url": "raw.githubusercontent.com/mmsubandmovies/mytv_mm/d8a1fe8972d311965e500f8f43cf1a0b5480df88/VsportPL.m3u8",
+      "useragent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+      "ref": ""
+      },
+      {
+      "id": "vspl2",
+      "logo": "https://www.lyngsat.com/logo/tv/vv/v-sport-premier-league-2.svg",
+      "kategori": "popular",
+      "name": "vspl2",
+      "protokol": "https",
+      "url": "raw.githubusercontent.com/mmsubandmovies/mytv_mm/7891f2178db7b43698acd61865a25249870d9172/Vsport%20Premier%20league%202.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": ""
+      },
+      {
+      "id": "Monomax1",
+      "logo": "https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",
+      "kategori": "popular",
+      "name": "Monomax1",
+      "protokol": "https",
+      "url": "raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": ""
+      },
+      {
+      "id": "Monomax2",
+      "logo": "https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",
+      "kategori": "popular",
+      "name": "Monomax2",
+      "protokol": "https",
+      "url": "raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax11.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": ""
+      },
+      {
+      "id": "tps5",
+      "logo": "https://truevisions.co.th/static/133a8160-6e09-4c7f-80e4-39a45f296d00.png",
+      "kategori": "popular",
+      "name": "tps5",
+      "protokol": "https",
+      "url": "www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": "https://www.youdooball.com/"
+      },
+      {
+      "id": "tbein1",
+      "logo": "https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png",
+      "kategori": "popular",
+      "name": "tbein1",
+      "protokol": "https",
+      "url": "www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": "https://www.youdooball.com/"
+      },
+      {
+      "id": "tbein2",
+      "logo": "https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png",
+      "kategori": "popular",
+      "name": "tbein2",
+      "protokol": "https",
+      "url": "www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": "https://www.youdooball.com/"
+      },
+      {
+      "id": "tbein3",
+      "logo": "https://truevisions.co.th/static/b5c591af-060c-48ea-91ec-e1a230818c27.png",
+      "kategori": "popular",
+      "name": "tbein3",
+      "protokol": "https",
+      "url": "www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": "https://www.youdooball.com/"
+      },
+      {
+      "id": "truesport1",
+      "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+      "kategori": "aaa",
+      "name": "truesport1",
+      "protokol": "https",
+      "url": "www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": "https://www.youdooball.com/"
+    },
+    {
+      "id": "truesport2",
+      "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+      "kategori": "popular",
+      "name": "truesport2",
+      "protokol": "https",
+      "url": "www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": "https://www.youdooball.com/"
+    },
+    {
+      "id": "truesport3",
+      "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
+      "kategori": "popular",
+      "name": "truesport3",
+      "protokol": "https",
+      "url": "www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": "https://www.youdooball.com/"
+    },
+    {
+      "id": "truesport4",
+      "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
+      "kategori": "popular",
+      "name": "truesport4",
+      "protokol": "https",
+      "url": "www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": "https://www.youdooball.com/"
+    },
+    {
+      "id": "truesport5",
+      "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+      "kategori": "popular",
+      "name": "truesport5",
+      "protokol": "https",
+      "url": "www.livedoomovies.com:4432/02_2sporthd5_720p/chunklist.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": "https://www.youdooball.com/"
+    },
+    {
+      "id": "truesport7",
+      "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+      "kategori": "popular",
+      "name": "truesport7",
+      "protokol": "https",
+      "url": "www.livedoomovies.com:4432/02_2sporthd7_720p/chunklist.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": "https://www.youdooball.com/"
+    },
+    {
+      "id": "pptv",
+      "logo": "https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.webp",
+      "kategori": "popular",
+      "name": "pptv",
+      "protokol": "https",
+      "url": "lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8",
+      "useragent": "Mozilla/5.0",
+      "ref": ""
+    },
+    {
+      "id": "truespotv1",
+      "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+      "kategori": "aaa",
+      "name": "truespotv1",
+      "protokol": "https",
+      "url": "cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd|drmScheme=clearkey&drmLicense=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31",
+      "useragent": "",
+      "ref": ""
+    },
+    {
+      "id": "CANALSPORTS1",
+      "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+      "kategori": "aas",
+      "name": "CANALSPORTS1",
+      "protokol": "https",
+      "url": "ott2.canalplus-myanmar.com/bpk-tv/CANAL_SPORTS/output2/index.mpd|drmScheme=clearkey&drmLicense=b0955e6505d341159f22cdfce6bd0511:33f3772c6d7c5737e4925b42171300ac",
+      "useragent": "",
+      "ref": ""
+    }
+    
+  ]
+}
