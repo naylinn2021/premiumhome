@@ -1,14 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=5351100,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.4d0028,mp4a.40.2"
-kantipurmaxgeo/match1_1080/chunks.m3u8?nimblesessionid=1262180
-#EXT-X-STREAM-INF:BANDWIDTH=2824441,FRAME-RATE=50,RESOLUTION=1280x720,CODECS="avc1.4d0020,mp4a.40.2"
-kantipurmaxgeo/match1_720/chunks.m3u8?nimblesessionid=1262180
-#EXT-X-STREAM-INF:BANDWIDTH=1849656,FRAME-RATE=50,RESOLUTION=720x576,CODECS="avc1.4d001f,mp4a.40.2"
-kantipurmaxgeo/match1_480/chunks.m3u8?nimblesessionid=1262180
-#EXT-X-STREAM-INF:BANDWIDTH=1266018,FRAME-RATE=50,RESOLUTION=448x336,CODECS="avc1.77.30,mp4a.40.2"
-kantipurmaxgeo/match1_360/chunks.m3u8?nimblesessionid=1262180
-#EXT-X-STREAM-INF:BANDWIDTH=815444,FRAME-RATE=50,RESOLUTION=352x288,CODECS="avc1.4d0015,mp4a.40.2"
-kantipurmaxgeo/match1_240/chunks.m3u8?nimblesessionid=1262180
-
-
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6000000
+https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
