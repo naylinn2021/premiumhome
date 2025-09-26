@@ -82,7 +82,7 @@ function moviech2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27|user-agent=ExoPlayerLib/2.15.1#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function mwd() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://intent://203.81.84.130/hls/mwd_movie/index.m3u8#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://203.81.84.130/hls/mwd_movie/index.m3u8#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function mrtvnews() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://l1-xl1.myanmarnet.com/relay/mrtvnews/ch1/stream_hi/index.m3u8#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
