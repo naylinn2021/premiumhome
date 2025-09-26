@@ -3,6 +3,6 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000 https://tv.mahar.live/mahar/website.stream/chunks.m3u8|referer=https://wwww.atomstore.com
 #EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=5000000    https://tv.mahar.live/mahar/website.stream/chunks.m3u8|referer=https://wwww.atomstore.com
 #EXT-X-STREAM-INF:PROGRAM-ID=3,BANDWIDTH=6000000
-https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+       https://tv.mahar.live/mahar/website.stream/chunks.m3u8|referer=https://wwww.atomstore.com
 
 
