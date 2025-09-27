@@ -9,16 +9,16 @@ function live3() {
 };
 
 function live4() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1756565390-0-0-7ce5decef1ef447c01095c1a502c6ba1|referer=https://m.yyzbtv8.com/origin=https://m.yyzbtv8.com/#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://goldtv.asia/live1.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live5() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1756574030-0-0-9b6492e71e7e55e8ca9044365559bc9f|User-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8& Vinebre#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://goldtv.asia/live2.m3u8#Intent;scheme=http;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live6() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live7() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://beatricehal.kellymickelsen.workers.dev/cfall/s2001/v3b/1s3s0687nUE0pQbiY3EmAmphZ3umqT0ho25y/super/ts77.3xstm.one_3x_614674-1756279091793.mkv|referer=https://maycjr1.thanfarmeraa3fhy.cfd/origin=https://maycjr1.thanfarmeraa3fhy.cfd/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://goldtv.asia/live3.m3u8##Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live8() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://live.95tv.live/channel/25/playlist.m3u8|referer=https://95tv.live/watch-channel/origin=https://95tv.live/watch-channel/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.wiseplay;S.browser_fallback_url=market://details?id=com.wiseplay.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
