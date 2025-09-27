@@ -1,12 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=5397598,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.4d0028,mp4a.40.2"
-https://kantipurmaxgeo/match1_1080/chunks.m3u8?nimblesessionid=1332590
-#EXT-X-STREAM-INF:BANDWIDTH=2881657,FRAME-RATE=50,RESOLUTION=1280x720,CODECS="avc1.4d0020,mp4a.40.2"
-https://kantipurmaxgeo/match1_720/chunks.m3u8?nimblesessionid=1332590
-#EXT-X-STREAM-INF:BANDWIDTH=1864100,FRAME-RATE=50,RESOLUTION=720x576,CODECS="avc1.4d001f,mp4a.40.2"
-https://kantipurmaxgeo/match1_480/chunks.m3u8?nimblesessionid=1332590
-#EXT-X-STREAM-INF:BANDWIDTH=1354377,FRAME-RATE=50,RESOLUTION=448x336,CODECS="avc1.77.30,mp4a.40.2"
-https://kantipurmaxgeo/match1_360/chunks.m3u8?nimblesessionid=1332590
-#EXT-X-STREAM-INF:BANDWIDTH=844919,FRAME-RATE=50,RESOLUTION=352x288,CODECS="avc1.4d0015,mp4a.40.2"
-https://kantipurmaxgeo/match1_240/chunks.m3u8?nimblesessionid=1332590
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6000000
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
