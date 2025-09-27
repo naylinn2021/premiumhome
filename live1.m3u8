@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1280x720,CODECS="avc1.42c01f,mp4a.40.2"
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=ac5bea642b91c3b2d3e11107dea405e7&txTime=68d816bc
+https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=42c42d778a62690cce75886ff324a292&txTime=68d81d88
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=720×480,CODECS="avc1.42c01f,mp4a.40.2"
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=0fa0344f7bfe2556665686e94724c214&txTime=68d816bc
+https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=8bb805e142091203177659bca3c1d6a3&txTime=68d81d88
 
