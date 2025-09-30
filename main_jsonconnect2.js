@@ -11,3 +11,4 @@ const CONFIG = {
   iptvUrl: "https://goldtv.adia/home"
 };
 
+
