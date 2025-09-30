@@ -4,7 +4,7 @@
 const CONFIG = {
   devices: {
     "LID-TDCJSW7R": { username: "admin", password: "11111" },
-    "LID-XQVDSPWS": { username: "naylinn", password: "22112" },
+    "_": { username: "naylinn", password: "22112" },
     "LID-XU0UIRYQ": { username: "admin1", password: "1221"},
      "LID-MBH7YFPY": { username: "ZMT", password: "1234" },
      "LID-MBH7YFPY": { username: "ZMT2", password: "1235" }
