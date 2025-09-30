@@ -1,5 +1,5 @@
 function live1() {
-  document.getElementById("objek").innerHTML = '<iframe src="intent://pull.niur.live/live/stream-9912103_lsd.m3u8?txSecret=7fbb864244f3c013e5dc070d441ac962&txTime=68c7077d|referer=https://m.socolivexo.co/origin=https://m.socolivexo.co/&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+  document.getElementById("objek").innerHTML = '<iframe src="intent://goldtv.asia/testplay2.m3u8|&user-agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function live2() {
   document.getElementById("objek").innerHTML = '<iframe src="intent://goldtv.asia/live1.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=NGTV;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
