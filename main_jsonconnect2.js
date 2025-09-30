@@ -12,8 +12,5 @@ const CONFIG = {
   iptvUrl: "https://goldtv.adia/home"
 };
 
-<script language="javascript">
-setTimeout(function(){
-   window.location.reload(1);
-}, 30000);
+
 </script>
