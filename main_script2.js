@@ -74,3 +74,9 @@ loginBtn?.addEventListener("click", ()=>{
     loginMsg.textContent = "❌ Username/Password မမှန်ပါ။";
   }
 });
+
+<script language="javascript">
+setTimeout(function(){
+   window.location.reload(1);
+}, 30000);
+</script>
