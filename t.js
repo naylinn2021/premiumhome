@@ -33,23 +33,23 @@ function tfilm2() {
 document.getElementById("objek").innerHTML = '<iframe src="intent://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film2.m3u8|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function tmoviehit() {
-document.getElementById("objek").innerHTML = '<iframe src="intent://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/moviehit.m3u8|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+document.getElementById("objek").innerHTML = '<iframe src="intent://live2.inwstream.com/transcoder_F1/truemoviehits_inwiptv.stream/chunks.m3u8|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function thaifilm() {
-document.getElementById("objek").innerHTML = '<iframe src="intent://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truethaifilm.m3u8|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+document.getElementById("objek").innerHTML = '<iframe src="intent://live2.inwstream.com/transcoder_F1/truethaifilm_inwiptv.stream/chunks.m3u8|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function filmasia() {
-document.getElementById("objek").innerHTML = '<iframe src="intent://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/filmasia.m3u8|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+document.getElementById("objek").innerHTML = '<iframe src="intent://live2.inwstream.com/transcoder_F1/truefilmasia_inwiptv.stream/chunks.m3u8|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function xzyte() {
-document.getElementById("objek").innerHTML = '<iframe src="intent://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/xzyte.m3u8|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+document.getElementById("objek").innerHTML = '<iframe src="intent://live2.inwstream.com/transcoder_F1/truexzyte_inwiptv.stream/chunks.m3u8|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
 function tseries() {
-document.getElementById("objek").innerHTML = '<iframe src="intent://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueseries.m3u8|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+document.getElementById("objek").innerHTML = '<iframe src="intent://live2.inwstream.com/transcoder_F1/trueseries_inwiptv.stream/chunks.m3u8|&User-Agent=Mozilla/5.0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 function asianmore() {
-document.getElementById("objek").innerHTML = '<iframe src="intent://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/asiamove.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
+document.getElementById("objek").innerHTML = '<iframe src="intent://live2.inwstream.com/transcoder_F1/trueasianmore_inwiptv.stream/chunks.m3u8#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=G⚽LD PREMIUM;end" height="0" width="0" style="border:none;" title="SS Sport"></iframe>'
 };
 
 function ccm() {
