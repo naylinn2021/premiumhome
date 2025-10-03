@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1080,CODECS="avc1.42c01f,mp4a.40.2"
-https://eng.gdplayertv.to/live-tv/hbo-usa/?embed=1
+http://edge2a.v2h-cdn.com/hd_7/hd7.stream/playlist.m3u8
