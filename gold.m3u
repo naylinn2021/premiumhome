@@ -1,0 +1,511 @@
+#EXTM3U
+
+
+#EXTINF:-1,BZLTV M3U
+https://v.redd.it/jj40zekg9hwf1/HLSPlaylist.m3u8?f=sd%2CsubsAll%2ChlsSpecOrder&v=1&a=1763650039%2CZDc1ZGYyOGZmOWRjOGJmNTA1ZDUxYTc4MTRiMTdmMzE0YjFjNjk5NDA5MTc4YTdiYmQ2MDE3MjU4NDlkNDY0ZQ%3D%3D
+
+
+#EXTINF:-1,TEST MOVIE 1
+https://v.redd.it/oekhyys72qhe1/HLS_360.m3u8
+
+#EXTINF:-1,TEST MOVIE 2
+https://v.redd.it/k4et92fz5yge1/HLS_480.m3u8
+
+#EXTINF:-1,HARTHA MY
+https://packaged-media.redd.it/v4jp3uf88hwf1/pb/m2-res_1280p.mp4?m=DASHPlaylist.mpd&v=1&e=1761073200&s=e33996ec1dcea2fa1a80eb1781f43438b327be3b
+
+
+#EXTINF:-1,HARTHA FOOTBALL 
+https://packaged-media.redd.it/13g2oeava2wf1/pb/m2-res_480p.mp4?m=exp-cmaf%2FDASHPlaylist.mpd&v=1&e=1760893200&s=f0bfd9025f8a6020711854d171fd3134dea06da3
+
+
+#EXTINF:-1,FAST FIVE MOVIE 
+https://main.24playerhd.com/newplaylist/b97c4e7865fd93d8e498f9d0/b97c4e7865fd93d8e498f9d0.m3u8
+
+#EXTINF:-1, ONE LIVE 1
+
+
+#EXTINF:-1, ONE LIVE 2
+http://45.148.145.57/AF_S2/index.m3u8
+
+
+#EXTINF:-1,myanmar 1
+https://live.95tv.live/channel/25/playlist.m3u8
+
+
+#EXTINF:-1,myanmar 2
+https://live.95tv.live/channel/23/playlist.m3u8
+
+
+#EXTINF:-1,myanmar 3
+https://live.95tv.live/channel/20/playlist.m3u8
+
+
+#EXTINF:-1,myanmar 4
+https://live.95tv.live/channel/21/playlist.m3u8
+
+
+#EXTINF:-1,myanmar 5
+https://live.95tv.live/channel/19/playlist.m3u8
+
+
+#EXTINF:-1,myanmar 5
+https://live.95tv.live/channel/10/playlist.m3u8
+
+
+#EXTINF:-1,myanmar 5
+https://live.95tv.live/channel/9/playlist.m3u8
+
+
+#EXTINF:-1,myanmar6
+https://live.95tv.live/channel/7/playlist.m3u8
+
+
+#EXTINF:-1,myanmar 7
+https://live.95tv.live/channel/5/playlist.m3u8
+
+
+#EXTINF:-1,myanmar 8
+https://live.95tv.live/channel/3/playlist.m3u8
+
+
+#EXTINF:-1,myanmar 9
+https://live.95tv.live/channel/1/playlist.m3u8
+
+
+#EXTINF:-1,TEST SPORTS 
+https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1761152062-0-0-7e9ba9f77305c6c74ac023388826db10
+
+
+#EXTINF:-1,XAVI SPORTS
+https://pull.niur.live/live/stream-525090_lhd.m3u8?txSecret=3436f7d8d031e3e0f2a02d3218d8c97c&txTime=68ff9da7
+
+#EXTINF:-1,HÓ LÚN SPORTS
+https://pull.niur.live/live/stream-308080_lhd.m3u8?txSecret=6025df06278f644bd4ca6513ea4786ba&txTime=68ff9e5b
+
+#EXTINF:-1,ALEX SPORTS
+https://pull.niur.live/live/stream-532081_lhd.m3u8?txSecret=84c2a928a91e0ebd8c14f936a5f78426&txTime=68ff9ed3
+
+
+#EXTINF:-1,NIBO SPORTS
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1761564863-0-0-70d4c1374e146a52a9de553550bb6e2f
+
+
+#EXTINF:-1,KAI SPORTS
+https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1761564923-0-0-786e4a6ab3792dd2f983e8ca495608eb
+
+
+#EXTINF:-1,CÓNG LY SPORTS
+https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1761565223-0-0-29f0a2e6ca84da1e3b088d1b2670c473
+
+
+
+#EXTINF:-1,THACH TÚ SPORTS
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=cc90e57a6a70b6924561a0c53760137e&txTime=68fe9097
+
+#EXTINF:-1,CÙ CÀÏ SPORTS
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1761495623-0-0-4fd15a2923ac360c4b875779c9d3045f
+
+
+
+#EXTINF:-1,AK47 SPORTS
+https://pull.niues.live/live/stream-9912092_lhd.m3u8?auth_key=1761492683-0-0-eb2d705a50bce800d1d036ab344419e7
+
+#EXTINF:-1,FIREMAN SPORTS
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1761492443-0-0-800007f23a0f96954d2aebd750994732
+
+#EXTINF:-1,SATIVA SPORTS
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1761492743-0-0-284df437a1f28a0a1c45dc7fbf7f2652
+
+#EXTINF:-1,BZL TAP SPORTS
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=69f6796cfb4b4570513e1fc4496fd716&txTime=68fe87af
+
+#EXTINF:-1,LONG SPORTS
+https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1761492923-0-0-23cf833205d6f35ad25cdffa7cd86240
+
+
+#EXTINF:-1,BO' SPORTS
+https://pull.niues.live/live/stream-9912105_lhd.m3u8?auth_key=1760288841-0-0-0b8a91a02cd23b84906d17cf846bf3f6
+
+
+
+#EXTINF:-1,BLV XO SPORTS
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1760801302-0-0-2b28c79978893f8c2765f8d9c3f7e98f
+
+
+
+#EXTINF:-1,MESSI SPORTS
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1760801242-0-0-cba8c19df6fa0cfadff549c3c6c9e32b
+
+
+
+
+#EXTINF:-1,TOMIA SPORTS
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1761499823-0-0-725d3c899336bff08f0bbc125b2fbbe8
+
+
+
+#EXTINF:-1,CÔNG CHÀT SPORTS
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1761499943-0-0-6eee26659e3f7a01426e0281aaa5aaca
+
+
+
+#EXTINF:-1,KAN SPORTS
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=01bb6134468ad71fc2871e5b8a481ee7&txTime=68fea267
+
+
+#EXTINF:-1,A BÈU SPORTS
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1761500123-0-0-0970f9cf7ab50e7477da1c48cb9a74cc
+
+
+
+#EXTINF:-1,CRIS SPORTS
+https://pull.niur.live/live/stream-9912103_lhd.m3u8?txSecret=e7b36f4a5360f4a5ce753489b865c34d&txTime=68fea1ef
+
+
+
+#EXTINF:-1,DECO SPORTS
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=f80e897e06d2b8d9cac5567e18c4a2fa&txTime=68fea1ef
+
+
+
+#EXTINF:-1,FANTA SPORTS
+https://pull.niues.live/live/stream-9912104_lhd.m3u8?auth_key=1761500363-0-0-3ff92a8306f4584d9cc020a1a995d772
+
+
+#EXTINF:-1,TAM MAO SPORTS
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=2eb19f30fb6f9fd3069ad2fdfaa02f78&txTime=68fea31b
+
+
+
+#EXTINF:-1,COCA SPORTS
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1761500363-0-0-85849d70a11fc0e07747daf8556ffefe
+
+
+
+#EXTINF:-1,ENZO SPORTS
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1761500663-0-0-f4d0510de32a51f05ad85e04e790d382
+
+
+
+#EXTINF:-1,TOMMY SPORTS
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1761500663-0-0-0e1b017182ba2761e60ee50218daa49c
+
+
+
+#EXTINF:-1,7UP SPORTS
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1761500903-0-0-0e880874ae512a825c357e6126076d2a
+
+
+
+#EXTINF:-1,A WIN SPORTS
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1761501143-0-0-e9d2689fd2d376cc4234c3e53394ef83
+
+
+
+#EXTINF:-1,EDRIC SPORTS
+https://pull.niues.live/live/stream-512649_lhd.m3u8?auth_key=1761501143-0-0-75651519197a1c60c05306c1852bd27f
+
+
+
+#EXTINF:-1,SAO LA SPORTS
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a4c2fa63708ddc41c25c1d17d30095d9&txTime=68fea69f
+
+
+
+#EXTINF:-1,NGOA LONG SPORTS
+https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1761501443-0-0-729713c6af947ab4c0676c2332e7d413
+
+
+#EXTINF:-1,MIXI SPORTS
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1761501323-0-0-2925668d62d42fb56524647ed7b0434a
+
+
+#EXTINF:-1,CHIVAS SPORTS
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=78f9fa749a8bab10ecab20456ba0566d&txTime=68fea78f
+
+
+#EXTINF:-1,LUCAS SPORTS
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1761501743-0-0-46cb9eb952d5af9de8bf012ae5e20dc9
+
+
+
+
+#EXTINF:-1,BZLTV 1
+https://pull01.yyzb456.top/live/stream-505050_lhd.flv?auth_key=1759592048-0-0-9d43b4683e1fa4fcd85e0500a4d57fa0
+
+
+#EXTINF:-1,BZLTV 2
+https://pull01.yyzb456.top/live/stream-330076_lhd.flv?auth_key=1759590128-0-0-a12ed07c919e598dd9ecd7c609f44a7f
+
+
+#EXTINF:-1,BZLTV 3
+https://pull01.yyzb456.top/live/stream-356126_lhd.flv?auth_key=1759673468-0-0-570f78d913663ed510b1ca912735bed3
+
+
+#EXTINF:-1,BZLTV 4
+https://pull01.yyzb456.top/live/stream-433829_lhd.flv?auth_key=1759673408-0-0-5c16c4cb8e10e9741e56822f6c862cf1
+
+
+#EXTINF:-1,BZLTV 5
+https://pull01.yyzb456.top/live/stream-571123_lhd.flv?auth_key=1759673288-0-0-8b9cbfb2f68009929bd0a5cb5e38afc2
+
+
+#EXTINF:-1,BZLTV 6
+https://pull01.yyzb456.top/live/stream-308116_lhd.flv?auth_key=1759673648-0-0-950e751e1fd5202059786deeb06bdb5f
+
+
+#EXTINF:-1,Live 1
+https://pull01.yyzb456.top/live/stream-149340_lhd.flv?auth_key=1758960546-0-0-1621a75bc5bee952b6bcf59fc5ad0cf8
+
+
+#EXTINF:-1,Live 2
+https://pull01.yyzb456.top/live/stream-160590_lhd.flv?auth_key=1759407667-0-0-d47468b064058ec2942b65f7530f348e
+
+
+#EXTINF:-1,Live 3
+https://pull01.yyzb456.top/live/stream-215178_lhd.flv?auth_key=1758973807-0-0-cf9aefe31c9ca660d3b9656a723fb571
+
+
+#EXTINF:-1,Live 4
+https://pull01.yyzb456.top/live/stream-184581_lhd.flv?auth_key=1759295527-0-0-33b5f975954d3c91d5582bb6a76fe972
+
+
+#EXTINF:-1,Live 5
+https://pull01.yyzb456.top/live/stream-149340_lhd.flv?auth_key=1758973627-0-0-d046404ec8a5bb4fc4f2300d64971feb
+
+
+#EXTINF:-1,Live 6
+https://pull01.yyzb456.top/live/stream-215178_lhd.flv?auth_key=1759407607-0-0-3b06357c45fbc980023e17fb4b54911b
+
+
+#EXTINF:-1,BElN 1
+http://het105a.4rouwanda-shop.store/live/918454578001/index.m3u8?t=KPpqjVqCU9vU-S7msrtECA&e=1759652047
+
+#EXTINF:-1,BEIN 2
+http://het100a.4rouwanda-shop.store/live/69854211/index.m3u8?t=616Nnkrv-yQWJJ6TNA3Hng&e=1759652067
+
+#EXTINF:-1,BElN 3
+http://het101a.4rouwanda-shop.store/live/645587700/index.m3u8?t=Uo5iMYWSs4SgDsrY5fT_bA&e=1759651977
+
+#EXTINF:-1,BElN 4
+http://het117a.4rouwanda-shop.store/live/9787488847/index.m3u8?t=xAJvIoJcQdJwulWYeAVxmw&e=1759652188
+
+#EXTINF:-1,BElN 5
+http://het103a.4rouwanda-shop.store/live/610303030/index.m3u8?t=N6fUD3JD1Y0tVBdzHttgGg&e=1759652206p
+
+
+#EXTINF:-1,ASTRO PremierLeague
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=m3u8
+
+#EXTINF:-1,ASTRO PremierLeague2
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=m3u8
+
+#EXTINF:-1,ASTRO ARENA 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13111.m3u8
+
+#EXTINF:-1,ASTRO ARENA 2 SD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/185822.m3u8
+
+#EXTINF:-1,ASTRO GRANDSTAND
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186389&extension=m3u8
+
+#EXTINF:-1,ASTRO  FOOTBALL
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186390&extension=m3u8
+
+
+
+#EXTINF:-1,Mono Max 1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=m3u8
+
+
+#EXTINF:-1,Mono Max 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=m3u8
+
+
+
+#EXTINF:-1,STAR SPORTS SELECT 1HD
+http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,STAR SPORTS SELECT 2HD
+http://45.148.145.57/AF_S2/index.m3u8
+
+#EXTINF:-1,Football(burmese voice)
+https://live.95tv.live/channel/25/playlist.m3u8
+
+#EXTINF:-1,Setanta Sports 1 HD
+http://ott.watch/stream/D3FX33QMIH1/234.m3u8
+
+#EXTINF:-1,Setanta Sports 2 HD
+http://ott.watch/stream/D3FX33QMIH1/235.m3u8
+
+#EXTINF:-1,Setanta Sports HD EpL
+http://ott.watch/stream/D3FX33QMIH1/313.m3u8
+
+#EXTINF:-1,Setanta Sports+ HD F
+http://ott.watch/stream/D3FX33QMIH1/390.m3u8
+
+#EXTINF:-1,Fubo Sport3
+https://livetv-fa.tubi.video/fubo/6.m3u8
+
+#EXTINF:-1,UNIFI SPORTS
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1,SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1,Dubai Sportshd 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
+
+#EXTINF:-1,Dubai Sportshd 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
+
+#EXTINF:-1,Sport Gctv
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1, THAILAND 
+
+
+#EXTINF:-1, Live 7HD
+
+
+#EXTINF:-1,PPTV-36
+
+
+#EXTINF:-1,MoNo29
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+
+
+
+
+#EXTINF:-1,MYANMAR
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1,BZLTV Mahar BAWDI
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+#https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1,BZLTV MRTV_4_HD
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+
+#EXTINF:-1,BZLTV CHANNEL7_HD
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+
+#EXTINF:-1,BZLTV MAHAR TV
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1,BZLTV MAHAR SPORTS 
+https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+
+#EXTINF:-1,BZLTV DVB NEW
+https://live-stream.dvb.no/hls/stream_high/index.m3u8
+
+#EXTINF:-1,BZLTV MWD HD
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1,BZLTV TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1,BZLTV GOLDEN 
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1,BZLTV C LIGHT
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:-1,BZLTV MWD SCHOOL
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:-1,BZLTV ForatuneTV HD
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+
+
+#EXTINF:-1,SPORTS 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+
+#EXTINF:-1,BZLTV Hiyaah movies
+https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
+
+
+#EXTINF:-1,BZLTV My time movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8
+
+#EXTINF:-1,BZLTV Actionhollywood
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1,BZLTV AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+
+
+#EXTINF:-1,BZLTV Amcplus
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+
+
+#EXTINF:-1,BZLTV Moviesphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,BZLTV MoviesAction
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+
+#EXTINF:-1,BZLTV MoviesThriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
+
+#EXTINF:-1,BZLTV Movies CHANNEL
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+
+#EXTINF:-1,BZLTV Watchmojotv
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,BZLTV WedoMovies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-xiaomi/playlist.m3u8
+
+
+#EXTINF:-1,BZLTV CTB MOVIE
+https://movies.ctbperth.net.au/hls/0/stream.m3u8
+
+
+#EXTINF:-1,PORNHUB 1
+http://31.43.191.125:8880/live/VIP0176170947274354/c38ecdc4ab07/132512.m3u8
+
+#EXTINF:-1,PORNHUB 2
+http://31.43.191.125:8880/live/VIP0176170947274354/c38ecdc4ab07/132563.m3u8
+
+#EXTINF:-1,PORNHUB 3
+http://31.43.191.125:8880/live/VIP0176170947274354/c38ecdc4ab07/132575.m3u8
+
+#EXTINF:-1,PORNHUB 5
+http://31.43.191.125:8880/live/VIP0176170947274354/c38ecdc4ab07/132575.m3u8
+
+
+#EXTINF:-1,PORNHUB 6
+http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/215664
+
+
+#EXTINF:-1,PORNHUB 7
+http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451480
+
+
+#EXTINF:-1,PORNHUB 8
+http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451479
+
+
+#EXTINF:-1,PORNHUB 9
+http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451483
+
+
+#EXTINF:-1,PORNHUB 10
+http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451485
+
+
+#EXTINF:-1,PORNHUB 11
+http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451459
+
+
+#EXTINF:-1,PORNHUB 12
+http://23.227.140.75:8880/jemel_waiters@yahoo.com/bPFTdFspMB/682764
+
