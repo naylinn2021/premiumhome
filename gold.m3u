@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/lV7WEVs.png"group-title="MYANMAR TV" ,Mahar BAWDI
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/lV7WEVs.png"group-title="MYANMAR TV",Mahar BAWDI
 https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 
 
@@ -32,17 +32,6 @@ http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo=" ",Football(burmese voice)
 https://live.95tv.live/channel/25/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-rec="7" timeshift="7",tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg",Setanta Sports 1 HD
-http://ott.watch/stream/D3FX33QMIH1/234.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-rec="7" timeshift="7",tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg",Setanta Sports 2 HD
-http://ott.watch/stream/D3FX33QMIH1/235.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-rec="7" timeshift="7",tvg-logo="https://i.postimg.cc/wTSwxpQt/download-3.png",Setanta Sports HD EpL
-http://ott.watch/stream/D3FX33QMIH1/313.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-rec="7" timeshift="7",tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg",Setanta Sports+ HD F
-http://ott.watch/stream/D3FX33QMIH1/390.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-rec="7" timeshift="7",tvg-logo="https://images.fubo.tv/station_logos/fubo-sports23_m.png",Fubo Sport3
 https://livetv-fa.tubi.video/fubo/6.m3u8
@@ -52,17 +41,5 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="SPORTS",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="SPORTS",ASTRO ARENA 1
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="SPORTS",ASTRO ARENA
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Astaren2.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="SPORTS",ASTRO ARENA 2
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="SPORTS",ASTRO FUTBOL 
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="SPORTS",ASTRO+ 
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
-
 
 
