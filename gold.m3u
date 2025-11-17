@@ -48,7 +48,11 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3b7qwiqzk3/
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-rec="7" timeshift="7",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1KXfXnICsCyRs3vwj3NSS6oWpo5ca65t8QxGc6SqnhCTKdQCxSnMcBXg&amp;s=10",Fubosport2HD
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd|drmScheme=clearkey&drmLicense=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-rec="7" timeshift="7",tvg-logo="https://images.fubo.tv/station_logos/fubo-sports23_m.png",Fubo Sport3
