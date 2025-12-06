@@ -1,2 +1,4 @@
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
 https://live.95tv.live/channel/9/chunks.m3u8
