@@ -1,20 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://goldtv.asia/goldpro.png"group-title="LIVE EVENT",LIVE 1
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=dc934ab053640ac817e226cdd432396a&txTime=6921c542
+https://live.95tv.live/channel/3/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://goldtv.asia/goldpro.png"group-title="LIVE EVENT",LIVE 2
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=dc934ab053640ac817e226cdd432396a&txTime=6921c542
+https://live.95tv.live/channel/3/playlist.m3u8
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://goldtv.asia/goldpro.png"group-title="LIVE EVENT",LIVE 3
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=dc934ab053640ac817e226cdd432396a&txTime=6921c542
+https://live.95tv.live/channel/3/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://goldtv.asia/goldpro.png"group-title="LIVE EVENT",LIVE 4
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=dc934ab053640ac817e226cdd432396a&txTime=6921c542
+https://live.95tv.live/channel/3/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://goldtv.asia/goldpro.png"group-title="LIVE EVENT",LIVE 5
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=dc934ab053640ac817e226cdd432396a&txTime=6921c542
+https://live.95tv.live/channel/3/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/lV7WEVs.png"group-title="MYANMAR TV",Mahar BAWDI
 https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
