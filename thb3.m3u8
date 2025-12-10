@@ -1,3 +1,4 @@
-
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2546447,RESOLUTION=1280x720,CODECS="avc1.42c01f,mp4a.40.2"
 https://j5i17hilue.takei-amc.com/do-ball.com/bein-3-th/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyNSA1OjI5OjIzIFBNJmhhc2hfdmFsdWU9bUtyV1FjU0Q2aFFROFkwdWE2YndmQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==
