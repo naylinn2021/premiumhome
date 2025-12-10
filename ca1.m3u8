@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2546447,RESOLUTION=1280x720,CODECS="avc1.42c01f,mp4a.40.2"
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd||drmScheme=clearkey&drmLicense=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
