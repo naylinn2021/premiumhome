@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+#EXTVLCOPT:http-referrer=https://github.com/
+http://119.59.118.159/live/ch63/xxccxgd134/index.m3u8
