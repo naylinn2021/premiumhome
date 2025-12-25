@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>IPTV Device Limit Panel</title>
+
+<style>
+body{
+  margin:0;
+  font-family:Arial;
+  background:#020617;
+  color:#e5e7eb;
+}
+header{
+  padding:15px;
+  background:#020617;
+  font-size:20px;
+  font-weight:bold;
+}
+.container{padding:15px}
+
+table{
+  width:100%;
+  border-collapse:collapse;
+  margin-top:15px;
+}
+th,td{
+  padding:8px;
+  border-bottom:1px solid #334155;
+  text-align:center;
+}
+input{
+  width:100%;
+  padding:5px;
+  border-radius:4px;
+  border:none;
+}
+button{
+  padding:6px 10px;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+}
+.add{background:#22c55e}
+.gen{background:#3b82f6;color:#fff}
+.on{background:#22c55e}
+.off{background:#ef4444;color:#fff}
+.active{color:#22c55e;font-weight:bold}
+.expired{color:#ef4444;font-weight:bold}
+</style>
+</head>
+
+<body>
+
+<header>📺 IPTV Device Limit – Admin Panel</header>
+
+<div class="container">
+<button class="add" onclick="addUser()">+ Add User</button>
+
+<table id="table">
+<tr>
+<th>User</th>
+<th>Password</th>
+<th>Expiry</th>
+<th>Devices</th>
+<th>Online</th>
+<th>Status</th>
+<th>Simulate</th>
+<th>M3U</th>
+</tr>
+</table>
+
+<br>
+<b>M3U Output</b>
+<input id="out">
+</div>
+
+<script>
+let users = JSON.parse(localStorage.getItem("users") || "[]");
+
+function daysLeft(exp){
+  const today=new Date(); today.setHours(0,0,0,0);
+  return Math.ceil((new Date(exp)-today)/(1000*60*60*24));
+}
+
+function render(){
+  const t=document.getElementById("table");
+  t.innerHTML=`
+<tr>
+<th>User</th><th>Password</th><th>Expiry</th>
+<th>Devices</th><th>Online</th><th>Status</th>
+<th>Simulate</th><th>M3U</th>
+</tr>`;
+
+  users.forEach((u,i)=>{
+    const d=daysLeft(u.exp);
+    const ok = d>=0;
+    t.innerHTML+=`
+<tr>
+<td><input value="${u.user}" onchange="users[${i}].user=this.value;save()"></td>
+<td><input value="${u.pass}" onchange="users[${i}].pass=this.value;save()"></td>
+<td><input type="date" value="${u.exp}" onchange="users[${i}].exp=this.value;save()"></td>
+<td><input type="number" min="1" value="${u.limit}" onchange="users[${i}].limit=this.value;save()"></td>
+<td>${u.online} / ${u.limit}</td>
+<td class="${ok?'active':'expired'}">${ok?'ACTIVE':'EXPIRED'}</td>
+<td>
+<button class="on" onclick="online(${i})">+</button>
+<button class="off" onclick="offline(${i})">-</button>
+</td>
+<td><button class="gen" onclick="gen(${i})">Generate</button></td>
+</tr>`;
+  });
+}
+
+function addUser(){
+  const exp=new Date(); exp.setDate(exp.getDate()+30);
+  users.push({
+    user:"newuser",
+    pass:"1234",
+    exp:exp.toISOString().slice(0,10),
+    limit:2,
+    online:0
+  });
+  save();
+}
+
+function online(i){
+  if(users[i].online < users[i].limit){
+    users[i].online++;
+    save();
+  }else{
+    alert("Device limit reached!");
+  }
+}
+
+function offline(i){
+  if(users[i].online>0){
+    users[i].online--;
+    save();
+  }
+}
+
+function gen(i){
+  if(daysLeft(users[i].exp)<0){
+    alert("Account expired");
+    return;
+  }
+  if(users[i].online>=users[i].limit){
+    alert("Device limit exceeded");
+    return;
+  }
+  out.value=
+   `https://goldtv.asia/get.php?username=${users[i].user}&password=${users[i].pass}&type=m3u`;
+}
+
+function save(){
+  localStorage.setItem("users",JSON.stringify(users));
+  render();
+}
+
+render();
+</script>
+
+</body>
+</html>
