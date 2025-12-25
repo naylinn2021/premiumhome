@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>IPTV Admin Panel (Token Demo)</title>
+
+<style>
+body{
+  background:#0f172a;
+  color:#e5e7eb;
+  font-family:Arial;
+  padding:20px;
+}
+h2{color:#38bdf8}
+input,button{
+  padding:6px;
+  margin:4px;
+}
+button{cursor:pointer}
+table{
+  width:100%;
+  border-collapse:collapse;
+  margin-top:15px;
+}
+th,td{
+  border:1px solid #334155;
+  padding:6px;
+  font-size:13px;
+}
+th{background:#1e293b}
+.small{font-size:12px;color:#94a3b8}
+</style>
+</head>
+
+<body>
+
+<h2>📺 IPTV Admin Panel (HTML Demo)</h2>
+
+<!-- ADD USER -->
+<div>
+  <input id="u" placeholder="Username">
+  <input id="p" placeholder="Password">
+  <input id="e" type="date">
+  <button onclick="addUser()">➕ Add User</button>
+</div>
+
+<p class="small">
+Delete user ⇒ token removed ⇒ link invalid (demo logic)
+</p>
+
+<table>
+<thead>
+<tr>
+  <th>User</th>
+  <th>Expiry</th>
+  <th>Token</th>
+  <th>M3U Link</th>
+  <th>Test</th>
+  <th>Action</th>
+</tr>
+</thead>
+<tbody id="list"></tbody>
+</table>
+
+<script>
+// =====================
+// LOAD USERS
+// =====================
+let users = JSON.parse(localStorage.getItem("users") || "[]");
+
+// =====================
+// RENDER
+// =====================
+function render(){
+  list.innerHTML = "";
+
+  users.forEach((x,i)=>{
+    const link = `auth.html?t=${x.token}`;
+
+    list.innerHTML += `
+      <tr>
+        <td>${x.user}</td>
+        <td>${x.exp}</td>
+        <td>${x.token}</td>
+        <td>${link}</td>
+        <td>
+          <button onclick="testToken('${x.token}')">▶ Test</button>
+        </td>
+        <td>
+          <button onclick="del(${i})">❌</button>
+        </td>
+      </tr>
+    `;
+  });
+}
+
+// =====================
+// ADD USER
+// =====================
+function addUser(){
+  if(!u.value || !p.value || !e.value){
+    alert("Fill all fields");
+    return;
+  }
+
+  users.push({
+    user:u.value,
+    pass:p.value,
+    exp:e.value,
+    token: Date.now() + Math.floor(Math.random()*1000)
+  });
+
+  save();
+  u.value=p.value=e.value="";
+}
+
+// =====================
+// DELETE USER
+// =====================
+function del(i){
+  if(confirm("Delete this user?")){
+    users.splice(i,1);   // token gone here
+    save();
+  }
+}
+
+// =====================
+// SAVE
+// =====================
+function save(){
+  localStorage.setItem("users", JSON.stringify(users));
+  render();
+}
+
+// =====================
+// TOKEN TEST (SIMULATED AUTH)
+// =====================
+function testToken(token){
+  const found = users.find(u => u.token == token);
+
+  if(found){
+    alert("✅ ACCESS GRANTED\nToken valid");
+  }else{
+    alert("❌ ACCESS DENIED\nToken not found");
+  }
+}
+
+// INIT
+render();
+</script>
+
+</body>
+</html>
