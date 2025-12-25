@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>IPTV Admin Panel</title>
+<style>
+body{margin:0;font-family:Arial;background:#020617;color:#e5e7eb}
+header{background:#020617;padding:15px;font-size:20px;font-weight:bold}
+.container{padding:15px}
+button{padding:6px 10px;border:none;border-radius:5px;cursor:pointer}
+.add{background:#22c55e}
+.del{background:#ef4444;color:#fff}
+.gen{background:#3b82f6;color:#fff}
+.copy{background:#a855f7;color:#fff}
+table{width:100%;border-collapse:collapse;margin-top:15px}
+th,td{border-bottom:1px solid #334155;padding:8px;text-align:center}
+input{width:100%;padding:5px;border-radius:4px;border:none}
+.active{color:#22c55e;font-weight:bold}
+.expired{color:#ef4444;font-weight:bold}
+</style>
+</head>
+<body>
+
+<header>📺 IPTV Admin Control Panel</header>
+<div class="container">
+
+<button class="add" onclick="addUser()">+ Add User</button>
+
+<table id="table">
+<tr>
+<th>User</th><th>Password</th><th>Expiry</th><th>Days Left</th><th>Status</th><th>M3U</th><th>❌</th>
+</tr>
+</table>
+
+<br>
+<b>M3U Output</b>
+<input id="out">
+
+</div>
+
+<script>
+if(localStorage.getItem("iptv_admin")!=="ok"){
+  location.href="index.html";
+}
+
+let users = JSON.parse(localStorage.getItem("users")||"[]");
+
+function daysLeft(exp){
+  const d=Math.ceil((new Date(exp)-new Date())/(1000*60*60*24));
+  return d;
+}
+
+function render(){
+  const t=document.getElementById("table");
+  t.innerHTML=`<tr>
+<th>User</th><th>Password</th><th>Expiry</th>
+<th>Days Left</th><th>Status</th><th>M3U</th><th>❌</th></tr>`;
+
+  users.forEach((u,i)=>{
+    const d=daysLeft(u.exp);
+    const status=d>=0?"ACTIVE":"EXPIRED";
+    t.innerHTML+=`
+<tr>
+<td><input value="${u.user}" onchange="users[${i}].user=this.value;save()"></td>
+<td><input value="${u.pass}" onchange="users[${i}].pass=this.value;save()"></td>
+<td><input type="date" value="${u.exp}" onchange="users[${i}].exp=this.value;save()"></td>
+<td>${d>=0?d:"0"}</td>
+<td class="${d>=0?"active":"expired"}">${status}</td>
+<td><button class="gen" onclick="gen(${i})">Generate</button></td>
+<td><button class="del" onclick="del(${i})">X</button></td>
+</tr>`;
+  });
+}
+
+function addUser(){
+  const exp=new Date(); exp.setDate(exp.getDate()+30);
+  users.push({user:"newuser",pass:"1234",exp:exp.toISOString().slice(0,10)});
+  save();
+}
+
+function del(i){
+  users.splice(i,1);
+  save();
+}
+
+function gen(i){
+  if(daysLeft(users[i].exp)<0){
+    alert("Expired account");
+    return;
+  }
+  out.value=`https://example.com/get.php?username=${users[i].user}&password=${users[i].pass}&type=m3u`;
+}
+
+function save(){
+  localStorage.setItem("users",JSON.stringify(users));
+  render();
+}
+
+render();
+</script>
+
+</body>
+</html>
