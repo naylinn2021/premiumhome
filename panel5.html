@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>IPTV Admin Control Panel</title>
+
+<style>
+body {
+  background:#0b1020;
+  color:#fff;
+  font-family:Arial, sans-serif;
+}
+table {
+  width:100%;
+  border-collapse:collapse;
+  margin-top:20px;
+}
+th, td {
+  padding:10px;
+  border-bottom:1px solid #333;
+}
+button {
+  padding:6px 10px;
+  cursor:pointer;
+}
+.active { color:lime; }
+.delete {
+  background:red;
+  color:white;
+  border:none;
+}
+</style>
+</head>
+
+<body>
+
+<h2>📺 IPTV Admin Control Panel</h2>
+
+<button onclick="addUser()">➕ Add User</button>
+<button onclick="exportJSON()">⬇ Export users.json</button>
+
+<table>
+<thead>
+<tr>
+  <th>User</th>
+  <th>Password</th>
+  <th>Expiry</th>
+  <th>Status</th>
+  <th>Delete</th>
+</tr>
+</thead>
+<tbody id="userTable"></tbody>
+</table>
+
+<h3>M3U Output</h3>
+<textarea id="m3u" style="width:100%;height:80px;"></textarea>
+
+<script>
+let users = [];
+
+/* 🔹 users.json load */
+fetch("users.json")
+.then(res => res.json())
+.then(data => {
+  users = data;
+  render();
+});
+
+/* 🔹 Table render */
+function render(){
+  const table = document.getElementById("userTable");
+  table.innerHTML = "";
+
+  users.forEach((u, i) => {
+    table.innerHTML += `
+      <tr>
+        <td>${u.username}</td>
+        <td>${u.password}</td>
+        <td>${u.expiry}</td>
+        <td class="active">${u.status}</td>
+        <td>
+          <button class="delete" onclick="deleteUser(${i})">X</button>
+        </td>
+      </tr>
+    `;
+  });
+}
+
+/* 🔹 Add user */
+function addUser(){
+  const username = prompt("Username?");
+  const password = prompt("Password?");
+  const expiry = prompt("Expiry (YYYY-MM-DD)?");
+
+  if(!username) return;
+
+  users.push({
+    username,
+    password,
+    expiry,
+    status:"ACTIVE"
+  });
+
+  render();
+}
+
+/* 🔹 Delete user = token gone */
+function deleteUser(index){
+  if(confirm("Delete this user? Token will be gone!")){
+    users.splice(index,1);
+    render();
+  }
+}
+
+/* 🔹 Export users.json */
+function exportJSON(){
+  const blob = new Blob(
+    [JSON.stringify(users,null,2)],
+    {type:"application/json"}
+  );
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "users.json";
+  a.click();
+}
+</script>
+
+</body>
+</html>
