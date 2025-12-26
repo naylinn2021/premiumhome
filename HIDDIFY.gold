@@ -1,0 +1,12 @@
+{
+ "outbounds": [
+  {
+   "type": "shadowsocks",
+   "tag": "Gold TV ASIA All Sim-931.71GB📊-29D,17H⏳ § 0",
+   "server": "sg2.qitoallsimfree.shop",
+   "server_port": 12219,
+   "method": "xchacha20-ietf-poly1305",
+   "password": "vAIF1etHyZ4i2kySDgVfkghhji59tEnOL7IB6P+zXiE="
+  }
+ ]
+}
