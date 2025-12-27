@@ -1,0 +1,564 @@
+var timeCountDown = 6;
+var timeCountDownPopup = 7;
+var isShowAgain = 1;
+var showCloseButton = true;
+function returnDefault(data, redefault) {
+    return redefault = null == redefault ? 0 : redefault, null == data ? redefault : data
+}
+
+function getUrlParameter(sParam) {
+  var sPageURL = window.location.search.substring(1),
+      sURLVariables = sPageURL.split('&'),
+      sParameterName,
+      i;
+
+  for (i = 0; i < sURLVariables.length; i++) {
+      sParameterName = sURLVariables[i].split('=');
+
+      if (sParameterName[0] === sParam) {
+          return sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+      }
+  }
+}
+
+function showLoadingError() {
+    try {
+        const playerElement = document.querySelector('#player');
+        const check = document.querySelector('.xgplayer-custom-error');
+        
+        // Remove loading element if exists
+        const loadingElement = document.querySelector('.xgplayer-custom-loading');
+        if (loadingElement) {
+            loadingElement.remove();
+        }
+    
+        if (playerElement && !check) {
+            const element = document.createElement('div');
+            element.className = 'xgplayer-custom-error';
+            element.innerHTML = '<div class="xgplayer-custom-error-text">This video file cannot be played.</div>';
+    
+            playerElement.appendChild(element);
+        }
+    } catch(err){
+        console.log('Error showLoadingError', err)
+    }
+}
+
+// Hiá»ƒn thá»‹ loading trÆ°á»›c khi phÃ¡t
+function showLoadingIndicator() {
+    try {
+        const playerElement = document.querySelector('#player');
+        const check = document.querySelector('.xgplayer-custom-loading');
+    
+        const errorElement = document.querySelector('.xgplayer-custom-error');
+        if (errorElement) {
+            errorElement.remove();
+        }
+    
+        if (playerElement && !check) {
+            // Add loading element to container
+            const element = document.createElement('div');
+            element.className = 'xgplayer-custom-loading';
+            element.innerHTML = '<div class="xgplayer-custom-loading-icon"></div>';
+    
+            playerElement.appendChild(element);
+        }
+    } catch(err){
+        console.log('Error showLoadingIndicator', err)
+    }
+}
+
+function hideLoadingIndicator() {
+    try {
+        // Remove loading element
+        const loadingElement = document.querySelector('.xgplayer-custom-loading');
+        if (loadingElement) {
+            loadingElement.remove();
+        }
+        const errorElement = document.querySelector('.xgplayer-custom-error');
+        if (errorElement) {
+            errorElement.remove();
+        }
+    } catch(err){
+        console.log('Error hideLoadingIndicator', err)
+    }
+}
+
+function loadStream(){
+  showCloseButton = false;
+  if (jQuery('#player .buttonSkipAds').length > 0) {
+      jQuery('#player .buttonSkipAds').remove();
+  }
+  if (jQuery('#player .aHrefAff').length > 0) {
+      jQuery('#player .aHrefAff').remove();
+  }
+  
+  // Wait for XGPlayer to be ready
+  if (!window.xgPlayerReady || (typeof window.XGPlayer === 'undefined' && typeof window.Player === 'undefined')) {
+    console.log('XGPlayer not ready, waiting...');
+    setTimeout(loadStream, 500);
+    return;
+  }
+  
+  if (typeof window.XGPlayer === 'undefined' && typeof window.Player !== 'undefined') {
+    window.XGPlayer = window.Player;
+  }
+  
+  var self = this;
+  this.time = 900;
+  this.timeShowAds = 900;
+  var reconnectTime = 0;
+  var showAdsIndex = 1;
+  let wasPaused = false;
+  let xgPlayer = null;
+
+  try{
+    if(localStorage.getItem('adbreak') === null || localStorage.getItem('adbreak') == '[]'){
+      localStorage.setItem("adbreak", JSON.stringify(adbreak));
+    }
+
+    var banners_adbreak = localStorage.getItem('adbreak');
+    var itemsadbreak = JSON.parse(banners_adbreak);
+    var itemadbreak = itemsadbreak.shift();
+    localStorage.setItem("adbreak", JSON.stringify(itemsadbreak));
+  } catch(err) {
+    console.log('Error loadStream adbreak', err);
+  }
+
+  try {
+    document.getElementById('player').innerHTML = '';
+    
+    const isHlsStream = urlStream.includes('.m3u8');
+    const isFlvStream = isFlv || urlStream.includes('.flv');
+    
+    let playerConfig = {
+      id: 'player',
+      url: urlStream,
+      autoplay: true,
+      muted: true,
+      loop: false,
+      volume: 0,
+      poster: imageDefault,
+      width: '100%',
+      height: '100%',
+      pip: true,           // cho phÃ©p Picture-in-Picture
+      fluid: true,
+      playsinline: true,
+      preloadTime: 10,
+      minCacheTime: 10,
+      playbackRate: false, // Disable playback rate control
+      isLive: true, // Enable live streaming
+      controls: {
+        playbackRate: false, // Disable playback rate in controls
+        time: false,
+        progress: false,  
+        duration: false,  
+        currentTime: false,
+        live: true
+      }
+    };
+
+    if (isFlvStream && window.XGFlvPlugin) {
+      playerConfig.plugins = [window.XGFlvPlugin];
+      playerConfig.flv = {
+        isLive: true,
+        enableStashBuffer: true,
+        stashInitialSize: 128,
+        enableWorker: true,
+        lazyLoadMaxDuration: 3 * 60,
+        seekType: 'range'
+      };
+    } else if (isHlsStream && window.XGHlsPlugin) {
+      playerConfig.plugins = [window.XGHlsPlugin];
+      playerConfig.hls = {
+        isLive: true,
+        maxBufferLength: 30,
+        maxMaxBufferLength: 600,
+        liveSyncDurationCount: 3
+      };
+    } else if (isHlsStream) {
+      playerConfig.isLive = true;
+      playerConfig.preload = 'none';
+      playerConfig.playbackRates = [0.5, 0.75, 1, 1.25, 1.5, 2];
+    } else if (isFlvStream) {
+      throw new Error('FLV plugin required for FLV streams');
+    }
+
+    if (typeof window.XGPlayer === 'undefined') {
+      throw new Error('XGPlayer is not loaded');
+    }
+
+    fetch(urlStream, { method: 'HEAD', mode: 'no-cors' })
+      .then(() => console.log('Stream URL is accessible'))
+      .catch(err => console.warn('Stream URL test failed (this may be normal for CORS):', err));
+
+    xgPlayer = new window.XGPlayer(playerConfig);
+    
+    xgPlayer.on('ready', () => {
+      reconnectTime = 0;
+      loadTextAds();
+      loadBannerAds();
+      setTimeout(function () {
+          loadAds();
+      }, 60000);
+      setInterval(function () { calcPos(); }, 1000);
+      loadAdsPopup();
+    });
+
+    xgPlayer.on('loadstart', () => {
+      showLoadingIndicator();
+    });
+
+    xgPlayer.on('canplay', () => {
+      hideLoadingIndicator();
+    });
+
+    xgPlayer.on('play', () => {
+      hideLoadingIndicator();
+      
+      if (wasPaused && (isFlvStream || isHlsStream)) {
+        // Tá»‘i Æ°u cho live streaming
+        try {
+          // Äá»‘i vá»›i live stream, seek vá» live edge
+          const duration = xgPlayer.duration;
+          const buffered = xgPlayer.buffered;
+          
+          if (duration && duration !== Infinity) {
+            // VOD stream - seek to end
+            xgPlayer.currentTime = duration - 1;
+          } else if (buffered && buffered.length > 0) {
+            // Live stream - seek to latest buffered position
+            const latestBuffered = buffered.end(buffered.length - 1);
+            xgPlayer.currentTime = Math.max(0, latestBuffered - 3); // 3s buffer
+          } else {
+            // Fallback - reload stream for fresh content
+            const currentSrc = xgPlayer.src;
+            xgPlayer.src = '';
+            setTimeout(() => {
+              xgPlayer.src = currentSrc;
+              xgPlayer.play();
+            }, 100);
+          }
+        } catch (e) {
+          console.log('Could not seek to live edge, reloading stream:', e);
+          // Reload stream as fallback
+          xgPlayer.src = urlStream;
+          xgPlayer.play();
+        }
+        wasPaused = false;
+      }
+    });
+
+    xgPlayer.on('pause', () => {
+      wasPaused = true;
+    });
+
+    xgPlayer.on('ended', () => {
+      if (isFlvStream || isHlsStream) {
+        setTimeout(() => {
+          xgPlayer.src = urlStream;
+          xgPlayer.play();
+        }, 1000);
+      }
+    });
+
+    xgPlayer.on('waiting', () => {
+      showLoadingIndicator();
+    });
+
+    xgPlayer.on('playing', () => {
+      hideLoadingIndicator();
+    });
+
+    xgPlayer.on('error', (error) => {
+      console.error('XGPlayer error:', error);
+      showLoadingError();
+      
+      const retryDelay = reconnectTime < 5 ? 2000 * Math.pow(2, reconnectTime) : 30000;
+      reconnectTime++;
+      
+      setTimeout(() => {
+        try {
+          if (xgPlayer) {
+            xgPlayer.destroy();
+          }
+          loadStream();
+        } catch (e) {
+          console.error('Retry failed:', e);
+          if (reconnectTime > 5) {
+            showLoadingError();
+            return;
+          }
+        }
+      }, retryDelay);
+    });
+
+    if (isFlvStream || isHlsStream) {
+      xgPlayer.on('requestError', (error) => {
+        console.error('Network error:', error);
+        setTimeout(() => {
+          xgPlayer.src = urlStream;
+          xgPlayer.play();
+        }, 3000);
+      });
+    }
+
+    window.currentPlayer = xgPlayer;
+
+  } catch(err) {
+    console.log('Error loadStream', err);
+    showLoadingError();
+    
+    setTimeout(() => {
+      loadStream();
+    }, 3000);
+  }
+}
+
+function loadTvc() {
+  // Wait for XGPlayer to be ready
+  if (!window.xgPlayerReady || (typeof window.XGPlayer === 'undefined' && typeof window.Player === 'undefined')) {
+    console.log('XGPlayer not ready for TVC, waiting...');
+    setTimeout(loadTvc, 500);
+    return;
+  }
+  
+  if (typeof window.XGPlayer === 'undefined' && typeof window.Player !== 'undefined') {
+    window.XGPlayer = window.Player;
+  }
+  
+  try{
+    if(localStorage.getItem(keyTvc) === null || localStorage.getItem(keyTvc) == '[]' || localStorage.getItem(keyTvc) == 'undefined'){
+      localStorage.setItem(keyTvc, JSON.stringify(adsTvc));
+    }
+    var tvcPlayer = localStorage.getItem(keyTvc);
+    var itemsTvc = JSON.parse(tvcPlayer);
+    var itemTvc = itemsTvc.shift();
+    localStorage.setItem(keyTvc, JSON.stringify(itemsTvc));
+    
+    if (adsTvc.length > 0 && itemTvc) {
+        // Clear existing player content
+        document.getElementById('player').innerHTML = '';
+        
+        // Create XGPlayer for TVC ads
+        const tvcXgPlayer = new window.XGPlayer({
+            id: 'player',
+            url: itemTvc.file,
+            autoplay: true,
+            muted: false,
+            poster: imageDefault,
+            width: '100%',
+            height: '100%',
+            fluid: true,
+            playsinline: true
+        });
+
+        tvcXgPlayer.on('error', function () {
+            loadStream();
+        });
+
+        tvcXgPlayer.on('ready', function () {
+            setTimeout(() => {
+                const controls = document.querySelector('.xgplayer-controls');
+                if (controls) {
+                    controls.style.bottom = '0px';
+                }
+            }, 100);
+        });
+
+        tvcXgPlayer.on('play', function() {
+            if (jQuery('#player .buttonSkipAds').length <= 0) {
+                jQuery('#player').append('<div class="buttonSkipAds">Bá» qua sau 5</div>');
+            }
+            if (jQuery('#player .aHrefAff').length <= 0) {
+                jQuery('#player').prepend('<a href="'+itemTvc.link+'" target="_blank" class="aHrefAff"></a>');
+            }
+            countDownAdsPlayer();
+        });
+
+        tvcXgPlayer.on('ended', function () {
+            loadStream();
+        });
+
+        // Allow skip after 8 seconds
+        setTimeout(function () {
+            if (showCloseButton) {
+                if (jQuery('#player .buttonSkipAds').length <= 0) {
+                    jQuery('#player').append('<div class="buttonSkipAds skipAdsButton">Bá» qua quáº£ng cÃ¡o </div>');
+                } else {
+                    jQuery('#player .buttonSkipAds').addClass('skipAdsButton');
+                }
+            }
+        }, 1000 * 8);
+
+        // Store TVC player instance
+        window.currentTvcPlayer = tvcXgPlayer;
+    } else {
+      loadStream();
+    }
+  }catch(err){
+    loadStream();
+    console.log('Error loadTvc', err)
+  }
+}
+jQuery(document).on('click', '.skipAdsButton', function () {
+  loadStream();
+});
+function genTextButton(full) {
+    try {
+        if (!adsButton) return;
+        full = full == undefined ? false : true;
+        if (adsButton) {
+          var html = '<div class="odds-button">';
+            $.each(adsButton, function(index, value) {
+                var tr = value.name_pc !== undefined ? value.name_pc : value.name_mb;
+                var textfull = full ? tr : value.name_mb;
+                html +=
+                    '<a href="' +
+                    value.link +
+                    '" style="background:'+value.background+';color:'+value.color+'" target="_blank">' +
+                    textfull +
+                    '</a>';
+            });
+          html += '</div>';
+        }
+        if(adsButton2) {
+          html += '<div class="odds-button2" style="position: absolute;top: 0px;right: 10px; z-index: 99;">';
+          $.each(adsButton2, function(index, value) {
+            html += '<a href="'+value.link+'" target="_blank"><img src="'+value.image+'" height="70" /></a>';
+          });
+          html +='</div>';
+        }        
+        return html;
+    } catch (err) {
+      console.log(err);
+    }
+}
+function countDownAdsPlayer() {
+    timeCountDown = timeCountDown - 1;
+    if (showCloseButton) {
+      if (timeCountDown > 0) {
+        if (jQuery('#player .buttonSkipAds').length > 0) {
+          if (!jQuery('#player .buttonSkipAds').hasClass('skipAdsButton')) {
+            jQuery('#player .buttonSkipAds').text('Bá» qua sau '+timeCountDown);
+          }
+        }
+        setTimeout(countDownAdsPlayer, 1000);
+    } else {
+        jQuery('#player .buttonSkipAds').text('Bá» qua quáº£ng cÃ¡o');
+        jQuery('#player .buttonSkipAds').addClass('skipAdsButton');
+      }
+    }
+}
+function loadAds() {
+  if(localStorage.getItem(keyPlayer) === null || localStorage.getItem(keyPlayer) == '[]'){
+    localStorage.setItem(keyPlayer, JSON.stringify(self.adsPlayer));
+  }
+  var banners_player = localStorage.getItem(keyPlayer);
+  var itemsplayer = JSON.parse(banners_player);
+  var itemplayer = itemsplayer.shift();
+  localStorage.setItem(keyPlayer, JSON.stringify(itemsplayer));
+  if (self.adsPlayer && self.adsPlayer.length > 0) {
+    jQuery('#player').append('<div class="show-ads-banner"><span class="close-ads" onclick="jQuery(\'.show-ads-banner\').fadeOut();">x</span><a rel="nofollow" href="' + itemplayer.url + '" target="_blank"><img src="' + itemplayer.image + '"  class=""></a></div>');
+    setTimeout(function() {
+      jQuery('#player .show-ads-banner').remove();
+      setTimeout(loadAds, 1000 * 60 * 15);
+    }, 1000 * 30);
+  }
+  
+}
+function loadTextAds(){
+  if(self.adsTextTop.length != 0){
+    jQuery('#player').append(self.adsTextTop);
+  }
+  if(self.adsTextBot.length != 0){
+    jQuery('#player').append(self.adsTextBot);
+  }
+  if($('#player .odds-button').length <= 0){
+    $('#player').append(genTextButton());    
+  }
+}
+function loadAdsPopup() {
+  if (self.adsPopupPlayer && isShowAgain > 0) {
+    if(localStorage.getItem(keyPopup) === null || localStorage.getItem(keyPopup) == '[]'){
+      localStorage.setItem(keyPopup, JSON.stringify(self.adsPopupPlayer));
+    }
+    var popup_players = localStorage.getItem(keyPopup);
+    var adsAr = JSON.parse(popup_players);
+    var ads = adsAr.shift();
+    localStorage.setItem(keyPopup, JSON.stringify(adsAr));
+    if (ads) {
+      $('#player').append('<div class="popup-ads-banner"><span class="count-down-close-ads turnoff">X</span><a rel="nofollow" href="' + ads['url'] + '" target="_blank"><img src="' + ads['image'] + '" class="w-100"></a></div>');
+      var timer = setInterval(function () {
+          if ($('.popup-ads-banner .count-down-close-ads').length > 0) {
+              $(".popup-ads-banner .count-down-close-ads").html(function (i, html) {
+                  if (parseInt(html) > 1) {
+                      return parseInt(html) - 1;
+                  } else {
+                      clearTimeout(timer);
+                      $(this).addClass('turnoff');
+                      $('.popup-ads-banner').remove();
+                  }
+              });
+          } else {
+              clearTimeout(timer);
+          }
+      }, 7000);
+    }
+  }
+}
+function calcPos() {
+  try {
+      if($('#player .banner-bottom').length !== 0) {
+          var buttonH = jQuery('#player .odds-button').outerHeight() ?? 0;
+          var bannerH = jQuery('#player .banner-bottom').outerHeight() ?? 0;
+          var width = jQuery(document).width() > 540 ? 10 : 5;
+          const bottom = bannerH + width;
+          
+          // Position odds buttons
+          jQuery('#player .odds-button').css('bottom', bottom);
+          
+          // Position XGPlayer controls
+          const xgControls = jQuery('#player .xgplayer-controls');
+          if (xgControls.length > 0) {
+              xgControls.css('bottom', bottom + 35);
+          }
+          
+          // Position HTML5 video controls (for fallback players)
+          const videoControls = jQuery('#player video');
+          if (videoControls.length > 0) {
+              // For HTML5 video, we adjust the container positioning
+              videoControls.css('bottom', '0px');
+          }
+      }
+  } catch (error) {
+      console.log('Error calcPos', error);
+  }
+}
+
+function loadBannerAds() {
+  try {
+    if(jQuery('#player .banner-bottom').length == 0) {
+        jQuery('#player').append('<div class="banner-bottom"><a rel="nofollow" href="'+adsLink+'" target="_blank"><img src="https://cdn.lfastcdn.com/2025/05/1330x60.gif"  class=""></a></div>');
+    }
+  } catch (error) {
+    console.log('Error loadBannerAds', error);
+  }
+}
+
+jQuery(document).ready(function($) {
+  if(!offTvc) {
+    loadTvc();
+  } else {
+    loadStream();
+  }
+});
+$(document).on('click', '.count-down-close-ads.turnoff', function () {
+    $(this).parents('.popup-ads-banner').remove();
+    if (adsPopupPlayer && isShowAgain > 0) {
+        setTimeout(loadAdsPopup, 1000 * 60 * 15);
+    }
+});
+$( window ).resize(function() {
+  calcPos();
+});
