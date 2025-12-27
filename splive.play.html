@@ -1,45 +1,619 @@
+
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<title>HBO TV</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta content="IE=edge" http-equiv="X-UA-Compatible">
-<script src="//ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.js"></script>
-<script> jwplayer.key = 'XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';
-</script>
-<div id="player"></div>
-<script>
-    var playerInstance = jwplayer("player");
+    <meta http-equiv="cache-control" content="max-age=0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="pragma" content="no-cache" />
+</head>
 
-    playerInstance.setup({
+<body>
+    <div id="iframe-tv">
+        <div id="player"></div>
+    </div>
+    <style>
+        #player {
+            position: absolute;
+            text-align: center;
+            background: rgba(0, 0, 0, 0.87) url(https://cdn.lfastcdn.com/ripple.svg) no-repeat 50% 50%;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 99;
+            margin: 0 !important;
+        }
 
-        playlist: [{
-"image": "https://drive.google.com/uc?export=download&id=1ciHHauSEDrPLYF69pkSK7Bxqrv2wMCKF",
-"sources": [
-{
-"default": true,
-"type": "dash",
-"file": 'https://live.95tv.live/channel/25/playlist.m3u8',
-"drm": {
-"clearkey": { "keyId": "", "key": "" }
-},
-"label": "1"
-}
-]
-}],
-logo: { file: "https://drive.google.com/uc?export=download&id=1ciHHauSEDrPLYF69pkSK7Bxqrv2wMCKF", position: 'top-right' },
- width: "100%",
-        height: "100%",
-        aspectratio: "16:9",
-        mute: false,
-        autostart: true,
-        cast: {},
-    });
-    if (getLang == "") {
-   lang = 1;
-  }
-  jwplayer().on('play', function(e) {
-    jwplayer().setCurrentAudioTrack(lang);
-  });
-</script>
-<a href='https://heylink.me/playidtv/'>G⚽LD TV PRO<span class="tag_NA"></span>
+        .jw-preview {
+            background: url(https://cdn.lfastcdn.com/2025/09/banner.webp) no-repeat center;
+        }
+
+        .jwplayer .jw-rightclick.jw-open {
+            display: none;
+        }
+
+        .dplayer-controller {
+            z-index: 111;
+            bottom: 90px;
+            height: 34px;
+            padding: 0 14px;
+        }
+
+        .dplayer-menu.dplayer-menu-show {
+            display: none;
+        }
+
+        .dplayer-custom-error,
+        .dplayer-custom-loading {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 9;
+            width: 100%;
+            height: 100%;
+            display: flex !important;
+            justify-content: center;
+            align-items: center;
+            background: url(https://cdn.lfastcdn.com/2025/09/banner.webp);
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+
+        .dplayer-custom-error-text {
+            background: rgba(0, 0, 0, 0.87);
+            padding: auto;
+            padding: 18px;
+            color: white;
+            font-size: 20px;
+        }
+        .dplayer-custom-loading-icon {
+            background: url(https://cdn.lfastcdn.com/ripple.svg) no-repeat;
+            width: 70px;
+            height: 70px;
+        }
+
+        .dplayer-full-in-icon {
+            display: none !important;
+        }
+        /* XGPlayer Custom Styles */
+        .xgplayer-cssfullscreen {display: none;}
+        .xgplayer .xgplayer-controls {background-image: none;}
+        .xgplayer-custom-error,
+        .xgplayer-custom-loading {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 9;
+            width: 100%;
+            height: 100%;
+            display: flex !important;
+            justify-content: center;
+            align-items: center;
+            background: url(https://cdn.lfastcdn.com/2025/09/banner.webp);
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+
+        .xgplayer-custom-error-text {
+            background: rgba(0, 0, 0, 0.87);
+            padding: auto;
+            padding: 18px;
+            color: white;
+            font-size: 20px;
+        }
+
+        .xgplayer-custom-loading-icon {
+            background: url(https://cdn.lfastcdn.com/ripple.svg) no-repeat;
+            width: 70px;
+            height: 70px;
+        }
+
+        .xgplayer-controls {
+            z-index: 111;
+            bottom: 90px;
+            height: 34px;
+            padding: 0 14px;
+        }
+
+        .xgplayer-menu.xgplayer-menu-show {
+            display: none;
+        }
+        .a-v9 {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "TeXGyreHeros";
+            font-size: 1.25vw;
+            line-height: 2.6875vw;
+        }
+
+        .a-v9 img {
+            margin-right: 2.1875vw;
+            max-width: 8.75vw;
+        }
+
+        .a-v9 p {
+            font-size: 1.25vw;
+            line-height: 2.6875vw;
+            color: #ffffff;
+            font-weight: normal;
+            font-family: "TeXGyreHeros";
+        }
+
+        .a-v9 a {
+            color: #fff;
+        }
+
+        .a-v9 span {
+            font-size: 1.5vw;
+            color: #f8d000;
+            font-weight: bold;
+            font-family: "TeXGyreHeros";
+        }
+
+        .a-v9 a.btn {
+            background-color: #f8d000;
+            width: 8.75vw;
+            height: 2.625vw;
+            border-radius: 0.5625vw;
+            text-transform: uppercase;
+            border: 1px solid #000000;
+            font-size: 1.125vw !important;
+            color: #040404;
+            font-weight: 700;
+            font-family: "TeXGyreHeros";
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: 2.6875vw;
+        }
+
+        #player .popup-ads-banner {
+            display: table;
+            z-index: 998;
+            margin-left: auto;
+            margin-right: auto;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            max-width: 100%;
+        }
+
+        #player .popup-ads-banner img {
+            max-width: 100%;
+        }
+
+        #player .popup-ads-banner .count-down-close-ads {
+            position: absolute;
+            background: #000;
+            width: 40px;
+            height: 40px;
+            text-align: center;
+            top: 5px;
+            right: -42px;
+            font-size: 25px;
+            border-radius: 50%;
+            cursor: pointer;
+            color: #fff;
+            padding: 12px
+        }
+
+        .odds-button {
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+            z-index: 1;
+        }
+
+        .odds-button a {
+            background-color: #e81226;
+            border-radius: 6px;
+            padding: 8px 10px;
+            color: #fff;
+            text-decoration: none;
+            right: 100px;
+            margin-right: 9px;
+            font-weight: 700;
+            font-size: 14px;
+            max-width: 85px;
+        }
+
+        .odds-button a:last-child {
+            background-color: #0f4cd9;
+        }
+        .banner-bottom {
+            width: 100%;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+        .banner-bottom img {
+            max-height: 80px;
+            width: 100%;
+            opacity: 0;
+        }
+                /* .odds-button2 {
+            top: 15px !important;
+            right: 10px !important;
+        } */
+        
+        .odds-button2 img {
+            height: 35px;
+        }
+
+        .jw-flag-fullscreen .odds-button2 {
+            top: 2em !important;
+            right: 4em !important;
+        }
+
+        .jw-flag-fullscreen .odds-button2 img {
+            height: 35px;
+        }
+
+                @media only screen and (min-device-width: 970px) {
+
+            #player .show-ads-banner img,
+            #player .show-ads-banner iframe {
+                height: 80px;
+                width: 570px !important
+            }
+
+            #player .popup-ads-banner img,
+            #player .popup-ads-banner iframe {
+                height: auto;
+                max-height: 410px;
+                max-width: 410px
+            }
+
+            #player.jw-flag-fullscreen .popup-ads-banner img,
+            #player.jw-flag-fullscreen .popup-ads-banner iframe {
+                height: auto;
+                max-height: 800px;
+                max-width: 800px
+            }
+
+            #player.jw-flag-fullscreen .odds-button {
+                bottom: 20px;
+                right: 30px;
+            }
+
+            .odds-button a {
+                font-size: 20px;
+            }
+        }
+
+        @media only screen and (max-width: 991px) {
+            .odds-button a {
+                font-size: 0.955em;
+            }
+        }
+        @media only screen and (max-width: 767px) {
+            .odds-button a {
+                font-size: 0.35em;
+                margin-right: 5px;
+            }
+        }
+        @media only screen and (max-width: 576px) {
+            .banner-bottom img {
+                max-height: 25px;
+            }
+        }
+        @media only screen and (max-width: 480px) {
+
+            #player .popup-ads-banner img,
+            #player .popup-ads-banner iframe {
+                height: auto;
+                max-height: 210px;
+                width: unset !important
+            }
+
+            .odds-button {
+                position: absolute;
+                bottom: 5px;
+                right: 0px;
+            }
+
+            .odds-button a {
+                padding: 4px;
+                margin-right: 4px;
+                font-size: 0.5em;
+                /* font-size: 0.36em; */
+            }
+        }
+
+        @media only screen and (max-width: 390px) {
+            .odds-button a {
+                /* font-size: 0.35em; */
+                font-size: 0.5em;
+                margin-right: 1px;
+                white-space: nowrap;
+            }
+        }
+        @media only screen and (max-width: 375px) {
+            .odds-button a {
+                /* font-size: 0.30em; */
+                font-size: 0.5em;
+                margin-right: 1px;
+                white-space: nowrap;
+            }
+        }
+
+        @media only screen and (min-device-width: 480px) and (max-device-width:970px) {
+
+            #player .popup-ads-banner img,
+            #player .popup-ads-banner iframe {
+                height: auto;
+                max-height: 500px;
+                max-width: 500px
+            }
+
+            #player.jw-flag-fullscreen .popup-ads-banner img,
+            #player.jw-flag-fullscreen .popup-ads-banner iframe {
+                height: auto;
+                max-height: 500px;
+                max-width: 500px
+            }
+        }
+
+        img {
+            max-width: 100%;
+        }
+
+        @media screen and (max-width: 991px) {
+            .a-v9 {
+                font-size: 2vw;
+            }
+
+            .a-v9 img {
+                max-width: 9.75vw;
+            }
+
+            .a-v9 p {
+                font-size: 2vw;
+            }
+
+            .a-v9 span {
+                font-size: 2vw;
+            }
+
+            .a-v9 a.btn {
+                width: 9.75vw;
+                height: 3.625vw;
+                font-size: 1.425vw !important;
+            }
+        }
+    </style>
+    <div class="countdown"></div>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-79370453-13"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-79370453-13');
+    </script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script> -->
+    <!-- Try multiple CDN sources for XGPlayer -->
+    <script>
+        const cdnSources = [
+            {
+                name: 'JSDelivr-3.0.23',
+                css: 'https://cdn.jsdelivr.net/npm/xgplayer@3.0.23/dist/index.min.css',
+                core: 'https://cdn.jsdelivr.net/npm/xgplayer@3.0.23/dist/index.min.js',
+                hls: 'https://cdn.jsdelivr.net/npm/xgplayer-hls@3.0.23/dist/index.min.js',
+                flv: 'https://cdn.jsdelivr.net/npm/xgplayer-flv@3.0.23/dist/index.min.js'
+            },
+            {
+                name: 'UNPKG-3.0.23',
+                css: 'https://unpkg.com/xgplayer@3.0.23/dist/index.min.css',
+                core: 'https://unpkg.com/xgplayer@3.0.23/dist/index.min.js',
+                hls: 'https://unpkg.com/xgplayer-hls@3.0.23/dist/index.min.js',
+                flv: 'https://unpkg.com/xgplayer-flv@3.0.23/dist/index.min.js'
+            },
+            {
+                name: 'JSDelivr-3.0.17-Fallback',
+                css: 'https://cdn.jsdelivr.net/npm/xgplayer@3.0.17/dist/index.min.css',
+                core: 'https://cdn.jsdelivr.net/npm/xgplayer@3.0.17/dist/index.min.js',
+                hls: 'https://cdn.jsdelivr.net/npm/xgplayer-hls@3.0.17/dist/index.min.js',
+                flv: 'https://cdn.jsdelivr.net/npm/xgplayer-flv@3.0.17/dist/index.min.js'
+            }
+        ];
+        
+        let currentSourceIndex = 0;
+        
+        function loadCSS(href) {
+            const link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.href = href;
+            document.head.appendChild(link);
+        }
+        
+        function loadScript(src) {
+            return new Promise((resolve, reject) => {
+                if (!src) {
+                    resolve(); // Skip if no URL
+                    return;
+                }
+                const script = document.createElement('script');
+                script.src = src;
+                script.onload = () => {
+                    // console.log('Loaded:', src);
+                    resolve();
+                };
+                script.onerror = () => {
+                    console.error('Failed to load:', src);
+                    reject();
+                };
+                document.head.appendChild(script);
+            });
+        }
+        
+        async function tryLoadFromSource(source) {
+            try {
+                loadCSS(source.css);
+                await loadScript(source.core);
+                
+                if (typeof Player !== 'undefined' || typeof window.Player !== 'undefined') {
+                    try {
+                        await loadScript(source.hls);
+                    } catch (e) {}
+                    
+                    try {
+                        await loadScript(source.flv);
+                    } catch (e) {}
+                    
+                    return true;
+                } else {
+                    throw new Error('XGPlayer core not available');
+                }
+            } catch (error) {
+                return false;
+            }
+        }
+        
+        async function loadXGPlayer() {
+            for (let i = 0; i < cdnSources.length; i++) {
+                const success = await tryLoadFromSource(cdnSources[i]);
+                if (success) {
+                    window.dispatchEvent(new Event('xgplayer-ready'));
+                    return;
+                }
+            }
+            
+            window.Player = function(config) {
+                const video = document.createElement('video');
+                video.src = config.url;
+                video.controls = true;
+                video.autoplay = config.autoplay;
+                video.muted = config.muted;
+                video.loop = config.loop;
+                video.style.width = '100%';
+                video.style.height = '100%';
+                
+                const container = document.getElementById(config.id);
+                if (container) {
+                    container.innerHTML = '';
+                    container.appendChild(video);
+                }
+                
+                this.on = function(event, callback) {
+                    if (event === 'ready') setTimeout(callback, 100);
+                    if (event === 'play') video.addEventListener('play', callback);
+                    if (event === 'pause') video.addEventListener('pause', callback);
+                    if (event === 'error') video.addEventListener('error', callback);
+                };
+                
+                this.play = function() { return video.play(); };
+                this.pause = function() { video.pause(); };
+                this.destroy = function() { container.innerHTML = ''; };
+                
+                setTimeout(() => this.on('ready', () => {}), 100);
+            };
+            
+            window.dispatchEvent(new Event('xgplayer-ready'));
+        }
+        
+        loadXGPlayer();
+    </script>
+    <script>
+        window.addEventListener('xgplayer-ready', function() {
+            if (typeof Player !== 'undefined') {
+                window.XGPlayer = Player;
+            } else if (typeof window.Player !== 'undefined') {
+                window.XGPlayer = window.Player;
+            } else if (typeof window.xgplayer !== 'undefined') {
+                window.XGPlayer = window.xgplayer;
+            }
+            
+            if (typeof window.HlsPlayer !== 'undefined') {
+                window.XGHlsPlugin = window.HlsPlayer;
+            } else if (typeof HlsPlayer !== 'undefined') {
+                window.XGHlsPlugin = HlsPlayer;
+            }
+            
+            if (typeof window.FlvPlayer !== 'undefined') {
+                window.XGFlvPlugin = window.FlvPlayer;
+            } else if (typeof FlvPlayer !== 'undefined') {
+                window.XGFlvPlugin = FlvPlayer;
+            }
+            
+            window.xgPlayerReady = true;
+        });
+        
+        setTimeout(function() {
+            if (!window.XGPlayer) {
+                if (typeof Player !== 'undefined') {
+                    window.XGPlayer = Player;
+                } else if (typeof window.Player !== 'undefined') {
+                    window.XGPlayer = window.Player;
+                } else if (typeof window.xgplayer !== 'undefined') {
+                    window.XGPlayer = window.xgplayer;
+                }
+            }
+            
+            if (!window.XGHlsPlugin) {
+                if (typeof window.HlsPlayer !== 'undefined') {
+                    window.XGHlsPlugin = window.HlsPlayer;
+                } else if (typeof HlsPlayer !== 'undefined') {
+                    window.XGHlsPlugin = HlsPlayer;
+                }
+            }
+            
+            if (!window.XGFlvPlugin) {
+                if (typeof window.FlvPlayer !== 'undefined') {
+                    window.XGFlvPlugin = window.FlvPlayer;
+                } else if (typeof FlvPlayer !== 'undefined') {
+                    window.XGFlvPlugin = FlvPlayer;
+                }
+            }
+            
+            window.xgPlayerReady = true;
+        }, 1000);
+        
+        window.addEventListener('load', function() {
+            setTimeout(() => {
+                if (!window.xgPlayerReady) {
+                    if (typeof Player !== 'undefined' || typeof window.Player !== 'undefined') {
+                        window.dispatchEvent(new Event('xgplayer-ready'));
+                    }
+                }
+            }, 2000);
+        });
+    </script>
+    <script type="text/javascript">
+        var imageDefault = "https://cdn.lfastcdn.com/2025/09/banner.webp";
+        var urlStream = "https://live.golivenow71.com/ab52102580348965509e7ac769a4cb14/1766906495972/rchtwtx/index.m3u8";
+        var adsPlayer = [];
+        var adsTvc = [];
+        var adsButton = [{"color":"#ffffff","background":"#ff0202","name_pc":"C\u01af\u1ee2C 8XBET","name_mb":"C\u01af\u1ee2C 8XBET","link":"https:\/\/15.235.211.177\/xoilac"}];
+        var adsButton2 = [];
+        var adbreak = [0, 1];
+        var keyPlayer = "adsPlayer_2_rchtwtx";
+        var keyTvc = "adsTvc_2_rchtwtx";
+        var keyPopup = "adsPopup_2_rchtwtx";
+        var adsTextTop = '';
+        var adsTextBot = '';
+        var adsLink = 'https://15.235.211.177/xoilac';
+        var offTvc = '1';
+        var isFlv = '';
+        var type = '1';
+                    var adsPopupPlayer = [];
+                    </script>
+    <script type="text/javascript" src="/js/live2.js?ver=2.7.5"></script>
+</body>
+
+</html>
