@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,QA: beIN Sports 1
 http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/100
 
