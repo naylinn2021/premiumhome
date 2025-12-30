@@ -1,0 +1,847 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="BZLTV",BZLTV
+https://v.redd.it/ccep9b5ggl4g1/HLSPlaylist.m3u8?f=sd%2CsubsAll%2ChlsSpecOrder&v=1&a=1767188187%2CYjE4ZThjODg0NDJmNTU0YjliZjA5ODUzYzcwZDU0MTI2MDE3Y2EyZGMwZmUwZWEyYjkxODhlYzQ5MGMzYjU2YQ%3D%3D/HLSPlaylist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="BZLTV",BZLTV M3U 
+https://v.redd.it/r3j5skf7bnxf1/HLSPlaylist.m3u8?f=hd%2CsubsAll%2ChlsSpecOrder&v=1&a=1765467045%2CYjA4YWY5NWE4YzdhYmM0N2U4MWUzYjg3ZjEyMTQ2NTAxYjAwMTUwNGY0ZTVhYjRlNzFhNDllMWIyMGE2YTFhMg%3D%3D/HLSPlaylist.m3u8
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="BZLTV MUSIC",BZLTV MUSIC
+https://v.redd.it/jj40zekg9hwf1/HLSPlaylist.m3u8?f=sd%2CsubsAll%2ChlsSpecOrder&v=1&a=1763650039%2CZDc1ZGYyOGZmOWRjOGJmNTA1ZDUxYTc4MTRiMTdmMzE0YjFjNjk5NDA5MTc4YTdiYmQ2MDE3MjU4NDlkNDY0ZQ%3D%3D/HLSPlaylist.m3u8
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="BZLTV HARTHA",HARTHA MY
+https://packaged-media.redd.it/v4jp3uf88hwf1/pb/m2-res_1280p.mp4?m=DASHPlaylist.mpd&v=1&e=1761073200&s=e33996ec1dcea2fa1a80eb1781f43438b327be3b
+
+
+#EXTINF:-1 group-title="BZLTV HARTHA",HARTHA FOOTBALL 
+https://packaged-media.redd.it/13g2oeava2wf1/pb/m2-res_480p.mp4?m=exp-cmaf%2FDASHPlaylist.mpd&v=1&e=1760893200&s=f0bfd9025f8a6020711854d171fd3134dea06da3
+
+
+
+
+
+
+
+#EXTM3U
+
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",Mahar BAWDI
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",Mahar BAWDI 2
+https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",MRTV_4_HD
+https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifest.m3u8
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",CHANNEL7_HD
+https://cdn-live-pyone.secureswiftcontent.com/han/PyonePlay/Channel7/LiveOutput/manifest.m3u8
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",PyonePlay Sports HD
+https://cdn-live-pyone.secureswiftcontent.com/han/pyone/sport/LiveOutput/manifest.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",MAHAR TV
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",MAHAR SPORTS 
+https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",DVB NEW
+https://live-stream.dvb.no/hls/stream_high/index.m3u8
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",MWD HD
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",GOLDEN 
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",C LIGHT
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",MWD SCHOOL
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:-1 group-title="BZLTV MYANMAR",ForatuneTV HD
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+
+
+
+
+
+
+
+#EXTM3U
+
+
+
+#EXTINF:-1 group-title="BZLTV ONE LIVE",One 173 Reply Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766772622/ei/LntOabj3C5Kw2roPzKjHiQU/ip/1.46.152.152/id/fEe4htr3U3A.0/source/yt_premiere_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/gcr/th/siu/1/bui/AYUSA3CUEHGZWs5z_wv8i1Y23jST_if2JglGkjgYtmazBF7AngFHKlOyN2OTt7-Q4RyMpIpe2Q/spc/wH4QqxvsW2Hx5_DZ2ZrUQcT36ZrU6zh5VQb9v9D2ZBXcWaGi-WMcuidqOSMSwPSeoS-pIg/vprv/1/go/1/ns/zwraX918nTKiAwPavCt4OrcR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/HjH0xHHDsI0xw04HXh/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXQbPFj3dnjDQXKWkI0mvMwY-0p3mJz-95FmRRH3d-O0CIQCwPGPhVvP7J9UvbQY0nHDxTTePvDCQXDyZ1L2AEffKkA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="BZLTV ONE LIVE",One LIVE 1
+http://d478.dtv.homes:2082/live/star25_982663/w8Shzhse/276734.ts
+
+
+#EXTINF:-1 group-title="BZLTV ONE LIVE", ONE LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766777690/ei/-Y5OaYvtOr-V1d8PxaqK-Qg/ip/1.46.152.152/id/H79Af5BH6aM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/gcr/th/siu/1/bui/AYUSA3AwkfUd_E0oKuxKZM8axHSoLxd-6hVpn3QGlYG1_3AHEdlXlwvEEe0_1XK6A8aZjM3lyQ/spc/wH4Qqz-xV3F0O_0CYmCaOC1qJ0S6Cz8sK_ERNSCrAbXM_98Wh0wEeKnSJegtTGXceHgHGA/vprv/1/go/1/ns/6ZnB1NRkdP0P4DpJvTd1MdcR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/3_0XKiFiKgvKXdfgSn/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANVcekvm_clwjlKqUcMTdydJ_NIQVwtsuQ98S1jJxVzWAiAGqE8i3KdaQ9CPEsEPk_Z06-u563qVvKxWhOOo_9Aa0Q%3D%3D/file/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="BZLTV ONE LIVE",ONE LIVE 2
+http://45.148.145.57/AF_S2/index.m3u8
+http://d478.dtv.homes:2082/live/star25_982663/w8Shzhse/276735.ts
+
+
+
+
+
+
+#EXTM3U
+
+
+#EXTINF:-1 group-title="BZLTV VIP SPORTS",SPOTV 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+
+
+
+#EXTINF:-1 group-title="BZLTV VIP SPORTS",SPOTV 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+
+
+#EXTINF:-1 group-title="BZLTV VIP SPORTS",FUBOSPORT NETWORK 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="BZLTV VIP SPORTS",FUBOSPORT NETWORK 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+
+
+
+#EXTINF:-1 group-title="BZLTV VIP SPORTS",LA LIGA TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+
+
+
+#EXTINF:-1 group-title="BZLTV VIP SPORTS",FOX SPORT 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+
+
+#EXTINF:-1 group-title="BZLTV VIP SPORTS",FOX SPORT 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+
+
+
+#EXTINF:-1 group-title="BZLTV VIP SPORTS",FOX SPORT 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+
+
+
+#EXTINF:-1 group-title="BZLTV VIP SPORTS",FOX SPORT PREMIUM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+
+#EXTINF:-1 group-title="BZLTV VIP SPORTS",UNIFI SPORTS
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+
+
+#EXTINF:-1 group-title="BZLTV VIP SPORTS",TNT SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+
+
+#EXTINF:-1 group-title="BZLTV VIP SPORTS",TNT SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="BZLTV TEST SPORTS",HD SPORTS 
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1762620984-0-0-ef56dbd6d63504d5cbe42b1899c6d55a
+
+
+
+
+#EXTINF:-1 group-title="BZLTV TEST SPORTS",SD SPORTS 
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1762104984-0-0-026b6c809b55e6c4ccfd57d9cb157708
+
+
+#EXTINF:-1 group-title="BZLTV TEST SPORTS",HD TESTING 
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1765209978-0-0-c42ba881507d683de7312c5fd2da8f2e/stream-506605_lhd.flv
+
+
+#EXTINF:-1 group-title="BZLTV TEST SPORTS",SD TESTING 
+https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1765210038-0-0-a0c422d453218c121039e4ee73fa659d/stream-506605_lsd.flv
+
+
+
+
+
+
+
+
+#EXTM3U
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",ROBBEN SD/HD
+https://live.inplyr.com/room/527383.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",FIREMAN SD/HD
+https://live.inplyr.com/room/250874.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",CAY KHE SD/HD
+https://live.inplyr.com/room/532257.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",MR BICH SD/HD
+https://live.inplyr.com/room/285067.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",TOMIA SD/HD
+https://live.inplyr.com/room/187579.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",TYPN SD/HD
+https://live.inplyr.com/room/170430.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",LAO LAM SD/HD
+https://live.inplyr.com/room/527384.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",CU CÀÏ SD/HD
+https://live.inplyr.com/room/360663.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",SATIVA SD/HD
+https://live.inplyr.com/room/321443.m3u8
+
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",GAU SD/HD
+https://live.inplyr.com/room/304297.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",SUP LO SD/HD
+https://live.inplyr.com/room/549682.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",KINH TE SD/HD
+https://live.inplyr.com/room/532999.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",PEWPEW SD/HD
+https://live.inplyr.com/room/109053.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",ALEX SD/HD
+https://live.inplyr.com/room/532081.m3u8
+
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",SAO LA SD/HD
+https://live.inplyr.com/room/462413.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",CÔNG LY SD/HD
+https://live.inplyr.com/room/375503.m3u8
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",NOKA SD/HD
+https://live.inplyr.com/room/537460.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",NIBO SD/HD
+https://live.inplyr.com/room/372746.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",DECO SD/HD
+https://live.inplyr.com/room/168740.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",CU CÀÏ SD/HD
+https://live.inplyr.com/room/360663.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",TOMMY SD/HD
+https://live.inplyr.com/room/414317.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",TAP SD/HD
+https://live.inplyr.com/room/147801.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",CRIS SD/HD
+https://live.inplyr.com/room/499765.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",TA BEIN GIOI SD/HD
+https://live.inplyr.com/room/118206.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",7UP SD/HD
+https://live.inplyr.com/room/534219.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",XO SD/HD
+https://live.inplyr.com/room/472241.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",A BEU SD/HD
+https://live.inplyr.com/room/484845.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",WUKONG SD/HD
+https://live.inplyr.com/room/511367.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",SUNG A MUP SD/HD
+https://live.inplyr.com/room/122774.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",VIP SD/HD
+https://live.inplyr.com/room/491873.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",ADAM SD/HD
+https://live.inplyr.com/room/336303.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",SAO DO SD/HD
+https://live.inplyr.com/room/519740.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",VOI SD/HD
+https://live.inplyr.com/room/552716.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",LOGAN SD/HD
+https://live.inplyr.com/room/552832.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",BEO SD/HD
+https://live.inplyr.com/room/459401.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",MESSI SD/HD
+https://live.inplyr.com/room/494201.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",ENZO SD/HD
+https://live.inplyr.com/room/380460.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",THACH TÚ SD/HD
+https://live.inplyr.com/room/344370.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",RICKHANTER SD/HD
+https://live.inplyr.com/room/123226.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",FANTA SD/HD
+https://live.inplyr.com/room/135966.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",A TU SD/HD
+https://live.inplyr.com/room/557845.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",A CHE SD/HD
+https://live.inplyr.com/room/356042.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",QUANG VINH SD/HD
+https://live.inplyr.com/room/515900.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",HO LUN SD/HD
+https://live.inplyr.com/room/308080.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",XUAN SON SD/HD
+https://live.inplyr.com/room/501412.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SOCOSD/HD SPORTS",VUONG ANH SD/HD
+https://live.inplyr.com/room/548860.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",COCA SPORTS
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",PEPSI SPORTS
+https://live5.msrktz.app/live/43612277.m3u8
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",7UP SPORTS
+https://live5.msrktz.app/live/78905744.m3u8
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",GIA LANG SPORTS
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",COZY SPORTS
+https://live5.msrktz.app/live/87379114.m3u8
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",247 SPORTS
+https://live5.msrktz.app/live/90865415.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",DR THANH SPORTS
+https://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",OLONG SPORTS
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",ROCKSTAR SPORTS
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",RONG DO SPORTS
+https://live5.msrktz.app/live/88508431.m3u8
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",SPRITE SPORTS
+https://live5.msrktz.app/live/90725470.m3u8
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",BI DAO SPORTS
+https://live5.msrktz.app/live/99121525.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",RED BULL SPORTS
+https://live5.msrktz.app/live/68848594.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",MOUNTAIN DEW SPORTS
+https://live5.msrktz.app/live/87547578.m3u8
+
+
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",COMPACT SPORTS
+https://live5.msrktz.app/live/07808742.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",STING SPORTS 
+https://live5.msrktz.app/live/14707124.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",MONSTER SPORTS 
+https://live5.msrktz.app/live/75915087.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",FANTA SPORTS 
+https://live5.msrktz.app/live/71426314.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",TEPPY SPORTS 
+https://live5.msrktz.app/live/59444581.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV COLATV SPORTS",SODA SPORTS 
+https://live5.msrktz.app/live/02456966.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="BZLTV SPORTS",myanmar voice sports
+https://live.95tv.live/channel/25/playlist.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Fubo Sport3
+https://livetv-fa.tubi.video/fubo/6.m3u8
+
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",TNT SPORT 1
+http://ppvdns247.uk:8880/live/AD22/ad8XF83zzW/4098253.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",TNT SPORT 2
+http://ppvdns247.uk:8880/live/AD22/ad8XF83zzW/4098249.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",TNT SPORT 3
+http://ppvdns247.uk:8880/live/AD22/ad8XF83zzW/4098250.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",TNT SPORT 4
+http://ppvdns247.uk:8880/live/AD22/ad8XF83zzW/4098251.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",BElN Sports 1
+http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/17253.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",BElN Sports 2
+http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/3300.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",BElN Sports 3
+http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/16670.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",BElN Sports 4
+http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/3297.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",BElN Sports 5
+http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/16669.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",BElN Sports 6
+http://topsat.site:2052/live/yyY0JkZG/mnP4Xus/3295.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Bein Sports+1
+http://4kgood.org:80/live/8344281117826792/7mv6wkb8m8gwimx4frkr/245836.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Bein Sports+2
+http://4kgood.org:80/live/8344281117826792/7mv6wkb8m8gwimx4frkr/245835.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Bein Sports+3
+http://4kgood.org:80/live/8344281117826792/7mv6wkb8m8gwimx4frkr/2538.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Bein Sports+4
+http://4kgood.org:80/live/8344281117826792/7mv6wkb8m8gwimx4frkr/245832.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Bein Sports+5
+http://4kgood.org:80/live/8344281117826792/7mv6wkb8m8gwimx4frkr/245831.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Bein Sports+6
+http://4kgood.org:80/live/8344281117826792/7mv6wkb8m8gwimx4frkr/245830.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Bein Sports+7
+http://4kgood.org:80/live/8344281117826792/7mv6wkb8m8gwimx4frkr/2534.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",SKY PREMIER LAGUE 1
+http://ppvdns247.uk:8880/live/AD22/ad8XF83zzW/4518137.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",SKY SPORT Football 
+http://ppvdns247.uk:8880/live/AD22/ad8XF83zzW/4098206.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",SKY SPORT Main 
+http://ppvdns247.uk:8880/live/AD22/ad8XF83zzW/4518139.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",SKY SPORT +
+http://ppvdns247.uk:8880/live/AD22/ad8XF83zzW/4098199.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",SKY SPORT News
+http://psk-sdk.ddno.us:8080/live/5500600/shgq1sas/237517.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",ESPN SPORT 2
+http://live.detodotvplay.com:8080/live/RaymundoBravo/gTYeNkcbEUcy/173.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",ESPN SPORT 3
+http://live.detodotvplay.com:8080/live/RaymundoBravo/gTYeNkcbEUcy/63392.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",WWE SPORT
+http://forevertv.me:2095/live/Saeed73/205294867003/103659.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",STAR SPORTS 1
+http://ppvdns247.uk:8880/live/AD22/ad8XF83zzW/862747.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",STAR SPORTS 2
+http://ppvdns247.uk:8880/live/AD22/ad8XF83zzW/862748.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",DAZN SPORT 1
+http://psk-sdk.ddno.us:8080/live/5500600/shgq1sas/180205.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",DAZN SPORT 2
+http://psk-sdk.ddno.us:8080/live/5500600/shgq1sas/180206.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Sport 1
+http://sans7.org:88/live/02085615626730/02085615626730/852916.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Sport 2
+http://sans7.org:88/live/02085615626730/02085615626730/852919.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Sport 3
+http://sans7.org:88/live/02085615626730/02085615626730/852922.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Sport 4
+http://sans7.org:88/live/02085615626730/02085615626730/852925.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Sport 5
+http://sans7.org:88/live/02085615626730/02085615626730/852928.ts
+
+
+#EXTINF:-1 group-title="BZLTV SPORTS",Sport 6
+http://sans7.org:88/live/02085615626730/02085615626730/852931.ts
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE CHANNEL",Hiyaah movies
+https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE CHANNEL",My time movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="BZLTV MOVIE CHANNEL",Actionhollywood
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="BZLTV MOVIE CHANNEL",AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE CHANNEL",Amcplus
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE CHANNEL",Moviesphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="BZLTV MOVIE CHANNEL",MoviesAction
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE CHANNEL",MoviesThriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE CHANNEL",Movies CHANNEL
+https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+
+#EXTINF:-1 group-title="BZLTV MOVIE CHANNEL",Watchmojotv
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE CHANNEL",WedoMovies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-xiaomi/playlist.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE CHANNEL",CTB MOVIE
+https://movies.ctbperth.net.au/hls/0/stream.m3u8
+
+
+
+
+
+
+#EXTM3U
+
+
+#EXTINF:-1 group-title="BZLTV TEST MOVIE",MOVIE 1
+https://v.redd.it/oekhyys72qhe1/HLS_360.m3u8
+
+#EXTINF:-1 group-title="BZLTV TEST MOVIE",MOVIE 2
+https://v.redd.it/k4et92fz5yge1/HLS_480.m3u8
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="BZLTV MOVIE",Fast 1
+https://main.24playerhd.com/newplaylist/48bd10f287c7c88b419b84b8/48bd10f287c7c88b419b84b8.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE",Fast 2
+https://main.24playerhd.com/newplaylist/87f09250cd50def42ab2ac83/87f09250cd50def42ab2ac83.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE",Fast 3
+https://main.24playerhd.com/newplaylist/88319a12b3ab3c1b9da87267/88319a12b3ab3c1b9da87267.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE",Fast 4
+https://main.24playerhd.com/newplaylist/994720fbbbaf904467ad5ba6/994720fbbbaf904467ad5ba6.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE",Fast five
+https://main.24playerhd.com/newplaylist/b97c4e7865fd93d8e498f9d0/b97c4e7865fd93d8e498f9d0.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE",Fast 6
+https://main.24playerhd.com/newplaylist/82cabad80e4997a31cbd4c28/82cabad80e4997a31cbd4c28.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE",Fast 7
+https://main.24playerhd.com/newplaylist/3a78910939a204d9cae78d62/3a78910939a204d9cae78d62.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE",Fast 8
+https://main.24playerhd.com/newplaylist/0a791aeae4ba21a53a0d7278/0a791aeae4ba21a53a0d7278.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE",Fast 9
+https://main.24playerhd.com/newplaylist/0a791aeae4ba21a53a0d7278/0a791aeae4ba21a53a0d7278.m3u8
+
+
+#EXTINF:-1 group-title="BZLTV MOVIE",Baramulla
+https://m3u8haha.com/movie/M15532.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="BZLTV MOVIE",A House of Dynamite
+https://m3u8haha.com/movie/M15511.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="BZLTV MOVIE",4 Tigers
+https://player77hdfree.xyz/79c1daff-4d86-442f-a2c7-3a492e9c58fe/_
+
+#EXTINF:-1 group-title="BZLTV MOVIE",Brick
+https://m3u8haha.com/movie/M15379.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="BZLTV MOVIE",Train Dreams
+https://m3u8haha.com/movie/M15551.mp4/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
