@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="LIVE.ca" tvg-name="CA: MONOMAX1" tvg-logo="https://i.imgur.com/Cv81dJr.jpeg" group-title="LIVE",CA: MONOMAX1
+https://goldtv.asia/mnmax1.m3u8
+#EXTINF:-1 tvg-id="LIVE.ca" tvg-name="CA: MONOMAX1" tvg-logo="https://i.imgur.com/Cv81dJr.jpeg" group-title="LIVE",CA: MONOMAX1
+https://goldtv.asia/mnmax2.m3u8
 #EXTINF:-1 group-title="MYANMAR",Mahar BAWDI
 https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 
