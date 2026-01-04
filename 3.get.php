@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="LIVE.ca" tvg-name="LIVE_1" tvg-logo="https://i.imgur.com/Cv81dJr.jpeg" group-title="LIVE",LIVE_1
+https://live.95tv.live/channel/25/chunks.m3u8
 #EXTINF:-1 tvg-id="LIVE.ca" tvg-name="CA: MONOMAX1" tvg-logo="https://i.imgur.com/Cv81dJr.jpeg" group-title="LIVE",MONOMAX1
 https://goldtv.asia/mnmax1.m3u8
 #EXTINF:-1 tvg-id="LIVE.ca" tvg-name="CA: MONOMAX1" tvg-logo="https://i.imgur.com/Cv81dJr.jpeg" group-title="LIVE",MONOMAX2
