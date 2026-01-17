@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="LIVE" tvg-name="LIVE" tvg-logo="https://i.imgur.com/Cv81dJr.jpeg" group-title="LIVE",LIVE
-https://live.95tv.live/channel/25/chunks.m3u8
+https://pull.mmchari.xyz/live/live_2780.flv?txSecret=8478648e50bac3805316b57ac64fe66d&txTime=696d11ac|referer=https://m.fmp.live/
 #EXTINF:-1 tvg-id="MONOMAX1" tvg-name="MONOMAX1" tvg-logo="https://i.imgur.com/Cv81dJr.jpeg" group-title="LIVE",MONOMAX1
 https://goldtv.asia/mnmax1.m3u8
 
