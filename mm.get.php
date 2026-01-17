@@ -45,109 +45,45 @@ http://203.81.84.130/hls/mwd_movie/index.m3u8
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/100
+http://135.125.109.73:9000/beinsport1_.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/101
+http://135.125.109.73:9000/beinsport2_.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports 3
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/102
+http://135.125.109.73:9000/beinsport3_.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports 4
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/103
+http://135.125.109.73:9000/beinsport4_.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports 5
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/104
+http://135.125.109.73:9000/beinsport1_.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports 6
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/105
+http://135.125.109.73:9000/beinsport6_.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports 7
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/106
+3http://135.125.109.73:9000/beinsport7_.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports 8
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/107
+3http://135.125.109.73:9000/beinsport8_.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports 9
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/108
+3http://135.125.109.73:9000/beinsport9_.m3u8
 
-#EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports English 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/110
 
-#EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports English 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/111
 
-#EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports English 3
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/267769
 
-#EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports Global
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/16779
 
-#EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports Max 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/296991
 
-#EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports Max 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/199001
 
-#EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports News
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/1266
 
-#EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports Xtra 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/290037
 
-#EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports Xtra 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/283294
 
-#EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports Xtra 3
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/1214
 
-#EXTINF:-1,group-title="BEIN SPORT",AE: Abu Dhabi Sports 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/1296
 
-#EXTINF:-1,group-title="BEIN SPORT",AE: Abu Dhabi Sports 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/1295
 
-#EXTINF:-1,group-title="BEIN SPORT",AE: Abu Dhabi Sports 3
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/11023
 
-#EXTINF:-1,group-title="BEIN SPORT",AE: Abu Dhabi Sports Asia 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/295495
-
-#EXTINF:-1,group-title="BEIN SPORT",AE: Abu Dhabi Sports Asia 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/296837
-
-#EXTINF:-1,group-title="BEIN SPORT",AE: Abu Dhabi Sports Premium 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/296835
-
-#EXTINF:-1,group-title="BEIN SPORT",AE: Dubai Sports
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/22058
-
-#EXTINF:-1,group-title="BEIN SPORT",AE: Dubai Sports 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/43778
-
-#EXTINF:-1,group-title="BEIN SPORT",AE: Dubai Sports 3
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/21998
-
-#EXTINF:-1,group-title="BEIN SPORT",AE: Sharjah Sports TV
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/2938
-
-#EXTINF:-1,group-title="BEIN SPORT",PH: beIN Sports 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/282772
-
-#EXTINF:-1,group-title="BEIN SPORT",PH: beIN Sports 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/282773
-
-#EXTINF:-1,group-title="BEIN SPORT",PH: beIN Sports 3
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/299259
-
-#EXTINF:-1,group-title="BEIN SPORT",FR: beIN Sports 1
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/144
-
-#EXTINF:-1,group-title="BEIN SPORT",FR: beIN Sports 2
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/145
-
-#EXTINF:-1,group-title="BEIN SPORT",FR: beIN Sports 3
-http://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/146
 
 ##########################################
 
