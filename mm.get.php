@@ -63,27 +63,13 @@ http://135.125.109.73:9000/beinsport1_.m3u8
 http://135.125.109.73:9000/beinsport6_.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports 7
-3http://135.125.109.73:9000/beinsport7_.m3u8
+http://135.125.109.73:9000/beinsport7_.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports 8
-3http://135.125.109.73:9000/beinsport8_.m3u8
+http://135.125.109.73:9000/beinsport8_.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORT",QA: beIN Sports 9
-3http://135.125.109.73:9000/beinsport9_.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://135.125.109.73:9000/beinsport9_.m3u8
 
 ##########################################
 
